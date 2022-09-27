@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Dolnośląskie",
+    "code": "pl.ds",
+    "country": "pl"
+  },
+  {
+    "name": "Kujawsko-pomorskie",
+    "code": "pl.kp",
+    "country": "pl"
+  },
+  {
+    "name": "Łódzkie",
+    "code": "pl.ld",
+    "country": "pl"
+  },
+  {
+    "name": "Lubelskie",
+    "code": "pl.lu",
+    "country": "pl"
+  },
+  {
+    "name": "Lubuskie",
+    "code": "pl.lb",
+    "country": "pl"
+  },
+  {
+    "name": "Małopolskie",
+    "code": "pl.ma",
+    "country": "pl"
+  },
+  {
+    "name": "Mazowieckie",
+    "code": "pl.mz",
+    "country": "pl"
+  },
+  {
+    "name": "Opolskie",
+    "code": "pl.op",
+    "country": "pl"
+  },
+  {
+    "name": "Podkarpackie",
+    "code": "pl.pk",
+    "country": "pl"
+  },
+  {
+    "name": "Podlaskie",
+    "code": "pl.pd",
+    "country": "pl"
+  },
+  {
+    "name": "Pomorskie",
+    "code": "pl.pm",
+    "country": "pl"
+  },
+  {
+    "name": "Śląskie",
+    "code": "pl.sl",
+    "country": "pl"
+  },
+  {
+    "name": "Świętokrzyskie",
+    "code": "pl.sk",
+    "country": "pl"
+  },
+  {
+    "name": "Warmińsko-mazurskie",
+    "code": "pl.wn",
+    "country": "pl"
+  },
+  {
+    "name": "Wielkopolskie",
+    "code": "pl.wp",
+    "country": "pl"
+  },
+  {
+    "name": "Zachodniopomorskie",
+    "code": "pl.zp",
+    "country": "pl"
+  }
+]

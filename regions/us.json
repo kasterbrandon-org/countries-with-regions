@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Alabama",
+    "code": "us.al",
+    "country": "us"
+  },
+  {
+    "name": "Alaska",
+    "code": "us.ak",
+    "country": "us"
+  },
+  {
+    "name": "American Samoa",
+    "code": "us.as",
+    "country": "us"
+  },
+  {
+    "name": "Arizona",
+    "code": "us.az",
+    "country": "us"
+  },
+  {
+    "name": "Arkansas",
+    "code": "us.ar",
+    "country": "us"
+  },
+  {
+    "name": "California",
+    "code": "us.ca",
+    "country": "us"
+  },
+  {
+    "name": "Colorado",
+    "code": "us.co",
+    "country": "us"
+  },
+  {
+    "name": "Connecticut",
+    "code": "us.ct",
+    "country": "us"
+  },
+  {
+    "name": "Delaware",
+    "code": "us.de",
+    "country": "us"
+  },
+  {
+    "name": "District of Columbia",
+    "code": "us.dc",
+    "country": "us"
+  },
+  {
+    "name": "Micronesia",
+    "code": "us.fm",
+    "country": "us"
+  },
+  {
+    "name": "Florida",
+    "code": "us.fl",
+    "country": "us"
+  },
+  {
+    "name": "Georgia",
+    "code": "us.ga",
+    "country": "us"
+  },
+  {
+    "name": "Guam",
+    "code": "us.gu",
+    "country": "us"
+  },
+  {
+    "name": "Hawaii",
+    "code": "us.hi",
+    "country": "us"
+  },
+  {
+    "name": "Idaho",
+    "code": "us.id",
+    "country": "us"
+  },
+  {
+    "name": "Illinois",
+    "code": "us.il",
+    "country": "us"
+  },
+  {
+    "name": "Indiana",
+    "code": "us.in",
+    "country": "us"
+  },
+  {
+    "name": "Iowa",
+    "code": "us.ia",
+    "country": "us"
+  },
+  {
+    "name": "Kansas",
+    "code": "us.ks",
+    "country": "us"
+  },
+  {
+    "name": "Kentucky",
+    "code": "us.ky",
+    "country": "us"
+  },
+  {
+    "name": "Louisiana",
+    "code": "us.la",
+    "country": "us"
+  },
+  {
+    "name": "Maine",
+    "code": "us.me",
+    "country": "us"
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "us.mh",
+    "country": "us"
+  },
+  {
+    "name": "Maryland",
+    "code": "us.md",
+    "country": "us"
+  },
+  {
+    "name": "Massachusetts",
+    "code": "us.ma",
+    "country": "us"
+  },
+  {
+    "name": "Michigan",
+    "code": "us.mi",
+    "country": "us"
+  },
+  {
+    "name": "Minnesota",
+    "code": "us.mn",
+    "country": "us"
+  },
+  {
+    "name": "Mississippi",
+    "code": "us.ms",
+    "country": "us"
+  },
+  {
+    "name": "Missouri",
+    "code": "us.mo",
+    "country": "us"
+  },
+  {
+    "name": "Montana",
+    "code": "us.mt",
+    "country": "us"
+  },
+  {
+    "name": "Nebraska",
+    "code": "us.ne",
+    "country": "us"
+  },
+  {
+    "name": "Nevada",
+    "code": "us.nv",
+    "country": "us"
+  },
+  {
+    "name": "New Hampshire",
+    "code": "us.nh",
+    "country": "us"
+  },
+  {
+    "name": "New Jersey",
+    "code": "us.nj",
+    "country": "us"
+  },
+  {
+    "name": "New Mexico",
+    "code": "us.nm",
+    "country": "us"
+  },
+  {
+    "name": "New York",
+    "code": "us.ny",
+    "country": "us"
+  },
+  {
+    "name": "North Carolina",
+    "code": "us.nc",
+    "country": "us"
+  },
+  {
+    "name": "North Dakota",
+    "code": "us.nd",
+    "country": "us"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "code": "us.mp",
+    "country": "us"
+  },
+  {
+    "name": "Ohio",
+    "code": "us.oh",
+    "country": "us"
+  },
+  {
+    "name": "Oklahoma",
+    "code": "us.ok",
+    "country": "us"
+  },
+  {
+    "name": "Oregon",
+    "code": "us.or",
+    "country": "us"
+  },
+  {
+    "name": "Palau",
+    "code": "us.pw",
+    "country": "us"
+  },
+  {
+    "name": "Pennsylvania",
+    "code": "us.pa",
+    "country": "us"
+  },
+  {
+    "name": "Puerto Rico",
+    "code": "us.pr",
+    "country": "us"
+  },
+  {
+    "name": "Rhode Island",
+    "code": "us.ri",
+    "country": "us"
+  },
+  {
+    "name": "South Carolina",
+    "code": "us.sc",
+    "country": "us"
+  },
+  {
+    "name": "South Dakota",
+    "code": "us.sd",
+    "country": "us"
+  },
+  {
+    "name": "Tennessee",
+    "code": "us.tn",
+    "country": "us"
+  },
+  {
+    "name": "Texas",
+    "code": "us.tx",
+    "country": "us"
+  },
+  {
+    "name": "Utah",
+    "code": "us.ut",
+    "country": "us"
+  },
+  {
+    "name": "Vermont",
+    "code": "us.vt",
+    "country": "us"
+  },
+  {
+    "name": "Virgin Islands",
+    "code": "us.vi",
+    "country": "us"
+  },
+  {
+    "name": "Virginia",
+    "code": "us.va",
+    "country": "us"
+  },
+  {
+    "name": "Washington",
+    "code": "us.wa",
+    "country": "us"
+  },
+  {
+    "name": "West Virginia",
+    "code": "us.wv",
+    "country": "us"
+  },
+  {
+    "name": "Wisconsin",
+    "code": "us.wi",
+    "country": "us"
+  },
+  {
+    "name": "Wyoming",
+    "code": "us.wy",
+    "country": "us"
+  },
+  {
+    "name": "Armed Forces Americas",
+    "code": "us.aa",
+    "country": "us"
+  },
+  {
+    "name": "Armed Forces Europe, Canada, Africa and Middle East",
+    "code": "us.ae",
+    "country": "us"
+  },
+  {
+    "name": "Armed Forces Pacific",
+    "code": "us.ap",
+    "country": "us"
+  }
+]

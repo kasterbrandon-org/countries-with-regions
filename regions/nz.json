@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Auckland",
+    "code": "nz.auk",
+    "country": "nz"
+  },
+  {
+    "name": "Bay of Plenty",
+    "code": "nz.bop",
+    "country": "nz"
+  },
+  {
+    "name": "Canterbury",
+    "code": "nz.can",
+    "country": "nz"
+  },
+  {
+    "name": "Gisborne",
+    "code": "nz.gis",
+    "country": "nz"
+  },
+  {
+    "name": "Hawke's Bay",
+    "code": "nz.hkb",
+    "country": "nz"
+  },
+  {
+    "name": "Marlborough",
+    "code": "nz.mbh",
+    "country": "nz"
+  },
+  {
+    "name": "Manawatu-Wanganui",
+    "code": "nz.mwt",
+    "country": "nz"
+  },
+  {
+    "name": "Northland",
+    "code": "nz.ntl",
+    "country": "nz"
+  },
+  {
+    "name": "Nelson",
+    "code": "nz.nsn",
+    "country": "nz"
+  },
+  {
+    "name": "Otago",
+    "code": "nz.ota",
+    "country": "nz"
+  },
+  {
+    "name": "Southland",
+    "code": "nz.stl",
+    "country": "nz"
+  },
+  {
+    "name": "Taranaki",
+    "code": "nz.tki",
+    "country": "nz"
+  },
+  {
+    "name": "Tasman",
+    "code": "nz.tas",
+    "country": "nz"
+  },
+  {
+    "name": "Waikato",
+    "code": "nz.wko",
+    "country": "nz"
+  },
+  {
+    "name": "Wellington",
+    "code": "nz.wgn",
+    "country": "nz"
+  },
+  {
+    "name": "West Coast",
+    "code": "nz.wtc",
+    "country": "nz"
+  },
+  {
+    "name": "Chatham Islands Territory",
+    "code": "nz.cit",
+    "country": "nz"
+  }
+]

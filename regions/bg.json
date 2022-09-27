@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Blagoevgrad",
+    "code": "bg.01",
+    "country": "bg"
+  },
+  {
+    "name": "Burgas",
+    "code": "bg.02",
+    "country": "bg"
+  },
+  {
+    "name": "Dobrich",
+    "code": "bg.08",
+    "country": "bg"
+  },
+  {
+    "name": "Gabrovo",
+    "code": "bg.07",
+    "country": "bg"
+  },
+  {
+    "name": "Jambol",
+    "code": "bg.28",
+    "country": "bg"
+  },
+  {
+    "name": "Khaskovo",
+    "code": "bg.26",
+    "country": "bg"
+  },
+  {
+    "name": "Kjustendil",
+    "code": "bg.10",
+    "country": "bg"
+  },
+  {
+    "name": "Kurdzhali",
+    "code": "bg.09",
+    "country": "bg"
+  },
+  {
+    "name": "Lovech",
+    "code": "bg.11",
+    "country": "bg"
+  },
+  {
+    "name": "Montana",
+    "code": "bg.12",
+    "country": "bg"
+  },
+  {
+    "name": "Pazardzhik",
+    "code": "bg.13",
+    "country": "bg"
+  },
+  {
+    "name": "Pernik",
+    "code": "bg.14",
+    "country": "bg"
+  },
+  {
+    "name": "Pleven",
+    "code": "bg.15",
+    "country": "bg"
+  },
+  {
+    "name": "Plovdiv",
+    "code": "bg.16",
+    "country": "bg"
+  },
+  {
+    "name": "Razgrad",
+    "code": "bg.17",
+    "country": "bg"
+  },
+  {
+    "name": "Ruse",
+    "code": "bg.18",
+    "country": "bg"
+  },
+  {
+    "name": "Shumen",
+    "code": "bg.27",
+    "country": "bg"
+  },
+  {
+    "name": "Silistra",
+    "code": "bg.19",
+    "country": "bg"
+  },
+  {
+    "name": "Sliven",
+    "code": "bg.20",
+    "country": "bg"
+  },
+  {
+    "name": "Smoljan",
+    "code": "bg.21",
+    "country": "bg"
+  },
+  {
+    "name": "Sofija",
+    "code": "bg.23",
+    "country": "bg"
+  },
+  {
+    "name": "Sofija-Grad",
+    "code": "bg.22",
+    "country": "bg"
+  },
+  {
+    "name": "Stara Zagora",
+    "code": "bg.24",
+    "country": "bg"
+  },
+  {
+    "name": "Turgovishhe",
+    "code": "bg.25",
+    "country": "bg"
+  },
+  {
+    "name": "Varna",
+    "code": "bg.03",
+    "country": "bg"
+  },
+  {
+    "name": "Veliko Turnovo",
+    "code": "bg.04",
+    "country": "bg"
+  },
+  {
+    "name": "Vidin",
+    "code": "bg.05",
+    "country": "bg"
+  },
+  {
+    "name": "Vraca",
+    "code": "bg.06",
+    "country": "bg"
+  }
+]

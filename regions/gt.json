@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Alta Verapaz",
+    "code": "gt.av",
+    "country": "gt"
+  },
+  {
+    "name": "Baja Verapaz",
+    "code": "gt.bv",
+    "country": "gt"
+  },
+  {
+    "name": "Chimaltenango",
+    "code": "gt.cm",
+    "country": "gt"
+  },
+  {
+    "name": "Chiquimula",
+    "code": "gt.cq",
+    "country": "gt"
+  },
+  {
+    "name": "El Progreso",
+    "code": "gt.pr",
+    "country": "gt"
+  },
+  {
+    "name": "Escuintla",
+    "code": "gt.es",
+    "country": "gt"
+  },
+  {
+    "name": "Guatemala",
+    "code": "gt.gu",
+    "country": "gt"
+  },
+  {
+    "name": "Huehuetenango",
+    "code": "gt.hu",
+    "country": "gt"
+  },
+  {
+    "name": "Izabal",
+    "code": "gt.iz",
+    "country": "gt"
+  },
+  {
+    "name": "Jalapa",
+    "code": "gt.ja",
+    "country": "gt"
+  },
+  {
+    "name": "Jutiapa",
+    "code": "gt.ju",
+    "country": "gt"
+  },
+  {
+    "name": "Petén",
+    "code": "gt.pe",
+    "country": "gt"
+  },
+  {
+    "name": "Quetzaltenango",
+    "code": "gt.qz",
+    "country": "gt"
+  },
+  {
+    "name": "Quiché",
+    "code": "gt.qc",
+    "country": "gt"
+  },
+  {
+    "name": "Retalhuleu",
+    "code": "gt.re",
+    "country": "gt"
+  },
+  {
+    "name": "Sacatepéquez",
+    "code": "gt.sa",
+    "country": "gt"
+  },
+  {
+    "name": "San Marcos",
+    "code": "gt.sm",
+    "country": "gt"
+  },
+  {
+    "name": "Santa Rosa",
+    "code": "gt.sr",
+    "country": "gt"
+  },
+  {
+    "name": "Sololá",
+    "code": "gt.so",
+    "country": "gt"
+  },
+  {
+    "name": "Suchitepéquez",
+    "code": "gt.su",
+    "country": "gt"
+  },
+  {
+    "name": "Totonicapán",
+    "code": "gt.to",
+    "country": "gt"
+  },
+  {
+    "name": "Zacapa",
+    "code": "gt.za",
+    "country": "gt"
+  }
+]

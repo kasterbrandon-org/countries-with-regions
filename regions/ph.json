@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Abra",
+    "code": "ph.abr",
+    "country": "ph"
+  },
+  {
+    "name": "Agusan del Norte",
+    "code": "ph.agn",
+    "country": "ph"
+  },
+  {
+    "name": "Agusan del Sur",
+    "code": "ph.ags",
+    "country": "ph"
+  },
+  {
+    "name": "Aklan",
+    "code": "ph.akl",
+    "country": "ph"
+  },
+  {
+    "name": "Albay",
+    "code": "ph.alb",
+    "country": "ph"
+  },
+  {
+    "name": "Antique",
+    "code": "ph.ant",
+    "country": "ph"
+  },
+  {
+    "name": "Apayao",
+    "code": "ph.apa",
+    "country": "ph"
+  },
+  {
+    "name": "Aurora",
+    "code": "ph.aur",
+    "country": "ph"
+  },
+  {
+    "name": "Basilan",
+    "code": "ph.bas",
+    "country": "ph"
+  },
+  {
+    "name": "Bataan",
+    "code": "ph.ban",
+    "country": "ph"
+  },
+  {
+    "name": "Batanes",
+    "code": "ph.btn",
+    "country": "ph"
+  },
+  {
+    "name": "Batangas",
+    "code": "ph.btg",
+    "country": "ph"
+  },
+  {
+    "name": "Benguet",
+    "code": "ph.ben",
+    "country": "ph"
+  },
+  {
+    "name": "Biliran",
+    "code": "ph.bil",
+    "country": "ph"
+  },
+  {
+    "name": "Bohol",
+    "code": "ph.boh",
+    "country": "ph"
+  },
+  {
+    "name": "Bukidnon",
+    "code": "ph.buk",
+    "country": "ph"
+  },
+  {
+    "name": "Bulacan",
+    "code": "ph.bul",
+    "country": "ph"
+  },
+  {
+    "name": "Cagayan",
+    "code": "ph.cag",
+    "country": "ph"
+  },
+  {
+    "name": "Camarines Norte",
+    "code": "ph.can",
+    "country": "ph"
+  },
+  {
+    "name": "Camarines Sur",
+    "code": "ph.cas",
+    "country": "ph"
+  },
+  {
+    "name": "Camiguin",
+    "code": "ph.cam",
+    "country": "ph"
+  },
+  {
+    "name": "Capiz",
+    "code": "ph.cap",
+    "country": "ph"
+  },
+  {
+    "name": "Catanduanes",
+    "code": "ph.cat",
+    "country": "ph"
+  },
+  {
+    "name": "Cavite",
+    "code": "ph.cav",
+    "country": "ph"
+  },
+  {
+    "name": "Cebu",
+    "code": "ph.ceb",
+    "country": "ph"
+  },
+  {
+    "name": "Compostela",
+    "code": "ph.com",
+    "country": "ph"
+  },
+  {
+    "name": "Cotabato",
+    "code": "ph.nco",
+    "country": "ph"
+  },
+  {
+    "name": "Davao del Norte",
+    "code": "ph.dav",
+    "country": "ph"
+  },
+  {
+    "name": "Davao del Sur",
+    "code": "ph.das",
+    "country": "ph"
+  },
+  {
+    "name": "Davao Occidental",
+    "code": "ph.dvo",
+    "country": "ph"
+  },
+  {
+    "name": "Davao Oriental",
+    "code": "ph.dao",
+    "country": "ph"
+  },
+  {
+    "name": "Dinagat Islands",
+    "code": "ph.din",
+    "country": "ph"
+  },
+  {
+    "name": "Eastern Samar",
+    "code": "ph.eas",
+    "country": "ph"
+  },
+  {
+    "name": "Guimaras",
+    "code": "ph.gui",
+    "country": "ph"
+  },
+  {
+    "name": "Ifugao",
+    "code": "ph.ifu",
+    "country": "ph"
+  },
+  {
+    "name": "Ilocos Norte",
+    "code": "ph.iln",
+    "country": "ph"
+  },
+  {
+    "name": "Ilocos Sur",
+    "code": "ph.ils",
+    "country": "ph"
+  },
+  {
+    "name": "Iloilo",
+    "code": "ph.ili",
+    "country": "ph"
+  },
+  {
+    "name": "Isabela",
+    "code": "ph.isa",
+    "country": "ph"
+  },
+  {
+    "name": "Kalinga",
+    "code": "ph.kal",
+    "country": "ph"
+  },
+  {
+    "name": "La Union",
+    "code": "ph.lun",
+    "country": "ph"
+  },
+  {
+    "name": "Laguna",
+    "code": "ph.lag",
+    "country": "ph"
+  },
+  {
+    "name": "Lanao del Norte",
+    "code": "ph.lan",
+    "country": "ph"
+  },
+  {
+    "name": "Lanao del Sur",
+    "code": "ph.las",
+    "country": "ph"
+  },
+  {
+    "name": "Leyte",
+    "code": "ph.ley",
+    "country": "ph"
+  },
+  {
+    "name": "Maguindanao",
+    "code": "ph.mag",
+    "country": "ph"
+  },
+  {
+    "name": "Masbate",
+    "code": "ph.mas",
+    "country": "ph"
+  },
+  {
+    "name": "Metro Manila",
+    "code": "ph.00",
+    "country": "ph"
+  },
+  {
+    "name": "Mindoro Occidental",
+    "code": "ph.mdc",
+    "country": "ph"
+  },
+  {
+    "name": "Mindoro Oriental",
+    "code": "ph.mdr",
+    "country": "ph"
+  },
+  {
+    "name": "Misamis Occidental",
+    "code": "ph.msc",
+    "country": "ph"
+  },
+  {
+    "name": "Misamis Oriental",
+    "code": "ph.msr",
+    "country": "ph"
+  },
+  {
+    "name": "Mountain Province",
+    "code": "ph.mou",
+    "country": "ph"
+  },
+  {
+    "name": "Negros Occidental",
+    "code": "ph.nec",
+    "country": "ph"
+  },
+  {
+    "name": "Negros Oriental",
+    "code": "ph.ner",
+    "country": "ph"
+  },
+  {
+    "name": "Northern Samar",
+    "code": "ph.nsa",
+    "country": "ph"
+  },
+  {
+    "name": "Nueva Ecija",
+    "code": "ph.nue",
+    "country": "ph"
+  },
+  {
+    "name": "Nueva Vizcaya",
+    "code": "ph.nuv",
+    "country": "ph"
+  },
+  {
+    "name": "Palawan",
+    "code": "ph.plw",
+    "country": "ph"
+  },
+  {
+    "name": "Pampanga",
+    "code": "ph.pam",
+    "country": "ph"
+  },
+  {
+    "name": "Pangasinan",
+    "code": "ph.pan",
+    "country": "ph"
+  },
+  {
+    "name": "Quezon",
+    "code": "ph.que",
+    "country": "ph"
+  },
+  {
+    "name": "Quirino",
+    "code": "ph.qui",
+    "country": "ph"
+  },
+  {
+    "name": "Rizal",
+    "code": "ph.riz",
+    "country": "ph"
+  },
+  {
+    "name": "Romblon",
+    "code": "ph.rom",
+    "country": "ph"
+  },
+  {
+    "name": "Samar",
+    "code": "ph.wsa",
+    "country": "ph"
+  },
+  {
+    "name": "Sarangani",
+    "code": "ph.sar",
+    "country": "ph"
+  },
+  {
+    "name": "Siquijor",
+    "code": "ph.sig",
+    "country": "ph"
+  },
+  {
+    "name": "Sorsogon",
+    "code": "ph.sor",
+    "country": "ph"
+  },
+  {
+    "name": "Southern Leyte",
+    "code": "ph.sle",
+    "country": "ph"
+  },
+  {
+    "name": "Sultan Kudarat",
+    "code": "ph.auk",
+    "country": "ph"
+  },
+  {
+    "name": "Sulu",
+    "code": "ph.slu",
+    "country": "ph"
+  },
+  {
+    "name": "Surigao del Norte",
+    "code": "ph.sun",
+    "country": "ph"
+  },
+  {
+    "name": "Surigao del Sur",
+    "code": "ph.sur",
+    "country": "ph"
+  },
+  {
+    "name": "Tarlac",
+    "code": "ph.tar",
+    "country": "ph"
+  },
+  {
+    "name": "Tawi-Tawi",
+    "code": "ph.taw",
+    "country": "ph"
+  },
+  {
+    "name": "Zambales",
+    "code": "ph.zmb",
+    "country": "ph"
+  },
+  {
+    "name": "Zamboanga del Norte",
+    "code": "ph.zan",
+    "country": "ph"
+  },
+  {
+    "name": "Zamboanga del Sur",
+    "code": "ph.zas",
+    "country": "ph"
+  },
+  {
+    "name": "Zamboanga Sibugay",
+    "code": "ph.zsi",
+    "country": "ph"
+  }
+]

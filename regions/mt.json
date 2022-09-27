@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Attard",
+    "code": "mt.01",
+    "country": "mt"
+  },
+  {
+    "name": "Balzan",
+    "code": "mt.02",
+    "country": "mt"
+  },
+  {
+    "name": "Birgu",
+    "code": "mt.03",
+    "country": "mt"
+  },
+  {
+    "name": "Birkirkara",
+    "code": "mt.04",
+    "country": "mt"
+  },
+  {
+    "name": "Birżebbuġa",
+    "code": "mt.05",
+    "country": "mt"
+  },
+  {
+    "name": "Bormla",
+    "code": "mt.06",
+    "country": "mt"
+  },
+  {
+    "name": "Dingli",
+    "code": "mt.07",
+    "country": "mt"
+  },
+  {
+    "name": "Fgura",
+    "code": "mt.08",
+    "country": "mt"
+  },
+  {
+    "name": "Floriana",
+    "code": "mt.09",
+    "country": "mt"
+  },
+  {
+    "name": "Fontana",
+    "code": "mt.10",
+    "country": "mt"
+  },
+  {
+    "name": "Guda",
+    "code": "mt.11",
+    "country": "mt"
+  },
+  {
+    "name": "Gżira",
+    "code": "mt.12",
+    "country": "mt"
+  },
+  {
+    "name": "Għajnsielem",
+    "code": "mt.13",
+    "country": "mt"
+  },
+  {
+    "name": "Għarb",
+    "code": "mt.14",
+    "country": "mt"
+  },
+  {
+    "name": "Għargħur",
+    "code": "mt.15",
+    "country": "mt"
+  },
+  {
+    "name": "Għasri",
+    "code": "mt.16",
+    "country": "mt"
+  },
+  {
+    "name": "Għaxaq",
+    "code": "mt.17",
+    "country": "mt"
+  },
+  {
+    "name": "Ħamrun",
+    "code": "mt.18",
+    "country": "mt"
+  },
+  {
+    "name": "Iklin",
+    "code": "mt.19",
+    "country": "mt"
+  },
+  {
+    "name": "Isla",
+    "code": "mt.20",
+    "country": "mt"
+  },
+  {
+    "name": "Kalkara",
+    "code": "mt.21",
+    "country": "mt"
+  },
+  {
+    "name": "Kerċem",
+    "code": "mt.22",
+    "country": "mt"
+  },
+  {
+    "name": "Kirkop",
+    "code": "mt.23",
+    "country": "mt"
+  },
+  {
+    "name": "Lija",
+    "code": "mt.24",
+    "country": "mt"
+  },
+  {
+    "name": "Luqa",
+    "code": "mt.25",
+    "country": "mt"
+  },
+  {
+    "name": "Marsa",
+    "code": "mt.26",
+    "country": "mt"
+  },
+  {
+    "name": "Marsaskala",
+    "code": "mt.27",
+    "country": "mt"
+  },
+  {
+    "name": "Marsaxlokk",
+    "code": "mt.28",
+    "country": "mt"
+  },
+  {
+    "name": "Mdina",
+    "code": "mt.29",
+    "country": "mt"
+  },
+  {
+    "name": "Mellieħa",
+    "code": "mt.30",
+    "country": "mt"
+  },
+  {
+    "name": "Mġarr",
+    "code": "mt.31",
+    "country": "mt"
+  },
+  {
+    "name": "Mosta",
+    "code": "mt.32",
+    "country": "mt"
+  },
+  {
+    "name": "Mqabba",
+    "code": "mt.33",
+    "country": "mt"
+  },
+  {
+    "name": "Msida",
+    "code": "mt.34",
+    "country": "mt"
+  },
+  {
+    "name": "Mtarfa",
+    "code": "mt.35",
+    "country": "mt"
+  },
+  {
+    "name": "Munxar",
+    "code": "mt.36",
+    "country": "mt"
+  },
+  {
+    "name": "Nadur",
+    "code": "mt.37",
+    "country": "mt"
+  },
+  {
+    "name": "Naxxar",
+    "code": "mt.38",
+    "country": "mt"
+  },
+  {
+    "name": "Paola",
+    "code": "mt.39",
+    "country": "mt"
+  },
+  {
+    "name": "Pembroke",
+    "code": "mt.40",
+    "country": "mt"
+  },
+  {
+    "name": "Pietà",
+    "code": "mt.41",
+    "country": "mt"
+  },
+  {
+    "name": "Qala",
+    "code": "mt.42",
+    "country": "mt"
+  },
+  {
+    "name": "Qormi",
+    "code": "mt.43",
+    "country": "mt"
+  },
+  {
+    "name": "Qrendi",
+    "code": "mt.44",
+    "country": "mt"
+  },
+  {
+    "name": "Rabat Għawdex",
+    "code": "mt.45",
+    "country": "mt"
+  },
+  {
+    "name": "Rabat Malta",
+    "code": "mt.46",
+    "country": "mt"
+  },
+  {
+    "name": "Safi",
+    "code": "mt.47",
+    "country": "mt"
+  },
+  {
+    "name": "San Ġiljan",
+    "code": "mt.48",
+    "country": "mt"
+  },
+  {
+    "name": "San Ġwann",
+    "code": "mt.49",
+    "country": "mt"
+  },
+  {
+    "name": "San Lawrenz",
+    "code": "mt.50",
+    "country": "mt"
+  },
+  {
+    "name": "San Pawl il-Baħar",
+    "code": "mt.51",
+    "country": "mt"
+  },
+  {
+    "name": "Sannat",
+    "code": "mt.52",
+    "country": "mt"
+  },
+  {
+    "name": "Santa Luċija",
+    "code": "mt.53",
+    "country": "mt"
+  },
+  {
+    "name": "Santa Venera",
+    "code": "mt.54",
+    "country": "mt"
+  },
+  {
+    "name": "Siġġiewi",
+    "code": "mt.55",
+    "country": "mt"
+  },
+  {
+    "name": "Sliema",
+    "code": "mt.56",
+    "country": "mt"
+  },
+  {
+    "name": "Swieqi",
+    "code": "mt.57",
+    "country": "mt"
+  },
+  {
+    "name": "Tai Xbiex",
+    "code": "mt.58",
+    "country": "mt"
+  },
+  {
+    "name": "Tarzien",
+    "code": "mt.59",
+    "country": "mt"
+  },
+  {
+    "name": "Valletta",
+    "code": "mt.60",
+    "country": "mt"
+  },
+  {
+    "name": "Xagħra",
+    "code": "mt.61",
+    "country": "mt"
+  },
+  {
+    "name": "Xewkija",
+    "code": "mt.62",
+    "country": "mt"
+  },
+  {
+    "name": "Xgħajra",
+    "code": "mt.63",
+    "country": "mt"
+  },
+  {
+    "name": "Żabbar",
+    "code": "mt.64",
+    "country": "mt"
+  },
+  {
+    "name": "Żebbuġ Għawde",
+    "code": "mt.65",
+    "country": "mt"
+  },
+  {
+    "name": "Żebbuġ Malta",
+    "code": "mt.66",
+    "country": "mt"
+  },
+  {
+    "name": "Żejtun",
+    "code": "mt.67",
+    "country": "mt"
+  },
+  {
+    "name": "Żurrieq",
+    "code": "mt.68",
+    "country": "mt"
+  }
+]

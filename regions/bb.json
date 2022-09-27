@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Christ Church",
+    "code": "bb.01",
+    "country": "bb"
+  },
+  {
+    "name": "Saint Andrew",
+    "code": "bb.02",
+    "country": "bb"
+  },
+  {
+    "name": "Saint George",
+    "code": "bb.03",
+    "country": "bb"
+  },
+  {
+    "name": "Saint James",
+    "code": "bb.04",
+    "country": "bb"
+  },
+  {
+    "name": "Saint John",
+    "code": "bb.05",
+    "country": "bb"
+  },
+  {
+    "name": "Saint Joseph",
+    "code": "bb.06",
+    "country": "bb"
+  },
+  {
+    "name": "Saint Lucy",
+    "code": "bb.07",
+    "country": "bb"
+  },
+  {
+    "name": "Saint Michael",
+    "code": "bb.08",
+    "country": "bb"
+  },
+  {
+    "name": "Saint Peter",
+    "code": "bb.09",
+    "country": "bb"
+  },
+  {
+    "name": "Saint Philip",
+    "code": "bb.10",
+    "country": "bb"
+  },
+  {
+    "name": "Saint Thomas",
+    "code": "bb.11",
+    "country": "bb"
+  }
+]

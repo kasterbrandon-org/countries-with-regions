@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Barisal",
+    "code": "bd.a",
+    "country": "bd"
+  },
+  {
+    "name": "Chittagong",
+    "code": "bd.b",
+    "country": "bd"
+  },
+  {
+    "name": "Dhaka",
+    "code": "bd.c",
+    "country": "bd"
+  },
+  {
+    "name": "Khulna",
+    "code": "bd.d",
+    "country": "bd"
+  },
+  {
+    "name": "Mymensingh",
+    "code": "bd.m",
+    "country": "bd"
+  },
+  {
+    "name": "Rajshahi",
+    "code": "bd.e",
+    "country": "bd"
+  },
+  {
+    "name": "Rangpur",
+    "code": "bd.f",
+    "country": "bd"
+  },
+  {
+    "name": "Sylhet",
+    "code": "bd.g",
+    "country": "bd"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Belize District",
+    "code": "bz.bz",
+    "country": "bz"
+  },
+  {
+    "name": "Cayo District",
+    "code": "bz.cy",
+    "country": "bz"
+  },
+  {
+    "name": "Corozal District",
+    "code": "bz.czl",
+    "country": "bz"
+  },
+  {
+    "name": "Orange Walk District",
+    "code": "bz.ow",
+    "country": "bz"
+  },
+  {
+    "name": "Stann Creek District",
+    "code": "bz.sc",
+    "country": "bz"
+  },
+  {
+    "name": "Toledo District",
+    "code": "bz.tol",
+    "country": "bz"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bouenza",
+    "code": "cg.11",
+    "country": "cg"
+  },
+  {
+    "name": "Brazzaville",
+    "code": "cg.bzv",
+    "country": "cg"
+  },
+  {
+    "name": "Cuvette",
+    "code": "cg.8",
+    "country": "cg"
+  },
+  {
+    "name": "Cuvette-Ouest",
+    "code": "cg.15",
+    "country": "cg"
+  },
+  {
+    "name": "Kouilou",
+    "code": "cg.5",
+    "country": "cg"
+  },
+  {
+    "name": "Lékoumou",
+    "code": "cg.2",
+    "country": "cg"
+  },
+  {
+    "name": "Likouala",
+    "code": "cg.7",
+    "country": "cg"
+  },
+  {
+    "name": "Niari",
+    "code": "cg.9",
+    "country": "cg"
+  },
+  {
+    "name": "Plateaux",
+    "code": "cg.14",
+    "country": "cg"
+  },
+  {
+    "name": "Pointe-Noire",
+    "code": "cg.16",
+    "country": "cg"
+  },
+  {
+    "name": "Pool",
+    "code": "cg.12",
+    "country": "cg"
+  },
+  {
+    "name": "Sangha",
+    "code": "cg.13",
+    "country": "cg"
+  }
+]

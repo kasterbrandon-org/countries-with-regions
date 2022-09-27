@@ -1,0 +1,6018 @@
+{
+  "en": [
+    {
+      "aw": "Aruba"
+    },
+    {
+      "af": "Afghanistan"
+    },
+    {
+      "ao": "Angola"
+    },
+    {
+      "ai": "Anguilla"
+    },
+    {
+      "ax": "Åland Islands"
+    },
+    {
+      "al": "Albania"
+    },
+    {
+      "ad": "Andorra"
+    },
+    {
+      "ae": "United Arab Emirates"
+    },
+    {
+      "ar": "Argentina"
+    },
+    {
+      "am": "Armenia"
+    },
+    {
+      "as": "American Samoa"
+    },
+    {
+      "aq": "Antarctica"
+    },
+    {
+      "tf": "French Southern and Antarctic Lands"
+    },
+    {
+      "ag": "Antigua and Barbuda"
+    },
+    {
+      "au": "Australia"
+    },
+    {
+      "at": "Austria"
+    },
+    {
+      "az": "Azerbaijan"
+    },
+    {
+      "bi": "Burundi"
+    },
+    {
+      "be": "Belgium"
+    },
+    {
+      "bj": "Benin"
+    },
+    {
+      "bf": "Burkina Faso"
+    },
+    {
+      "bd": "Bangladesh"
+    },
+    {
+      "bg": "Bulgaria"
+    },
+    {
+      "bh": "Bahrain"
+    },
+    {
+      "bs": "Bahamas"
+    },
+    {
+      "ba": "Bosnia and Herzegovina"
+    },
+    {
+      "bl": "Saint Barthélemy"
+    },
+    {
+      "sh": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+      "by": "Belarus"
+    },
+    {
+      "bz": "Belize"
+    },
+    {
+      "bm": "Bermuda"
+    },
+    {
+      "bo": "Bolivia"
+    },
+    {
+      "bq": "Caribbean Netherlands"
+    },
+    {
+      "br": "Brazil"
+    },
+    {
+      "bb": "Barbados"
+    },
+    {
+      "bn": "Brunei"
+    },
+    {
+      "bt": "Bhutan"
+    },
+    {
+      "bv": "Bouvet Island"
+    },
+    {
+      "bw": "Botswana"
+    },
+    {
+      "cf": "Central African Republic"
+    },
+    {
+      "ca": "Canada"
+    },
+    {
+      "cc": "Cocos (Keeling) Islands"
+    },
+    {
+      "ch": "Switzerland"
+    },
+    {
+      "cl": "Chile"
+    },
+    {
+      "cn": "China"
+    },
+    {
+      "ci": "Ivory Coast"
+    },
+    {
+      "cm": "Cameroon"
+    },
+    {
+      "cd": "DR Congo"
+    },
+    {
+      "cg": "Republic of the Congo"
+    },
+    {
+      "ck": "Cook Islands"
+    },
+    {
+      "co": "Colombia"
+    },
+    {
+      "km": "Comoros"
+    },
+    {
+      "cv": "Cape Verde"
+    },
+    {
+      "cr": "Costa Rica"
+    },
+    {
+      "cu": "Cuba"
+    },
+    {
+      "cw": "Curaçao"
+    },
+    {
+      "cx": "Christmas Island"
+    },
+    {
+      "ky": "Cayman Islands"
+    },
+    {
+      "cy": "Cyprus"
+    },
+    {
+      "cz": "Czechia"
+    },
+    {
+      "de": "Germany"
+    },
+    {
+      "dj": "Djibouti"
+    },
+    {
+      "dm": "Dominica"
+    },
+    {
+      "dk": "Denmark"
+    },
+    {
+      "do": "Dominican Republic"
+    },
+    {
+      "dz": "Algeria"
+    },
+    {
+      "ec": "Ecuador"
+    },
+    {
+      "eg": "Egypt"
+    },
+    {
+      "er": "Eritrea"
+    },
+    {
+      "eh": "Western Sahara"
+    },
+    {
+      "es": "Spain"
+    },
+    {
+      "ee": "Estonia"
+    },
+    {
+      "et": "Ethiopia"
+    },
+    {
+      "fi": "Finland"
+    },
+    {
+      "fj": "Fiji"
+    },
+    {
+      "fk": "Falkland Islands"
+    },
+    {
+      "fr": "France"
+    },
+    {
+      "fo": "Faroe Islands"
+    },
+    {
+      "fm": "Micronesia"
+    },
+    {
+      "ga": "Gabon"
+    },
+    {
+      "gb": "United Kingdom"
+    },
+    {
+      "ge": "Georgia"
+    },
+    {
+      "gg": "Guernsey"
+    },
+    {
+      "gh": "Ghana"
+    },
+    {
+      "gi": "Gibraltar"
+    },
+    {
+      "gn": "Guinea"
+    },
+    {
+      "gp": "Guadeloupe"
+    },
+    {
+      "gm": "Gambia"
+    },
+    {
+      "gw": "Guinea-Bissau"
+    },
+    {
+      "gq": "Equatorial Guinea"
+    },
+    {
+      "gr": "Greece"
+    },
+    {
+      "gd": "Grenada"
+    },
+    {
+      "gl": "Greenland"
+    },
+    {
+      "gt": "Guatemala"
+    },
+    {
+      "gf": "French Guiana"
+    },
+    {
+      "gu": "Guam"
+    },
+    {
+      "gy": "Guyana"
+    },
+    {
+      "hk": "Hong Kong"
+    },
+    {
+      "hm": "Heard Island and McDonald Islands"
+    },
+    {
+      "hn": "Honduras"
+    },
+    {
+      "hr": "Croatia"
+    },
+    {
+      "ht": "Haiti"
+    },
+    {
+      "hu": "Hungary"
+    },
+    {
+      "id": "Indonesia"
+    },
+    {
+      "im": "Isle of Man"
+    },
+    {
+      "in": "India"
+    },
+    {
+      "io": "British Indian Ocean Territory"
+    },
+    {
+      "ie": "Ireland"
+    },
+    {
+      "ir": "Iran"
+    },
+    {
+      "iq": "Iraq"
+    },
+    {
+      "is": "Iceland"
+    },
+    {
+      "il": "Israel"
+    },
+    {
+      "it": "Italy"
+    },
+    {
+      "jm": "Jamaica"
+    },
+    {
+      "je": "Jersey"
+    },
+    {
+      "jo": "Jordan"
+    },
+    {
+      "jp": "Japan"
+    },
+    {
+      "kz": "Kazakhstan"
+    },
+    {
+      "ke": "Kenya"
+    },
+    {
+      "kg": "Kyrgyzstan"
+    },
+    {
+      "kh": "Cambodia"
+    },
+    {
+      "ki": "Kiribati"
+    },
+    {
+      "kn": "Saint Kitts and Nevis"
+    },
+    {
+      "kr": "South Korea"
+    },
+    {
+      "xk": "Kosovo"
+    },
+    {
+      "kw": "Kuwait"
+    },
+    {
+      "la": "Laos"
+    },
+    {
+      "lb": "Lebanon"
+    },
+    {
+      "lr": "Liberia"
+    },
+    {
+      "ly": "Libya"
+    },
+    {
+      "lc": "Saint Lucia"
+    },
+    {
+      "li": "Liechtenstein"
+    },
+    {
+      "lk": "Sri Lanka"
+    },
+    {
+      "ls": "Lesotho"
+    },
+    {
+      "lt": "Lithuania"
+    },
+    {
+      "lu": "Luxembourg"
+    },
+    {
+      "lv": "Latvia"
+    },
+    {
+      "mo": "Macau"
+    },
+    {
+      "mf": "Saint Martin"
+    },
+    {
+      "ma": "Morocco"
+    },
+    {
+      "mc": "Monaco"
+    },
+    {
+      "md": "Moldova"
+    },
+    {
+      "mg": "Madagascar"
+    },
+    {
+      "mv": "Maldives"
+    },
+    {
+      "mx": "Mexico"
+    },
+    {
+      "mh": "Marshall Islands"
+    },
+    {
+      "mk": "North Macedonia"
+    },
+    {
+      "ml": "Mali"
+    },
+    {
+      "mt": "Malta"
+    },
+    {
+      "mm": "Myanmar"
+    },
+    {
+      "me": "Montenegro"
+    },
+    {
+      "mn": "Mongolia"
+    },
+    {
+      "mp": "Northern Mariana Islands"
+    },
+    {
+      "mz": "Mozambique"
+    },
+    {
+      "mr": "Mauritania"
+    },
+    {
+      "ms": "Montserrat"
+    },
+    {
+      "mq": "Martinique"
+    },
+    {
+      "mu": "Mauritius"
+    },
+    {
+      "mw": "Malawi"
+    },
+    {
+      "my": "Malaysia"
+    },
+    {
+      "yt": "Mayotte"
+    },
+    {
+      "na": "Namibia"
+    },
+    {
+      "nc": "New Caledonia"
+    },
+    {
+      "ne": "Niger"
+    },
+    {
+      "nf": "Norfolk Island"
+    },
+    {
+      "ng": "Nigeria"
+    },
+    {
+      "ni": "Nicaragua"
+    },
+    {
+      "nu": "Niue"
+    },
+    {
+      "nl": "Netherlands"
+    },
+    {
+      "no": "Norway"
+    },
+    {
+      "np": "Nepal"
+    },
+    {
+      "nr": "Nauru"
+    },
+    {
+      "nz": "New Zealand"
+    },
+    {
+      "om": "Oman"
+    },
+    {
+      "pk": "Pakistan"
+    },
+    {
+      "pa": "Panama"
+    },
+    {
+      "pn": "Pitcairn Islands"
+    },
+    {
+      "pe": "Peru"
+    },
+    {
+      "ph": "Philippines"
+    },
+    {
+      "pw": "Palau"
+    },
+    {
+      "pg": "Papua New Guinea"
+    },
+    {
+      "pl": "Poland"
+    },
+    {
+      "pr": "Puerto Rico"
+    },
+    {
+      "kp": "North Korea"
+    },
+    {
+      "pt": "Portugal"
+    },
+    {
+      "py": "Paraguay"
+    },
+    {
+      "ps": "Palestine"
+    },
+    {
+      "pf": "French Polynesia"
+    },
+    {
+      "qa": "Qatar"
+    },
+    {
+      "re": "Réunion"
+    },
+    {
+      "ro": "Romania"
+    },
+    {
+      "ru": "Russia"
+    },
+    {
+      "rw": "Rwanda"
+    },
+    {
+      "sa": "Saudi Arabia"
+    },
+    {
+      "sd": "Sudan"
+    },
+    {
+      "sn": "Senegal"
+    },
+    {
+      "sg": "Singapore"
+    },
+    {
+      "gs": "South Georgia"
+    },
+    {
+      "sj": "Svalbard and Jan Mayen"
+    },
+    {
+      "sb": "Solomon Islands"
+    },
+    {
+      "sl": "Sierra Leone"
+    },
+    {
+      "sv": "El Salvador"
+    },
+    {
+      "sm": "San Marino"
+    },
+    {
+      "so": "Somalia"
+    },
+    {
+      "pm": "Saint Pierre and Miquelon"
+    },
+    {
+      "rs": "Serbia"
+    },
+    {
+      "ss": "South Sudan"
+    },
+    {
+      "st": "São Tomé and Príncipe"
+    },
+    {
+      "sr": "Suriname"
+    },
+    {
+      "sk": "Slovakia"
+    },
+    {
+      "si": "Slovenia"
+    },
+    {
+      "se": "Sweden"
+    },
+    {
+      "sz": "Eswatini"
+    },
+    {
+      "sx": "Sint Maarten"
+    },
+    {
+      "sc": "Seychelles"
+    },
+    {
+      "sy": "Syria"
+    },
+    {
+      "tc": "Turks and Caicos Islands"
+    },
+    {
+      "td": "Chad"
+    },
+    {
+      "tg": "Togo"
+    },
+    {
+      "th": "Thailand"
+    },
+    {
+      "tj": "Tajikistan"
+    },
+    {
+      "tk": "Tokelau"
+    },
+    {
+      "tm": "Turkmenistan"
+    },
+    {
+      "tl": "Timor-Leste"
+    },
+    {
+      "to": "Tonga"
+    },
+    {
+      "tt": "Trinidad and Tobago"
+    },
+    {
+      "tn": "Tunisia"
+    },
+    {
+      "tr": "Turkey"
+    },
+    {
+      "tv": "Tuvalu"
+    },
+    {
+      "tw": "Taiwan"
+    },
+    {
+      "tz": "Tanzania"
+    },
+    {
+      "ug": "Uganda"
+    },
+    {
+      "ua": "Ukraine"
+    },
+    {
+      "um": "United States Minor Outlying Islands"
+    },
+    {
+      "uy": "Uruguay"
+    },
+    {
+      "us": "United States"
+    },
+    {
+      "uz": "Uzbekistan"
+    },
+    {
+      "va": "Vatican City"
+    },
+    {
+      "vc": "Saint Vincent and the Grenadines"
+    },
+    {
+      "ve": "Venezuela"
+    },
+    {
+      "vg": "British Virgin Islands"
+    },
+    {
+      "vi": "United States Virgin Islands"
+    },
+    {
+      "vn": "Vietnam"
+    },
+    {
+      "vu": "Vanuatu"
+    },
+    {
+      "wf": "Wallis and Futuna"
+    },
+    {
+      "ws": "Samoa"
+    },
+    {
+      "ye": "Yemen"
+    },
+    {
+      "za": "South Africa"
+    },
+    {
+      "zm": "Zambia"
+    },
+    {
+      "zw": "Zimbabwe"
+    }
+  ],
+  "es": [
+    {
+      "aw": "Aruba"
+    },
+    {
+      "af": "Afghanistan"
+    },
+    {
+      "ao": "Angola"
+    },
+    {
+      "ai": "Anguilla"
+    },
+    {
+      "ax": "Åland Islands"
+    },
+    {
+      "al": "Albania"
+    },
+    {
+      "ad": "Andorra"
+    },
+    {
+      "ae": "United Arab Emirates"
+    },
+    {
+      "ar": "Argentina"
+    },
+    {
+      "am": "Armenia"
+    },
+    {
+      "as": "American Samoa"
+    },
+    {
+      "aq": "Antarctica"
+    },
+    {
+      "tf": "French Southern and Antarctic Lands"
+    },
+    {
+      "ag": "Antigua and Barbuda"
+    },
+    {
+      "au": "Australia"
+    },
+    {
+      "at": "Austria"
+    },
+    {
+      "az": "Azerbaijan"
+    },
+    {
+      "bi": "Burundi"
+    },
+    {
+      "be": "Belgium"
+    },
+    {
+      "bj": "Benin"
+    },
+    {
+      "bf": "Burkina Faso"
+    },
+    {
+      "bd": "Bangladesh"
+    },
+    {
+      "bg": "Bulgaria"
+    },
+    {
+      "bh": "Bahrain"
+    },
+    {
+      "bs": "Bahamas"
+    },
+    {
+      "ba": "Bosnia and Herzegovina"
+    },
+    {
+      "bl": "Saint Barthélemy"
+    },
+    {
+      "sh": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    {
+      "by": "Belarus"
+    },
+    {
+      "bz": "Belize"
+    },
+    {
+      "bm": "Bermuda"
+    },
+    {
+      "bo": "Bolivia"
+    },
+    {
+      "bq": "Caribbean Netherlands"
+    },
+    {
+      "br": "Brazil"
+    },
+    {
+      "bb": "Barbados"
+    },
+    {
+      "bn": "Brunei"
+    },
+    {
+      "bt": "Bhutan"
+    },
+    {
+      "bv": "Bouvet Island"
+    },
+    {
+      "bw": "Botswana"
+    },
+    {
+      "cf": "Central African Republic"
+    },
+    {
+      "ca": "Canada"
+    },
+    {
+      "cc": "Cocos (Keeling) Islands"
+    },
+    {
+      "ch": "Switzerland"
+    },
+    {
+      "cl": "Chile"
+    },
+    {
+      "cn": "China"
+    },
+    {
+      "ci": "Ivory Coast"
+    },
+    {
+      "cm": "Cameroon"
+    },
+    {
+      "cd": "DR Congo"
+    },
+    {
+      "cg": "Republic of the Congo"
+    },
+    {
+      "ck": "Cook Islands"
+    },
+    {
+      "co": "Colombia"
+    },
+    {
+      "km": "Comoros"
+    },
+    {
+      "cv": "Cape Verde"
+    },
+    {
+      "cr": "Costa Rica"
+    },
+    {
+      "cu": "Cuba"
+    },
+    {
+      "cw": "Curaçao"
+    },
+    {
+      "cx": "Christmas Island"
+    },
+    {
+      "ky": "Cayman Islands"
+    },
+    {
+      "cy": "Cyprus"
+    },
+    {
+      "cz": "Czechia"
+    },
+    {
+      "de": "Germany"
+    },
+    {
+      "dj": "Djibouti"
+    },
+    {
+      "dm": "Dominica"
+    },
+    {
+      "dk": "Denmark"
+    },
+    {
+      "do": "Dominican Republic"
+    },
+    {
+      "dz": "Algeria"
+    },
+    {
+      "ec": "Ecuador"
+    },
+    {
+      "eg": "Egypt"
+    },
+    {
+      "er": "Eritrea"
+    },
+    {
+      "eh": "Western Sahara"
+    },
+    {
+      "es": "Spain"
+    },
+    {
+      "ee": "Estonia"
+    },
+    {
+      "et": "Ethiopia"
+    },
+    {
+      "fi": "Finland"
+    },
+    {
+      "fj": "Fiji"
+    },
+    {
+      "fk": "Falkland Islands"
+    },
+    {
+      "fr": "France"
+    },
+    {
+      "fo": "Faroe Islands"
+    },
+    {
+      "fm": "Micronesia"
+    },
+    {
+      "ga": "Gabon"
+    },
+    {
+      "gb": "United Kingdom"
+    },
+    {
+      "ge": "Georgia"
+    },
+    {
+      "gg": "Guernsey"
+    },
+    {
+      "gh": "Ghana"
+    },
+    {
+      "gi": "Gibraltar"
+    },
+    {
+      "gn": "Guinea"
+    },
+    {
+      "gp": "Guadeloupe"
+    },
+    {
+      "gm": "Gambia"
+    },
+    {
+      "gw": "Guinea-Bissau"
+    },
+    {
+      "gq": "Equatorial Guinea"
+    },
+    {
+      "gr": "Greece"
+    },
+    {
+      "gd": "Grenada"
+    },
+    {
+      "gl": "Greenland"
+    },
+    {
+      "gt": "Guatemala"
+    },
+    {
+      "gf": "French Guiana"
+    },
+    {
+      "gu": "Guam"
+    },
+    {
+      "gy": "Guyana"
+    },
+    {
+      "hk": "Hong Kong"
+    },
+    {
+      "hm": "Heard Island and McDonald Islands"
+    },
+    {
+      "hn": "Honduras"
+    },
+    {
+      "hr": "Croatia"
+    },
+    {
+      "ht": "Haiti"
+    },
+    {
+      "hu": "Hungary"
+    },
+    {
+      "id": "Indonesia"
+    },
+    {
+      "im": "Isle of Man"
+    },
+    {
+      "in": "India"
+    },
+    {
+      "io": "British Indian Ocean Territory"
+    },
+    {
+      "ie": "Ireland"
+    },
+    {
+      "ir": "Iran"
+    },
+    {
+      "iq": "Iraq"
+    },
+    {
+      "is": "Iceland"
+    },
+    {
+      "il": "Israel"
+    },
+    {
+      "it": "Italy"
+    },
+    {
+      "jm": "Jamaica"
+    },
+    {
+      "je": "Jersey"
+    },
+    {
+      "jo": "Jordan"
+    },
+    {
+      "jp": "Japan"
+    },
+    {
+      "kz": "Kazakhstan"
+    },
+    {
+      "ke": "Kenya"
+    },
+    {
+      "kg": "Kyrgyzstan"
+    },
+    {
+      "kh": "Cambodia"
+    },
+    {
+      "ki": "Kiribati"
+    },
+    {
+      "kn": "Saint Kitts and Nevis"
+    },
+    {
+      "kr": "South Korea"
+    },
+    {
+      "xk": "Kosovo"
+    },
+    {
+      "kw": "Kuwait"
+    },
+    {
+      "la": "Laos"
+    },
+    {
+      "lb": "Lebanon"
+    },
+    {
+      "lr": "Liberia"
+    },
+    {
+      "ly": "Libya"
+    },
+    {
+      "lc": "Saint Lucia"
+    },
+    {
+      "li": "Liechtenstein"
+    },
+    {
+      "lk": "Sri Lanka"
+    },
+    {
+      "ls": "Lesotho"
+    },
+    {
+      "lt": "Lithuania"
+    },
+    {
+      "lu": "Luxembourg"
+    },
+    {
+      "lv": "Latvia"
+    },
+    {
+      "mo": "Macau"
+    },
+    {
+      "mf": "Saint Martin"
+    },
+    {
+      "ma": "Morocco"
+    },
+    {
+      "mc": "Monaco"
+    },
+    {
+      "md": "Moldova"
+    },
+    {
+      "mg": "Madagascar"
+    },
+    {
+      "mv": "Maldives"
+    },
+    {
+      "mx": "Mexico"
+    },
+    {
+      "mh": "Marshall Islands"
+    },
+    {
+      "mk": "North Macedonia"
+    },
+    {
+      "ml": "Mali"
+    },
+    {
+      "mt": "Malta"
+    },
+    {
+      "mm": "Myanmar"
+    },
+    {
+      "me": "Montenegro"
+    },
+    {
+      "mn": "Mongolia"
+    },
+    {
+      "mp": "Northern Mariana Islands"
+    },
+    {
+      "mz": "Mozambique"
+    },
+    {
+      "mr": "Mauritania"
+    },
+    {
+      "ms": "Montserrat"
+    },
+    {
+      "mq": "Martinique"
+    },
+    {
+      "mu": "Mauritius"
+    },
+    {
+      "mw": "Malawi"
+    },
+    {
+      "my": "Malaysia"
+    },
+    {
+      "yt": "Mayotte"
+    },
+    {
+      "na": "Namibia"
+    },
+    {
+      "nc": "New Caledonia"
+    },
+    {
+      "ne": "Niger"
+    },
+    {
+      "nf": "Norfolk Island"
+    },
+    {
+      "ng": "Nigeria"
+    },
+    {
+      "ni": "Nicaragua"
+    },
+    {
+      "nu": "Niue"
+    },
+    {
+      "nl": "Netherlands"
+    },
+    {
+      "no": "Norway"
+    },
+    {
+      "np": "Nepal"
+    },
+    {
+      "nr": "Nauru"
+    },
+    {
+      "nz": "New Zealand"
+    },
+    {
+      "om": "Oman"
+    },
+    {
+      "pk": "Pakistan"
+    },
+    {
+      "pa": "Panama"
+    },
+    {
+      "pn": "Pitcairn Islands"
+    },
+    {
+      "pe": "Peru"
+    },
+    {
+      "ph": "Philippines"
+    },
+    {
+      "pw": "Palau"
+    },
+    {
+      "pg": "Papua New Guinea"
+    },
+    {
+      "pl": "Poland"
+    },
+    {
+      "pr": "Puerto Rico"
+    },
+    {
+      "kp": "North Korea"
+    },
+    {
+      "pt": "Portugal"
+    },
+    {
+      "py": "Paraguay"
+    },
+    {
+      "ps": "Palestine"
+    },
+    {
+      "pf": "French Polynesia"
+    },
+    {
+      "qa": "Qatar"
+    },
+    {
+      "re": "Réunion"
+    },
+    {
+      "ro": "Romania"
+    },
+    {
+      "ru": "Russia"
+    },
+    {
+      "rw": "Rwanda"
+    },
+    {
+      "sa": "Saudi Arabia"
+    },
+    {
+      "sd": "Sudan"
+    },
+    {
+      "sn": "Senegal"
+    },
+    {
+      "sg": "Singapore"
+    },
+    {
+      "gs": "South Georgia"
+    },
+    {
+      "sj": "Svalbard and Jan Mayen"
+    },
+    {
+      "sb": "Solomon Islands"
+    },
+    {
+      "sl": "Sierra Leone"
+    },
+    {
+      "sv": "El Salvador"
+    },
+    {
+      "sm": "San Marino"
+    },
+    {
+      "so": "Somalia"
+    },
+    {
+      "pm": "Saint Pierre and Miquelon"
+    },
+    {
+      "rs": "Serbia"
+    },
+    {
+      "ss": "South Sudan"
+    },
+    {
+      "st": "São Tomé and Príncipe"
+    },
+    {
+      "sr": "Suriname"
+    },
+    {
+      "sk": "Slovakia"
+    },
+    {
+      "si": "Slovenia"
+    },
+    {
+      "se": "Sweden"
+    },
+    {
+      "sz": "Eswatini"
+    },
+    {
+      "sx": "Sint Maarten"
+    },
+    {
+      "sc": "Seychelles"
+    },
+    {
+      "sy": "Syria"
+    },
+    {
+      "tc": "Turks and Caicos Islands"
+    },
+    {
+      "td": "Chad"
+    },
+    {
+      "tg": "Togo"
+    },
+    {
+      "th": "Thailand"
+    },
+    {
+      "tj": "Tajikistan"
+    },
+    {
+      "tk": "Tokelau"
+    },
+    {
+      "tm": "Turkmenistan"
+    },
+    {
+      "tl": "Timor-Leste"
+    },
+    {
+      "to": "Tonga"
+    },
+    {
+      "tt": "Trinidad and Tobago"
+    },
+    {
+      "tn": "Tunisia"
+    },
+    {
+      "tr": "Turkey"
+    },
+    {
+      "tv": "Tuvalu"
+    },
+    {
+      "tw": "Taiwan"
+    },
+    {
+      "tz": "Tanzania"
+    },
+    {
+      "ug": "Uganda"
+    },
+    {
+      "ua": "Ukraine"
+    },
+    {
+      "um": "United States Minor Outlying Islands"
+    },
+    {
+      "uy": "Uruguay"
+    },
+    {
+      "us": "United States"
+    },
+    {
+      "uz": "Uzbekistan"
+    },
+    {
+      "va": "Vatican City"
+    },
+    {
+      "vc": "Saint Vincent and the Grenadines"
+    },
+    {
+      "ve": "Venezuela"
+    },
+    {
+      "vg": "British Virgin Islands"
+    },
+    {
+      "vi": "United States Virgin Islands"
+    },
+    {
+      "vn": "Vietnam"
+    },
+    {
+      "vu": "Vanuatu"
+    },
+    {
+      "wf": "Wallis and Futuna"
+    },
+    {
+      "ws": "Samoa"
+    },
+    {
+      "ye": "Yemen"
+    },
+    {
+      "za": "South Africa"
+    },
+    {
+      "zm": "Zambia"
+    },
+    {
+      "zw": "Zimbabwe"
+    }
+  ],
+  "it": [
+    {
+      "aw": "Aruba"
+    },
+    {
+      "af": "Afghanistan"
+    },
+    {
+      "ao": "Angola"
+    },
+    {
+      "ai": "Anguilla"
+    },
+    {
+      "ax": "Isole Aland"
+    },
+    {
+      "al": "Albania"
+    },
+    {
+      "ad": "Andorra"
+    },
+    {
+      "ae": "Emirati Arabi Uniti"
+    },
+    {
+      "ar": "Argentina"
+    },
+    {
+      "am": "Armenia"
+    },
+    {
+      "as": "Samoa Americane"
+    },
+    {
+      "aq": "Antartide"
+    },
+    {
+      "tf": "Territori Francesi del Sud"
+    },
+    {
+      "ag": "Antigua e Barbuda"
+    },
+    {
+      "au": "Australia"
+    },
+    {
+      "at": "Austria"
+    },
+    {
+      "az": "Azerbaijan"
+    },
+    {
+      "bi": "Burundi"
+    },
+    {
+      "be": "Belgio"
+    },
+    {
+      "bj": "Benin"
+    },
+    {
+      "bf": "Burkina Faso"
+    },
+    {
+      "bd": "Bangladesh"
+    },
+    {
+      "bg": "Bulgaria"
+    },
+    {
+      "bh": "Bahrein"
+    },
+    {
+      "bs": "Bahamas"
+    },
+    {
+      "ba": "Bosnia ed Erzegovina"
+    },
+    {
+      "bl": "Antille Francesi"
+    },
+    {
+      "sh": "Sant'Elena, Ascensione e Tristan da Cunha"
+    },
+    {
+      "by": "Bielorussia"
+    },
+    {
+      "bz": "Belize"
+    },
+    {
+      "bm": "Bermuda"
+    },
+    {
+      "bo": "Bolivia"
+    },
+    {
+      "bq": "Paesi Bassi caraibici"
+    },
+    {
+      "br": "Brasile"
+    },
+    {
+      "bb": "Barbados"
+    },
+    {
+      "bn": "Brunei"
+    },
+    {
+      "bt": "Bhutan"
+    },
+    {
+      "bv": "Isola Bouvet"
+    },
+    {
+      "bw": "Botswana"
+    },
+    {
+      "cf": "Repubblica Centrafricana"
+    },
+    {
+      "ca": "Canada"
+    },
+    {
+      "cc": "Isole Cocos e Keeling"
+    },
+    {
+      "ch": "Svizzera"
+    },
+    {
+      "cl": "Cile"
+    },
+    {
+      "cn": "Cina"
+    },
+    {
+      "ci": "Costa d'Avorio"
+    },
+    {
+      "cm": "Camerun"
+    },
+    {
+      "cd": "Congo (Rep. Dem.)"
+    },
+    {
+      "cg": "Congo"
+    },
+    {
+      "ck": "Isole Cook"
+    },
+    {
+      "co": "Colombia"
+    },
+    {
+      "km": "Comore"
+    },
+    {
+      "cv": "Capo Verde"
+    },
+    {
+      "cr": "Costa Rica"
+    },
+    {
+      "cu": "Cuba"
+    },
+    {
+      "cw": "Curaçao"
+    },
+    {
+      "cx": "Isola di Natale"
+    },
+    {
+      "ky": "Isole Cayman"
+    },
+    {
+      "cy": "Cipro"
+    },
+    {
+      "cz": "Cechia"
+    },
+    {
+      "de": "Germania"
+    },
+    {
+      "dj": "Gibuti"
+    },
+    {
+      "dm": "Dominica"
+    },
+    {
+      "dk": "Danimarca"
+    },
+    {
+      "do": "Repubblica Dominicana"
+    },
+    {
+      "dz": "Algeria"
+    },
+    {
+      "ec": "Ecuador"
+    },
+    {
+      "eg": "Egitto"
+    },
+    {
+      "er": "Eritrea"
+    },
+    {
+      "eh": "Sahara Occidentale"
+    },
+    {
+      "es": "Spagna"
+    },
+    {
+      "ee": "Estonia"
+    },
+    {
+      "et": "Etiopia"
+    },
+    {
+      "fi": "Finlandia"
+    },
+    {
+      "fj": "Figi"
+    },
+    {
+      "fk": "Isole Falkland o Isole Malvine"
+    },
+    {
+      "fr": "Francia"
+    },
+    {
+      "fo": "Isole Far Oer"
+    },
+    {
+      "fm": "Micronesia"
+    },
+    {
+      "ga": "Gabon"
+    },
+    {
+      "gb": "Regno Unito"
+    },
+    {
+      "ge": "Georgia"
+    },
+    {
+      "gg": "Guernsey"
+    },
+    {
+      "gh": "Ghana"
+    },
+    {
+      "gi": "Gibilterra"
+    },
+    {
+      "gn": "Guinea"
+    },
+    {
+      "gp": "Guadeloupa"
+    },
+    {
+      "gm": "Gambia"
+    },
+    {
+      "gw": "Guinea-Bissau"
+    },
+    {
+      "gq": "Guinea Equatoriale"
+    },
+    {
+      "gr": "Grecia"
+    },
+    {
+      "gd": "Grenada"
+    },
+    {
+      "gl": "Groenlandia"
+    },
+    {
+      "gt": "Guatemala"
+    },
+    {
+      "gf": "Guyana francese"
+    },
+    {
+      "gu": "Guam"
+    },
+    {
+      "gy": "Guyana"
+    },
+    {
+      "hk": "Hong Kong"
+    },
+    {
+      "hm": "Isole Heard e McDonald"
+    },
+    {
+      "hn": "Honduras"
+    },
+    {
+      "hr": "Croazia"
+    },
+    {
+      "ht": "Haiti"
+    },
+    {
+      "hu": "Ungheria"
+    },
+    {
+      "id": "Indonesia"
+    },
+    {
+      "im": "Isola di Man"
+    },
+    {
+      "in": "India"
+    },
+    {
+      "io": "Territorio britannico dell'oceano indiano"
+    },
+    {
+      "ie": "Irlanda"
+    },
+    {
+      "ir": "Iran"
+    },
+    {
+      "iq": "Iraq"
+    },
+    {
+      "is": "Islanda"
+    },
+    {
+      "il": "Israele"
+    },
+    {
+      "it": "Italia"
+    },
+    {
+      "jm": "Giamaica"
+    },
+    {
+      "je": "Isola di Jersey"
+    },
+    {
+      "jo": "Giordania"
+    },
+    {
+      "jp": "Giappone"
+    },
+    {
+      "kz": "Kazakistan"
+    },
+    {
+      "ke": "Kenya"
+    },
+    {
+      "kg": "Kirghizistan"
+    },
+    {
+      "kh": "Cambogia"
+    },
+    {
+      "ki": "Kiribati"
+    },
+    {
+      "kn": "Saint Kitts e Nevis"
+    },
+    {
+      "kr": "Corea del Sud"
+    },
+    {
+      "xk": "Kosovo"
+    },
+    {
+      "kw": "Kuwait"
+    },
+    {
+      "la": "Laos"
+    },
+    {
+      "lb": "Libano"
+    },
+    {
+      "lr": "Liberia"
+    },
+    {
+      "ly": "Libia"
+    },
+    {
+      "lc": "Santa Lucia"
+    },
+    {
+      "li": "Liechtenstein"
+    },
+    {
+      "lk": "Sri Lanka"
+    },
+    {
+      "ls": "Lesotho"
+    },
+    {
+      "lt": "Lituania"
+    },
+    {
+      "lu": "Lussemburgo"
+    },
+    {
+      "lv": "Lettonia"
+    },
+    {
+      "mo": "Macao"
+    },
+    {
+      "mf": "Saint Martin"
+    },
+    {
+      "ma": "Marocco"
+    },
+    {
+      "mc": "Principato di Monaco"
+    },
+    {
+      "md": "Moldavia"
+    },
+    {
+      "mg": "Madagascar"
+    },
+    {
+      "mv": "Maldive"
+    },
+    {
+      "mx": "Messico"
+    },
+    {
+      "mh": "Isole Marshall"
+    },
+    {
+      "mk": "Macedonia del Nord"
+    },
+    {
+      "ml": "Mali"
+    },
+    {
+      "mt": "Malta"
+    },
+    {
+      "mm": "Birmania"
+    },
+    {
+      "me": "Montenegro"
+    },
+    {
+      "mn": "Mongolia"
+    },
+    {
+      "mp": "Isole Marianne Settentrionali"
+    },
+    {
+      "mz": "Mozambico"
+    },
+    {
+      "mr": "Mauritania"
+    },
+    {
+      "ms": "Montserrat"
+    },
+    {
+      "mq": "Martinica"
+    },
+    {
+      "mu": "Mauritius"
+    },
+    {
+      "mw": "Malawi"
+    },
+    {
+      "my": "Malesia"
+    },
+    {
+      "yt": "Mayotte"
+    },
+    {
+      "na": "Namibia"
+    },
+    {
+      "nc": "Nuova Caledonia"
+    },
+    {
+      "ne": "Niger"
+    },
+    {
+      "nf": "Isola Norfolk"
+    },
+    {
+      "ng": "Nigeria"
+    },
+    {
+      "ni": "Nicaragua"
+    },
+    {
+      "nu": "Niue"
+    },
+    {
+      "nl": "Paesi Bassi"
+    },
+    {
+      "no": "Norvegia"
+    },
+    {
+      "np": "Nepal"
+    },
+    {
+      "nr": "Nauru"
+    },
+    {
+      "nz": "Nuova Zelanda"
+    },
+    {
+      "om": "oman"
+    },
+    {
+      "pk": "Pakistan"
+    },
+    {
+      "pa": "Panama"
+    },
+    {
+      "pn": "Isole Pitcairn"
+    },
+    {
+      "pe": "Perù"
+    },
+    {
+      "ph": "Filippine"
+    },
+    {
+      "pw": "Palau"
+    },
+    {
+      "pg": "Papua Nuova Guinea"
+    },
+    {
+      "pl": "Polonia"
+    },
+    {
+      "pr": "Porto Rico"
+    },
+    {
+      "kp": "Corea del Nord"
+    },
+    {
+      "pt": "Portogallo"
+    },
+    {
+      "py": "Paraguay"
+    },
+    {
+      "ps": "Palestina"
+    },
+    {
+      "pf": "Polinesia Francese"
+    },
+    {
+      "qa": "Qatar"
+    },
+    {
+      "re": "Riunione"
+    },
+    {
+      "ro": "Romania"
+    },
+    {
+      "ru": "Russia"
+    },
+    {
+      "rw": "Ruanda"
+    },
+    {
+      "sa": "Arabia Saudita"
+    },
+    {
+      "sd": "Sudan"
+    },
+    {
+      "sn": "Senegal"
+    },
+    {
+      "sg": "Singapore"
+    },
+    {
+      "gs": "Georgia del Sud e Isole Sandwich Meridionali"
+    },
+    {
+      "sj": "Svalbard e Jan Mayen"
+    },
+    {
+      "sb": "Isole Salomone"
+    },
+    {
+      "sl": "Sierra Leone"
+    },
+    {
+      "sv": "El Salvador"
+    },
+    {
+      "sm": "San Marino"
+    },
+    {
+      "so": "Somalia"
+    },
+    {
+      "pm": "Saint-Pierre e Miquelon"
+    },
+    {
+      "rs": "Serbia"
+    },
+    {
+      "ss": "Sudan del sud"
+    },
+    {
+      "st": "São Tomé e Príncipe"
+    },
+    {
+      "sr": "Suriname"
+    },
+    {
+      "sk": "Slovacchia"
+    },
+    {
+      "si": "Slovenia"
+    },
+    {
+      "se": "Svezia"
+    },
+    {
+      "sz": "Swaziland"
+    },
+    {
+      "sx": "Sint Maarten"
+    },
+    {
+      "sc": "Seychelles"
+    },
+    {
+      "sy": "Siria"
+    },
+    {
+      "tc": "Isole Turks e Caicos"
+    },
+    {
+      "td": "Ciad"
+    },
+    {
+      "tg": "Togo"
+    },
+    {
+      "th": "Tailandia"
+    },
+    {
+      "tj": "Tagikistan"
+    },
+    {
+      "tk": "Isole Tokelau"
+    },
+    {
+      "tm": "Turkmenistan"
+    },
+    {
+      "tl": "Timor Est"
+    },
+    {
+      "to": "Tonga"
+    },
+    {
+      "tt": "Trinidad e Tobago"
+    },
+    {
+      "tn": "Tunisia"
+    },
+    {
+      "tr": "Turchia"
+    },
+    {
+      "tv": "Tuvalu"
+    },
+    {
+      "tw": "Taiwan"
+    },
+    {
+      "tz": "Tanzania"
+    },
+    {
+      "ug": "Uganda"
+    },
+    {
+      "ua": "Ucraina"
+    },
+    {
+      "um": "Isole minori esterne degli Stati Uniti d'America"
+    },
+    {
+      "uy": "Uruguay"
+    },
+    {
+      "us": "Stati Uniti d'America"
+    },
+    {
+      "uz": "Uzbekistan"
+    },
+    {
+      "va": "Città del Vaticano"
+    },
+    {
+      "vc": "Saint Vincent e Grenadine"
+    },
+    {
+      "ve": "Venezuela"
+    },
+    {
+      "vg": "Isole Vergini Britanniche"
+    },
+    {
+      "vi": "Isole Vergini americane"
+    },
+    {
+      "vn": "Vietnam"
+    },
+    {
+      "vu": "Vanuatu"
+    },
+    {
+      "wf": "Wallis e Futuna"
+    },
+    {
+      "ws": "Samoa"
+    },
+    {
+      "ye": "Yemen"
+    },
+    {
+      "za": "Sud Africa"
+    },
+    {
+      "zm": "Zambia"
+    },
+    {
+      "zw": "Zimbabwe"
+    }
+  ],
+  "fr": [
+    {
+      "aw": "Aruba"
+    },
+    {
+      "af": "Afghanistan"
+    },
+    {
+      "ao": "Angola"
+    },
+    {
+      "ai": "Anguilla"
+    },
+    {
+      "ax": "Ahvenanmaa"
+    },
+    {
+      "al": "Albanie"
+    },
+    {
+      "ad": "Andorre"
+    },
+    {
+      "ae": "Émirats arabes unis"
+    },
+    {
+      "ar": "Argentine"
+    },
+    {
+      "am": "Arménie"
+    },
+    {
+      "as": "Samoa américaines"
+    },
+    {
+      "aq": "Antarctique"
+    },
+    {
+      "tf": "Terres australes et antarctiques françaises"
+    },
+    {
+      "ag": "Antigua-et-Barbuda"
+    },
+    {
+      "au": "Australie"
+    },
+    {
+      "at": "Autriche"
+    },
+    {
+      "az": "Azerbaïdjan"
+    },
+    {
+      "bi": "Burundi"
+    },
+    {
+      "be": "Belgique"
+    },
+    {
+      "bj": "Bénin"
+    },
+    {
+      "bf": "Burkina Faso"
+    },
+    {
+      "bd": "Bangladesh"
+    },
+    {
+      "bg": "Bulgarie"
+    },
+    {
+      "bh": "Bahreïn"
+    },
+    {
+      "bs": "Bahamas"
+    },
+    {
+      "ba": "Bosnie-Herzégovine"
+    },
+    {
+      "bl": "Saint-Barthélemy"
+    },
+    {
+      "sh": "Sainte-Hélène, Ascension et Tristan da Cunha"
+    },
+    {
+      "by": "Biélorussie"
+    },
+    {
+      "bz": "Belize"
+    },
+    {
+      "bm": "Bermudes"
+    },
+    {
+      "bo": "Bolivie"
+    },
+    {
+      "bq": "Pays-Bas caribéens"
+    },
+    {
+      "br": "Brésil"
+    },
+    {
+      "bb": "Barbade"
+    },
+    {
+      "bn": "Brunei"
+    },
+    {
+      "bt": "Bhoutan"
+    },
+    {
+      "bv": "Île Bouvet"
+    },
+    {
+      "bw": "Botswana"
+    },
+    {
+      "cf": "République centrafricaine"
+    },
+    {
+      "ca": "Canada"
+    },
+    {
+      "cc": "Îles Cocos"
+    },
+    {
+      "ch": "Suisse"
+    },
+    {
+      "cl": "Chili"
+    },
+    {
+      "cn": "Chine"
+    },
+    {
+      "ci": "Côte d'Ivoire"
+    },
+    {
+      "cm": "Cameroun"
+    },
+    {
+      "cd": "Congo (Rép. dém.)"
+    },
+    {
+      "cg": "Congo"
+    },
+    {
+      "ck": "Îles Cook"
+    },
+    {
+      "co": "Colombie"
+    },
+    {
+      "km": "Comores"
+    },
+    {
+      "cv": "Îles du Cap-Vert"
+    },
+    {
+      "cr": "Costa Rica"
+    },
+    {
+      "cu": "Cuba"
+    },
+    {
+      "cw": "Curaçao"
+    },
+    {
+      "cx": "Île Christmas"
+    },
+    {
+      "ky": "Îles Caïmans"
+    },
+    {
+      "cy": "Chypre"
+    },
+    {
+      "cz": "Tchéquie"
+    },
+    {
+      "de": "Allemagne"
+    },
+    {
+      "dj": "Djibouti"
+    },
+    {
+      "dm": "Dominique"
+    },
+    {
+      "dk": "Danemark"
+    },
+    {
+      "do": "République dominicaine"
+    },
+    {
+      "dz": "Algérie"
+    },
+    {
+      "ec": "Équateur"
+    },
+    {
+      "eg": "Égypte"
+    },
+    {
+      "er": "Érythrée"
+    },
+    {
+      "eh": "Sahara Occidental"
+    },
+    {
+      "es": "Espagne"
+    },
+    {
+      "ee": "Estonie"
+    },
+    {
+      "et": "Éthiopie"
+    },
+    {
+      "fi": "Finlande"
+    },
+    {
+      "fj": "Fidji"
+    },
+    {
+      "fk": "Îles Malouines"
+    },
+    {
+      "fr": "France"
+    },
+    {
+      "fo": "Îles Féroé"
+    },
+    {
+      "fm": "Micronésie"
+    },
+    {
+      "ga": "Gabon"
+    },
+    {
+      "gb": "Royaume-Uni"
+    },
+    {
+      "ge": "Géorgie"
+    },
+    {
+      "gg": "Guernesey"
+    },
+    {
+      "gh": "Ghana"
+    },
+    {
+      "gi": "Gibraltar"
+    },
+    {
+      "gn": "Guinée"
+    },
+    {
+      "gp": "Guadeloupe"
+    },
+    {
+      "gm": "Gambie"
+    },
+    {
+      "gw": "Guinée-Bissau"
+    },
+    {
+      "gq": "Guinée équatoriale"
+    },
+    {
+      "gr": "Grèce"
+    },
+    {
+      "gd": "Grenade"
+    },
+    {
+      "gl": "Groenland"
+    },
+    {
+      "gt": "Guatemala"
+    },
+    {
+      "gf": "Guyane"
+    },
+    {
+      "gu": "Guam"
+    },
+    {
+      "gy": "Guyana"
+    },
+    {
+      "hk": "Hong Kong"
+    },
+    {
+      "hm": "Îles Heard-et-MacDonald"
+    },
+    {
+      "hn": "Honduras"
+    },
+    {
+      "hr": "Croatie"
+    },
+    {
+      "ht": "Haïti"
+    },
+    {
+      "hu": "Hongrie"
+    },
+    {
+      "id": "Indonésie"
+    },
+    {
+      "im": "Île de Man"
+    },
+    {
+      "in": "Inde"
+    },
+    {
+      "io": "Territoire britannique de l'océan Indien"
+    },
+    {
+      "ie": "Irlande"
+    },
+    {
+      "ir": "Iran"
+    },
+    {
+      "iq": "Irak"
+    },
+    {
+      "is": "Islande"
+    },
+    {
+      "il": "Israël"
+    },
+    {
+      "it": "Italie"
+    },
+    {
+      "jm": "Jamaïque"
+    },
+    {
+      "je": "Jersey"
+    },
+    {
+      "jo": "Jordanie"
+    },
+    {
+      "jp": "Japon"
+    },
+    {
+      "kz": "Kazakhstan"
+    },
+    {
+      "ke": "Kenya"
+    },
+    {
+      "kg": "Kirghizistan"
+    },
+    {
+      "kh": "Cambodge"
+    },
+    {
+      "ki": "Kiribati"
+    },
+    {
+      "kn": "Saint-Christophe-et-Niévès"
+    },
+    {
+      "kr": "Corée du Sud"
+    },
+    {
+      "xk": "Kosovo"
+    },
+    {
+      "kw": "Koweït"
+    },
+    {
+      "la": "Laos"
+    },
+    {
+      "lb": "Liban"
+    },
+    {
+      "lr": "Liberia"
+    },
+    {
+      "ly": "Libye"
+    },
+    {
+      "lc": "Sainte-Lucie"
+    },
+    {
+      "li": "Liechtenstein"
+    },
+    {
+      "lk": "Sri Lanka"
+    },
+    {
+      "ls": "Lesotho"
+    },
+    {
+      "lt": "Lituanie"
+    },
+    {
+      "lu": "Luxembourg"
+    },
+    {
+      "lv": "Lettonie"
+    },
+    {
+      "mo": "Macao"
+    },
+    {
+      "mf": "Saint-Martin"
+    },
+    {
+      "ma": "Maroc"
+    },
+    {
+      "mc": "Monaco"
+    },
+    {
+      "md": "Moldavie"
+    },
+    {
+      "mg": "Madagascar"
+    },
+    {
+      "mv": "Maldives"
+    },
+    {
+      "mx": "Mexique"
+    },
+    {
+      "mh": "Îles Marshall"
+    },
+    {
+      "mk": "Macédoine du Nord"
+    },
+    {
+      "ml": "Mali"
+    },
+    {
+      "mt": "Malte"
+    },
+    {
+      "mm": "Birmanie"
+    },
+    {
+      "me": "Monténégro"
+    },
+    {
+      "mn": "Mongolie"
+    },
+    {
+      "mp": "Îles Mariannes du Nord"
+    },
+    {
+      "mz": "Mozambique"
+    },
+    {
+      "mr": "Mauritanie"
+    },
+    {
+      "ms": "Montserrat"
+    },
+    {
+      "mq": "Martinique"
+    },
+    {
+      "mu": "Île Maurice"
+    },
+    {
+      "mw": "Malawi"
+    },
+    {
+      "my": "Malaisie"
+    },
+    {
+      "yt": "Mayotte"
+    },
+    {
+      "na": "Namibie"
+    },
+    {
+      "nc": "Nouvelle-Calédonie"
+    },
+    {
+      "ne": "Niger"
+    },
+    {
+      "nf": "Île Norfolk"
+    },
+    {
+      "ng": "Nigéria"
+    },
+    {
+      "ni": "Nicaragua"
+    },
+    {
+      "nu": "Niue"
+    },
+    {
+      "nl": "Pays-Bas"
+    },
+    {
+      "no": "Norvège"
+    },
+    {
+      "np": "Népal"
+    },
+    {
+      "nr": "Nauru"
+    },
+    {
+      "nz": "Nouvelle-Zélande"
+    },
+    {
+      "om": "Oman"
+    },
+    {
+      "pk": "Pakistan"
+    },
+    {
+      "pa": "Panama"
+    },
+    {
+      "pn": "Îles Pitcairn"
+    },
+    {
+      "pe": "Pérou"
+    },
+    {
+      "ph": "Philippines"
+    },
+    {
+      "pw": "Palaos (Palau)"
+    },
+    {
+      "pg": "Papouasie-Nouvelle-Guinée"
+    },
+    {
+      "pl": "Pologne"
+    },
+    {
+      "pr": "Porto Rico"
+    },
+    {
+      "kp": "Corée du Nord"
+    },
+    {
+      "pt": "Portugal"
+    },
+    {
+      "py": "Paraguay"
+    },
+    {
+      "ps": "Palestine"
+    },
+    {
+      "pf": "Polynésie française"
+    },
+    {
+      "qa": "Qatar"
+    },
+    {
+      "re": "Réunion"
+    },
+    {
+      "ro": "Roumanie"
+    },
+    {
+      "ru": "Russie"
+    },
+    {
+      "rw": "Rwanda"
+    },
+    {
+      "sa": "Arabie Saoudite"
+    },
+    {
+      "sd": "Soudan"
+    },
+    {
+      "sn": "Sénégal"
+    },
+    {
+      "sg": "Singapour"
+    },
+    {
+      "gs": "Géorgie du Sud-et-les Îles Sandwich du Sud"
+    },
+    {
+      "sj": "Svalbard et Jan Mayen"
+    },
+    {
+      "sb": "Îles Salomon"
+    },
+    {
+      "sl": "Sierra Leone"
+    },
+    {
+      "sv": "Salvador"
+    },
+    {
+      "sm": "Saint-Marin"
+    },
+    {
+      "so": "Somalie"
+    },
+    {
+      "pm": "Saint-Pierre-et-Miquelon"
+    },
+    {
+      "rs": "Serbie"
+    },
+    {
+      "ss": "Soudan du Sud"
+    },
+    {
+      "st": "São Tomé et Príncipe"
+    },
+    {
+      "sr": "Surinam"
+    },
+    {
+      "sk": "Slovaquie"
+    },
+    {
+      "si": "Slovénie"
+    },
+    {
+      "se": "Suède"
+    },
+    {
+      "sz": "Swaziland"
+    },
+    {
+      "sx": "Saint-Martin"
+    },
+    {
+      "sc": "Seychelles"
+    },
+    {
+      "sy": "Syrie"
+    },
+    {
+      "tc": "Îles Turques-et-Caïques"
+    },
+    {
+      "td": "Tchad"
+    },
+    {
+      "tg": "Togo"
+    },
+    {
+      "th": "Thaïlande"
+    },
+    {
+      "tj": "Tadjikistan"
+    },
+    {
+      "tk": "Tokelau"
+    },
+    {
+      "tm": "Turkménistan"
+    },
+    {
+      "tl": "Timor oriental"
+    },
+    {
+      "to": "Tonga"
+    },
+    {
+      "tt": "Trinité-et-Tobago"
+    },
+    {
+      "tn": "Tunisie"
+    },
+    {
+      "tr": "Turquie"
+    },
+    {
+      "tv": "Tuvalu"
+    },
+    {
+      "tw": "Taïwan"
+    },
+    {
+      "tz": "Tanzanie"
+    },
+    {
+      "ug": "Ouganda"
+    },
+    {
+      "ua": "Ukraine"
+    },
+    {
+      "um": "Îles mineures éloignées des États-Unis"
+    },
+    {
+      "uy": "Uruguay"
+    },
+    {
+      "us": "États-Unis"
+    },
+    {
+      "uz": "Ouzbékistan"
+    },
+    {
+      "va": "Cité du Vatican"
+    },
+    {
+      "vc": "Saint-Vincent-et-les-Grenadines"
+    },
+    {
+      "ve": "Venezuela"
+    },
+    {
+      "vg": "Îles Vierges britanniques"
+    },
+    {
+      "vi": "Îles Vierges des États-Unis"
+    },
+    {
+      "vn": "Viêt Nam"
+    },
+    {
+      "vu": "Vanuatu"
+    },
+    {
+      "wf": "Wallis-et-Futuna"
+    },
+    {
+      "ws": "Samoa"
+    },
+    {
+      "ye": "Yémen"
+    },
+    {
+      "za": "Afrique du Sud"
+    },
+    {
+      "zm": "Zambie"
+    },
+    {
+      "zw": "Zimbabwe"
+    }
+  ],
+  "ja": [
+    {
+      "aw": "アルバ"
+    },
+    {
+      "af": "アフガニスタン"
+    },
+    {
+      "ao": "アンゴラ"
+    },
+    {
+      "ai": "アンギラ"
+    },
+    {
+      "ax": "オーランド諸島"
+    },
+    {
+      "al": "アルバニア"
+    },
+    {
+      "ad": "アンドラ"
+    },
+    {
+      "ae": "アラブ首長国連邦"
+    },
+    {
+      "ar": "アルゼンチン"
+    },
+    {
+      "am": "アルメニア"
+    },
+    {
+      "as": "アメリカ領サモア"
+    },
+    {
+      "aq": "南極"
+    },
+    {
+      "tf": "フランス領南方・南極地域"
+    },
+    {
+      "ag": "アンティグア・バーブーダ"
+    },
+    {
+      "au": "オーストラリア"
+    },
+    {
+      "at": "オーストリア"
+    },
+    {
+      "az": "アゼルバイジャン"
+    },
+    {
+      "bi": "ブルンジ"
+    },
+    {
+      "be": "ベルギー"
+    },
+    {
+      "bj": "ベナン"
+    },
+    {
+      "bf": "ブルキナファソ"
+    },
+    {
+      "bd": "バングラデシュ"
+    },
+    {
+      "bg": "ブルガリア"
+    },
+    {
+      "bh": "バーレーン"
+    },
+    {
+      "bs": "バハマ"
+    },
+    {
+      "ba": "ボスニア・ヘルツェゴビナ"
+    },
+    {
+      "bl": "サン・バルテルミー"
+    },
+    {
+      "sh": "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+    },
+    {
+      "by": "ベラルーシ"
+    },
+    {
+      "bz": "ベリーズ"
+    },
+    {
+      "bm": "バミューダ"
+    },
+    {
+      "bo": "ボリビア多民族国"
+    },
+    {
+      "bq": "ボネール、シント・ユースタティウスおよびサバ"
+    },
+    {
+      "br": "ブラジル"
+    },
+    {
+      "bb": "バルバドス"
+    },
+    {
+      "bn": "ブルネイ・ダルサラーム"
+    },
+    {
+      "bt": "ブータン"
+    },
+    {
+      "bv": "ブーベ島"
+    },
+    {
+      "bw": "ボツワナ"
+    },
+    {
+      "cf": "中央アフリカ共和国"
+    },
+    {
+      "ca": "カナダ"
+    },
+    {
+      "cc": "ココス（キーリング）諸島"
+    },
+    {
+      "ch": "スイス"
+    },
+    {
+      "cl": "チリ"
+    },
+    {
+      "cn": "中国"
+    },
+    {
+      "ci": "コートジボワール"
+    },
+    {
+      "cm": "カメルーン"
+    },
+    {
+      "cd": "コンゴ民主共和国"
+    },
+    {
+      "cg": "コンゴ共和国"
+    },
+    {
+      "ck": "クック諸島"
+    },
+    {
+      "co": "コロンビア"
+    },
+    {
+      "km": "コモロ"
+    },
+    {
+      "cv": "カーボベルデ"
+    },
+    {
+      "cr": "コスタリカ"
+    },
+    {
+      "cu": "キューバ"
+    },
+    {
+      "cw": "Curaçao"
+    },
+    {
+      "cx": "クリスマス島"
+    },
+    {
+      "ky": "ケイマン諸島"
+    },
+    {
+      "cy": "キプロス"
+    },
+    {
+      "cz": "チェコ"
+    },
+    {
+      "de": "ドイツ"
+    },
+    {
+      "dj": "ジブチ"
+    },
+    {
+      "dm": "ドミニカ国"
+    },
+    {
+      "dk": "デンマーク"
+    },
+    {
+      "do": "ドミニカ共和国"
+    },
+    {
+      "dz": "アルジェリア"
+    },
+    {
+      "ec": "エクアドル"
+    },
+    {
+      "eg": "エジプト"
+    },
+    {
+      "er": "エリトリア"
+    },
+    {
+      "eh": "西サハラ"
+    },
+    {
+      "es": "スペイン"
+    },
+    {
+      "ee": "エストニア"
+    },
+    {
+      "et": "エチオピア"
+    },
+    {
+      "fi": "フィンランド"
+    },
+    {
+      "fj": "フィジー"
+    },
+    {
+      "fk": "フォークランド（マルビナス）諸島"
+    },
+    {
+      "fr": "フランス"
+    },
+    {
+      "fo": "フェロー諸島"
+    },
+    {
+      "fm": "ミクロネシア連邦"
+    },
+    {
+      "ga": "ガボン"
+    },
+    {
+      "gb": "イギリス"
+    },
+    {
+      "ge": "グルジア"
+    },
+    {
+      "gg": "ガーンジー"
+    },
+    {
+      "gh": "ガーナ"
+    },
+    {
+      "gi": "ジブラルタル"
+    },
+    {
+      "gn": "ギニア"
+    },
+    {
+      "gp": "グアドループ"
+    },
+    {
+      "gm": "ガンビア"
+    },
+    {
+      "gw": "ギニアビサウ"
+    },
+    {
+      "gq": "赤道ギニア"
+    },
+    {
+      "gr": "ギリシャ"
+    },
+    {
+      "gd": "グレナダ"
+    },
+    {
+      "gl": "グリーンランド"
+    },
+    {
+      "gt": "グアテマラ"
+    },
+    {
+      "gf": "フランス領ギアナ"
+    },
+    {
+      "gu": "グアム"
+    },
+    {
+      "gy": "ガイアナ"
+    },
+    {
+      "hk": "香港"
+    },
+    {
+      "hm": "ハード島とマクドナルド諸島"
+    },
+    {
+      "hn": "ホンジュラス"
+    },
+    {
+      "hr": "クロアチア"
+    },
+    {
+      "ht": "ハイチ"
+    },
+    {
+      "hu": "ハンガリー"
+    },
+    {
+      "id": "インドネシア"
+    },
+    {
+      "im": "マン島"
+    },
+    {
+      "in": "インド"
+    },
+    {
+      "io": "イギリス領インド洋地域"
+    },
+    {
+      "ie": "アイルランド"
+    },
+    {
+      "ir": "イラン・イスラム共和国"
+    },
+    {
+      "iq": "イラク"
+    },
+    {
+      "is": "アイスランド"
+    },
+    {
+      "il": "イスラエル"
+    },
+    {
+      "it": "イタリア"
+    },
+    {
+      "jm": "ジャマイカ"
+    },
+    {
+      "je": "ジャージー"
+    },
+    {
+      "jo": "ヨルダン"
+    },
+    {
+      "jp": "日本"
+    },
+    {
+      "kz": "カザフスタン"
+    },
+    {
+      "ke": "ケニア"
+    },
+    {
+      "kg": "キルギス"
+    },
+    {
+      "kh": "カンボジア"
+    },
+    {
+      "ki": "キリバス"
+    },
+    {
+      "kn": "セントクリストファー・ネイビス"
+    },
+    {
+      "kr": "韓国"
+    },
+    {
+      "xk": "Kosovo"
+    },
+    {
+      "kw": "クウェート"
+    },
+    {
+      "la": "ラオス人民民主共和国"
+    },
+    {
+      "lb": "レバノン"
+    },
+    {
+      "lr": "リベリア"
+    },
+    {
+      "ly": "リビア"
+    },
+    {
+      "lc": "セントルシア"
+    },
+    {
+      "li": "リヒテンシュタイン"
+    },
+    {
+      "lk": "スリランカ"
+    },
+    {
+      "ls": "レソト"
+    },
+    {
+      "lt": "リトアニア"
+    },
+    {
+      "lu": "ルクセンブルク"
+    },
+    {
+      "lv": "ラトビア"
+    },
+    {
+      "mo": "マカオ"
+    },
+    {
+      "mf": "サン・マルタン（フランス領）"
+    },
+    {
+      "ma": "モロッコ"
+    },
+    {
+      "mc": "モナコ"
+    },
+    {
+      "md": "モルドバ共和国"
+    },
+    {
+      "mg": "マダガスカル"
+    },
+    {
+      "mv": "モルディブ"
+    },
+    {
+      "mx": "メキシコ"
+    },
+    {
+      "mh": "マーシャル諸島"
+    },
+    {
+      "mk": "北マケドニア "
+    },
+    {
+      "ml": "マリ"
+    },
+    {
+      "mt": "マルタ"
+    },
+    {
+      "mm": "ミャンマー"
+    },
+    {
+      "me": "モンテネグロ"
+    },
+    {
+      "mn": "モンゴル"
+    },
+    {
+      "mp": "北マリアナ諸島"
+    },
+    {
+      "mz": "モザンビーク"
+    },
+    {
+      "mr": "モーリタニア"
+    },
+    {
+      "ms": "モントセラト"
+    },
+    {
+      "mq": "マルティニーク"
+    },
+    {
+      "mu": "モーリシャス"
+    },
+    {
+      "mw": "マラウイ"
+    },
+    {
+      "my": "マレーシア"
+    },
+    {
+      "yt": "マヨット"
+    },
+    {
+      "na": "ナミビア"
+    },
+    {
+      "nc": "ニューカレドニア"
+    },
+    {
+      "ne": "ニジェール"
+    },
+    {
+      "nf": "ノーフォーク島"
+    },
+    {
+      "ng": "ナイジェリア"
+    },
+    {
+      "ni": "ニカラグア"
+    },
+    {
+      "nu": "ニウエ"
+    },
+    {
+      "nl": "オランダ"
+    },
+    {
+      "no": "ノルウェー"
+    },
+    {
+      "np": "ネパール"
+    },
+    {
+      "nr": "ナウル"
+    },
+    {
+      "nz": "ニュージーランド"
+    },
+    {
+      "om": "オマーン"
+    },
+    {
+      "pk": "パキスタン"
+    },
+    {
+      "pa": "パナマ"
+    },
+    {
+      "pn": "ピトケアン"
+    },
+    {
+      "pe": "ペルー"
+    },
+    {
+      "ph": "フィリピン"
+    },
+    {
+      "pw": "パラオ"
+    },
+    {
+      "pg": "パプアニューギニア"
+    },
+    {
+      "pl": "ポーランド"
+    },
+    {
+      "pr": "プエルトリコ"
+    },
+    {
+      "kp": "朝鮮民主主義人民共和国"
+    },
+    {
+      "pt": "ポルトガル"
+    },
+    {
+      "py": "パラグアイ"
+    },
+    {
+      "ps": "パレスチナ"
+    },
+    {
+      "pf": "フランス領ポリネシア"
+    },
+    {
+      "qa": "カタール"
+    },
+    {
+      "re": "レユニオン"
+    },
+    {
+      "ro": "ルーマニア"
+    },
+    {
+      "ru": "ロシア連邦"
+    },
+    {
+      "rw": "ルワンダ"
+    },
+    {
+      "sa": "サウジアラビア"
+    },
+    {
+      "sd": "スーダン"
+    },
+    {
+      "sn": "セネガル"
+    },
+    {
+      "sg": "シンガポール"
+    },
+    {
+      "gs": "サウスジョージア・サウスサンドウィッチ諸島"
+    },
+    {
+      "sj": "スヴァールバル諸島およびヤンマイエン島"
+    },
+    {
+      "sb": "ソロモン諸島"
+    },
+    {
+      "sl": "シエラレオネ"
+    },
+    {
+      "sv": "エルサルバドル"
+    },
+    {
+      "sm": "サンマリノ"
+    },
+    {
+      "so": "ソマリア"
+    },
+    {
+      "pm": "サンピエール島・ミクロン島"
+    },
+    {
+      "rs": "セルビア"
+    },
+    {
+      "ss": "南スーダン"
+    },
+    {
+      "st": "サントメ・プリンシペ"
+    },
+    {
+      "sr": "スリナム"
+    },
+    {
+      "sk": "スロバキア"
+    },
+    {
+      "si": "スロベニア"
+    },
+    {
+      "se": "スウェーデン"
+    },
+    {
+      "sz": "スワジランド"
+    },
+    {
+      "sx": "シント・マールテン"
+    },
+    {
+      "sc": "セーシェル"
+    },
+    {
+      "sy": "シリア・アラブ共和国"
+    },
+    {
+      "tc": "タークス・カイコス諸島"
+    },
+    {
+      "td": "チャド"
+    },
+    {
+      "tg": "トーゴ"
+    },
+    {
+      "th": "タイ"
+    },
+    {
+      "tj": "タジキスタン"
+    },
+    {
+      "tk": "トケラウ"
+    },
+    {
+      "tm": "トルクメニスタン"
+    },
+    {
+      "tl": "東ティモール"
+    },
+    {
+      "to": "トンガ"
+    },
+    {
+      "tt": "トリニダード・トバゴ"
+    },
+    {
+      "tn": "チュニジア"
+    },
+    {
+      "tr": "トルコ"
+    },
+    {
+      "tv": "ツバル"
+    },
+    {
+      "tw": "台湾"
+    },
+    {
+      "tz": "タンザニア"
+    },
+    {
+      "ug": "ウガンダ"
+    },
+    {
+      "ua": "ウクライナ"
+    },
+    {
+      "um": "合衆国領有小離島"
+    },
+    {
+      "uy": "ウルグアイ"
+    },
+    {
+      "us": "アメリカ合衆国"
+    },
+    {
+      "uz": "ウズベキスタン"
+    },
+    {
+      "va": "バチカン市国"
+    },
+    {
+      "vc": "セントビンセントおよびグレナディーン諸島"
+    },
+    {
+      "ve": "ベネズエラ・ボリバル共和国"
+    },
+    {
+      "vg": "イギリス領ヴァージン諸島"
+    },
+    {
+      "vi": "アメリカ領ヴァージン諸島"
+    },
+    {
+      "vn": "ベトナム"
+    },
+    {
+      "vu": "バヌアツ"
+    },
+    {
+      "wf": "ウォリス・フツナ"
+    },
+    {
+      "ws": "サモア"
+    },
+    {
+      "ye": "イエメン"
+    },
+    {
+      "za": "南アフリカ"
+    },
+    {
+      "zm": "ザンビア"
+    },
+    {
+      "zw": "ジンバブエ"
+    }
+  ],
+  "pt": [
+    {
+      "aw": "Aruba"
+    },
+    {
+      "af": "Afeganistão"
+    },
+    {
+      "ao": "Angola"
+    },
+    {
+      "ai": "Anguilla"
+    },
+    {
+      "ax": "Alândia"
+    },
+    {
+      "al": "Albânia"
+    },
+    {
+      "ad": "Andorra"
+    },
+    {
+      "ae": "Emirados Árabes Unidos"
+    },
+    {
+      "ar": "Argentina"
+    },
+    {
+      "am": "Arménia"
+    },
+    {
+      "as": "Samoa Americana"
+    },
+    {
+      "aq": "Antártida"
+    },
+    {
+      "tf": "Terras Austrais e Antárticas Francesas"
+    },
+    {
+      "ag": "Antígua e Barbuda"
+    },
+    {
+      "au": "Austrália"
+    },
+    {
+      "at": "Áustria"
+    },
+    {
+      "az": "Azerbeijão"
+    },
+    {
+      "bi": "Burundi"
+    },
+    {
+      "be": "Bélgica"
+    },
+    {
+      "bj": "Benin"
+    },
+    {
+      "bf": "Burkina Faso"
+    },
+    {
+      "bd": "Bangladesh"
+    },
+    {
+      "bg": "Bulgária"
+    },
+    {
+      "bh": "Bahrein"
+    },
+    {
+      "bs": "Bahamas"
+    },
+    {
+      "ba": "Bósnia e Herzegovina"
+    },
+    {
+      "bl": "São Bartolomeu"
+    },
+    {
+      "sh": "Santa Helena, Ascensão e Tristão da Cunha"
+    },
+    {
+      "by": "Bielorússia"
+    },
+    {
+      "bz": "Belize"
+    },
+    {
+      "bm": "Bermudas"
+    },
+    {
+      "bo": "Bolívia"
+    },
+    {
+      "bq": "Países Baixos Caribenhos"
+    },
+    {
+      "br": "Brasil"
+    },
+    {
+      "bb": "Barbados"
+    },
+    {
+      "bn": "Brunei"
+    },
+    {
+      "bt": "Butão"
+    },
+    {
+      "bv": "Ilha Bouvet"
+    },
+    {
+      "bw": "Botswana"
+    },
+    {
+      "cf": "República Centro-Africana"
+    },
+    {
+      "ca": "Canadá"
+    },
+    {
+      "cc": "Ilhas Cocos (Keeling)"
+    },
+    {
+      "ch": "Suíça"
+    },
+    {
+      "cl": "Chile"
+    },
+    {
+      "cn": "China"
+    },
+    {
+      "ci": "Costa do Marfim"
+    },
+    {
+      "cm": "Camarões"
+    },
+    {
+      "cd": "República Democrática do Congo"
+    },
+    {
+      "cg": "Congo"
+    },
+    {
+      "ck": "Ilhas Cook"
+    },
+    {
+      "co": "Colômbia"
+    },
+    {
+      "km": "Comores"
+    },
+    {
+      "cv": "Cabo Verde"
+    },
+    {
+      "cr": "Costa Rica"
+    },
+    {
+      "cu": "Cuba"
+    },
+    {
+      "cw": "ilha da Curação"
+    },
+    {
+      "cx": "Ilha do Natal"
+    },
+    {
+      "ky": "Ilhas Caimão"
+    },
+    {
+      "cy": "Chipre"
+    },
+    {
+      "cz": "Chéquia"
+    },
+    {
+      "de": "Alemanha"
+    },
+    {
+      "dj": "Djibouti"
+    },
+    {
+      "dm": "Dominica"
+    },
+    {
+      "dk": "Dinamarca"
+    },
+    {
+      "do": "República Dominicana"
+    },
+    {
+      "dz": "Argélia"
+    },
+    {
+      "ec": "Equador"
+    },
+    {
+      "eg": "Egito"
+    },
+    {
+      "er": "Eritreia"
+    },
+    {
+      "eh": "Saara Ocidental"
+    },
+    {
+      "es": "Espanha"
+    },
+    {
+      "ee": "Estónia"
+    },
+    {
+      "et": "Etiópia"
+    },
+    {
+      "fi": "Finlândia"
+    },
+    {
+      "fj": "Fiji"
+    },
+    {
+      "fk": "Ilhas Malvinas"
+    },
+    {
+      "fr": "França"
+    },
+    {
+      "fo": "Ilhas Faroé"
+    },
+    {
+      "fm": "Micronésia"
+    },
+    {
+      "ga": "Gabão"
+    },
+    {
+      "gb": "Reino Unido"
+    },
+    {
+      "ge": "Geórgia"
+    },
+    {
+      "gg": "Guernsey"
+    },
+    {
+      "gh": "Gana"
+    },
+    {
+      "gi": "Gibraltar"
+    },
+    {
+      "gn": "Guiné"
+    },
+    {
+      "gp": "Guadalupe"
+    },
+    {
+      "gm": "Gâmbia"
+    },
+    {
+      "gw": "Guiné-Bissau"
+    },
+    {
+      "gq": "Guiné Equatorial"
+    },
+    {
+      "gr": "Grécia"
+    },
+    {
+      "gd": "Granada"
+    },
+    {
+      "gl": "Gronelândia"
+    },
+    {
+      "gt": "Guatemala"
+    },
+    {
+      "gf": "Guiana Francesa"
+    },
+    {
+      "gu": "Guam"
+    },
+    {
+      "gy": "Guiana"
+    },
+    {
+      "hk": "Hong Kong"
+    },
+    {
+      "hm": "Ilha Heard e Ilhas McDonald"
+    },
+    {
+      "hn": "Honduras"
+    },
+    {
+      "hr": "Croácia"
+    },
+    {
+      "ht": "Haiti"
+    },
+    {
+      "hu": "Hungria"
+    },
+    {
+      "id": "Indonésia"
+    },
+    {
+      "im": "Ilha de Man"
+    },
+    {
+      "in": "Índia"
+    },
+    {
+      "io": "Território Britânico do Oceano Índico"
+    },
+    {
+      "ie": "Irlanda"
+    },
+    {
+      "ir": "Irão"
+    },
+    {
+      "iq": "Iraque"
+    },
+    {
+      "is": "Islândia"
+    },
+    {
+      "il": "Israel"
+    },
+    {
+      "it": "Itália"
+    },
+    {
+      "jm": "Jamaica"
+    },
+    {
+      "je": "Jersey"
+    },
+    {
+      "jo": "Jordânia"
+    },
+    {
+      "jp": "Japão"
+    },
+    {
+      "kz": "Cazaquistão"
+    },
+    {
+      "ke": "Quénia"
+    },
+    {
+      "kg": "Quirguistão"
+    },
+    {
+      "kh": "Camboja"
+    },
+    {
+      "ki": "Kiribati"
+    },
+    {
+      "kn": "São Cristóvão e Nevis"
+    },
+    {
+      "kr": "Coreia do Sul"
+    },
+    {
+      "xk": "Kosovo"
+    },
+    {
+      "kw": "Kuwait"
+    },
+    {
+      "la": "Laos"
+    },
+    {
+      "lb": "Líbano"
+    },
+    {
+      "lr": "Libéria"
+    },
+    {
+      "ly": "Líbia"
+    },
+    {
+      "lc": "Santa Lúcia"
+    },
+    {
+      "li": "Liechtenstein"
+    },
+    {
+      "lk": "Sri Lanka"
+    },
+    {
+      "ls": "Lesoto"
+    },
+    {
+      "lt": "Lituânia"
+    },
+    {
+      "lu": "Luxemburgo"
+    },
+    {
+      "lv": "Letónia"
+    },
+    {
+      "mo": "Macau"
+    },
+    {
+      "mf": "São Martinho"
+    },
+    {
+      "ma": "Marrocos"
+    },
+    {
+      "mc": "Mónaco"
+    },
+    {
+      "md": "Moldávia"
+    },
+    {
+      "mg": "Madagáscar"
+    },
+    {
+      "mv": "Maldivas"
+    },
+    {
+      "mx": "México"
+    },
+    {
+      "mh": "Ilhas Marshall"
+    },
+    {
+      "mk": "Macedónia do Norte"
+    },
+    {
+      "ml": "Mali"
+    },
+    {
+      "mt": "Malta"
+    },
+    {
+      "mm": "Myanmar"
+    },
+    {
+      "me": "Montenegro"
+    },
+    {
+      "mn": "Mongólia"
+    },
+    {
+      "mp": "Marianas Setentrionais"
+    },
+    {
+      "mz": "Moçambique"
+    },
+    {
+      "mr": "Mauritânia"
+    },
+    {
+      "ms": "Montserrat"
+    },
+    {
+      "mq": "Martinica"
+    },
+    {
+      "mu": "Maurício"
+    },
+    {
+      "mw": "Malawi"
+    },
+    {
+      "my": "Malásia"
+    },
+    {
+      "yt": "Mayotte"
+    },
+    {
+      "na": "Namíbia"
+    },
+    {
+      "nc": "Nova Caledónia"
+    },
+    {
+      "ne": "Níger"
+    },
+    {
+      "nf": "Ilha Norfolk"
+    },
+    {
+      "ng": "Nigéria"
+    },
+    {
+      "ni": "Nicarágua"
+    },
+    {
+      "nu": "Niue"
+    },
+    {
+      "nl": "Holanda"
+    },
+    {
+      "no": "Noruega"
+    },
+    {
+      "np": "Nepal"
+    },
+    {
+      "nr": "Nauru"
+    },
+    {
+      "nz": "Nova Zelândia"
+    },
+    {
+      "om": "Omã"
+    },
+    {
+      "pk": "Paquistão"
+    },
+    {
+      "pa": "Panamá"
+    },
+    {
+      "pn": "Ilhas Pitcairn"
+    },
+    {
+      "pe": "Perú"
+    },
+    {
+      "ph": "Filipinas"
+    },
+    {
+      "pw": "Palau"
+    },
+    {
+      "pg": "Papua Nova Guiné"
+    },
+    {
+      "pl": "Polónia"
+    },
+    {
+      "pr": "Porto Rico"
+    },
+    {
+      "kp": "Coreia do Norte"
+    },
+    {
+      "pt": "Portugal"
+    },
+    {
+      "py": "Paraguai"
+    },
+    {
+      "ps": "Palestina"
+    },
+    {
+      "pf": "Polinésia Francesa"
+    },
+    {
+      "qa": "Catar"
+    },
+    {
+      "re": "Reunião"
+    },
+    {
+      "ro": "Roménia"
+    },
+    {
+      "ru": "Rússia"
+    },
+    {
+      "rw": "Ruanda"
+    },
+    {
+      "sa": "Arábia Saudita"
+    },
+    {
+      "sd": "Sudão"
+    },
+    {
+      "sn": "Senegal"
+    },
+    {
+      "sg": "Singapura"
+    },
+    {
+      "gs": "Ilhas Geórgia do Sul e Sandwich do Sul"
+    },
+    {
+      "sj": "Ilhas Svalbard e Jan Mayen"
+    },
+    {
+      "sb": "Ilhas Salomão"
+    },
+    {
+      "sl": "Serra Leoa"
+    },
+    {
+      "sv": "El Salvador"
+    },
+    {
+      "sm": "San Marino"
+    },
+    {
+      "so": "Somália"
+    },
+    {
+      "pm": "Saint-Pierre e Miquelon"
+    },
+    {
+      "rs": "Sérvia"
+    },
+    {
+      "ss": "Sudão do Sul"
+    },
+    {
+      "st": "São Tomé e Príncipe"
+    },
+    {
+      "sr": "Suriname"
+    },
+    {
+      "sk": "Eslováquia"
+    },
+    {
+      "si": "Eslovénia"
+    },
+    {
+      "se": "Suécia"
+    },
+    {
+      "sz": "Suazilândia"
+    },
+    {
+      "sx": "São Martinho"
+    },
+    {
+      "sc": "Seicheles"
+    },
+    {
+      "sy": "Síria"
+    },
+    {
+      "tc": "Ilhas Turks e Caicos"
+    },
+    {
+      "td": "Chade"
+    },
+    {
+      "tg": "Togo"
+    },
+    {
+      "th": "Tailândia"
+    },
+    {
+      "tj": "Tajiquistão"
+    },
+    {
+      "tk": "Tokelau"
+    },
+    {
+      "tm": "Turquemenistão"
+    },
+    {
+      "tl": "Timor-Leste"
+    },
+    {
+      "to": "Tonga"
+    },
+    {
+      "tt": "Trinidade e Tobago"
+    },
+    {
+      "tn": "Tunísia"
+    },
+    {
+      "tr": "Turquia"
+    },
+    {
+      "tv": "Tuvalu"
+    },
+    {
+      "tw": "Ilha Formosa"
+    },
+    {
+      "tz": "Tanzânia"
+    },
+    {
+      "ug": "Uganda"
+    },
+    {
+      "ua": "Ucrânia"
+    },
+    {
+      "um": "Ilhas Menores Distantes dos Estados Unidos"
+    },
+    {
+      "uy": "Uruguai"
+    },
+    {
+      "us": "Estados Unidos"
+    },
+    {
+      "uz": "Uzbequistão"
+    },
+    {
+      "va": "Cidade do Vaticano"
+    },
+    {
+      "vc": "São Vincente e Granadinas"
+    },
+    {
+      "ve": "Venezuela"
+    },
+    {
+      "vg": "Ilhas Virgens"
+    },
+    {
+      "vi": "Ilhas Virgens dos Estados Unidos"
+    },
+    {
+      "vn": "Vietname"
+    },
+    {
+      "vu": "Vanuatu"
+    },
+    {
+      "wf": "Wallis e Futuna"
+    },
+    {
+      "ws": "Samoa"
+    },
+    {
+      "ye": "Iémen"
+    },
+    {
+      "za": "África do Sul"
+    },
+    {
+      "zm": "Zâmbia"
+    },
+    {
+      "zw": "Zimbabwe"
+    }
+  ],
+  "ru": [
+    {
+      "aw": "Аруба"
+    },
+    {
+      "af": "Афганистан"
+    },
+    {
+      "ao": "Ангола"
+    },
+    {
+      "ai": "Ангилья"
+    },
+    {
+      "ax": "Аландские острова"
+    },
+    {
+      "al": "Албания"
+    },
+    {
+      "ad": "Андорра"
+    },
+    {
+      "ae": "Объединённые Арабские Эмираты"
+    },
+    {
+      "ar": "Аргентина"
+    },
+    {
+      "am": "Армения"
+    },
+    {
+      "as": "Американское Самоа"
+    },
+    {
+      "aq": "Антарктида"
+    },
+    {
+      "tf": "Французские Южные и Антарктические территории"
+    },
+    {
+      "ag": "Антигуа и Барбуда"
+    },
+    {
+      "au": "Австралия"
+    },
+    {
+      "at": "Австрия"
+    },
+    {
+      "az": "Азербайджан"
+    },
+    {
+      "bi": "Бурунди"
+    },
+    {
+      "be": "Бельгия"
+    },
+    {
+      "bj": "Бенин"
+    },
+    {
+      "bf": "Буркина-Фасо"
+    },
+    {
+      "bd": "Бангладеш"
+    },
+    {
+      "bg": "Болгария"
+    },
+    {
+      "bh": "Бахрейн"
+    },
+    {
+      "bs": "Багамские Острова"
+    },
+    {
+      "ba": "Босния и Герцеговина"
+    },
+    {
+      "bl": "Сен-Бартелеми"
+    },
+    {
+      "sh": "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+    },
+    {
+      "by": "Беларусь"
+    },
+    {
+      "bz": "Белиз"
+    },
+    {
+      "bm": "Бермудские Острова"
+    },
+    {
+      "bo": "Боливия"
+    },
+    {
+      "bq": "Карибские Нидерланды"
+    },
+    {
+      "br": "Бразилия"
+    },
+    {
+      "bb": "Барбадос"
+    },
+    {
+      "bn": "Бруней"
+    },
+    {
+      "bt": "Бутан"
+    },
+    {
+      "bv": "Остров Буве"
+    },
+    {
+      "bw": "Ботсвана"
+    },
+    {
+      "cf": "Центральноафриканская Республика"
+    },
+    {
+      "ca": "Канада"
+    },
+    {
+      "cc": "Кокосовые острова"
+    },
+    {
+      "ch": "Швейцария"
+    },
+    {
+      "cl": "Чили"
+    },
+    {
+      "cn": "Китай"
+    },
+    {
+      "ci": "Кот-д’Ивуар"
+    },
+    {
+      "cm": "Камерун"
+    },
+    {
+      "cd": "Демократическая Республика Конго"
+    },
+    {
+      "cg": "Республика Конго"
+    },
+    {
+      "ck": "Острова Кука"
+    },
+    {
+      "co": "Колумбия"
+    },
+    {
+      "km": "Коморы"
+    },
+    {
+      "cv": "Кабо-Верде"
+    },
+    {
+      "cr": "Коста-Рика"
+    },
+    {
+      "cu": "Куба"
+    },
+    {
+      "cw": "Кюрасао"
+    },
+    {
+      "cx": "Остров Рождества"
+    },
+    {
+      "ky": "Каймановы острова"
+    },
+    {
+      "cy": "Кипр"
+    },
+    {
+      "cz": "Чехия"
+    },
+    {
+      "de": "Германия"
+    },
+    {
+      "dj": "Джибути"
+    },
+    {
+      "dm": "Доминика"
+    },
+    {
+      "dk": "Дания"
+    },
+    {
+      "do": "Доминиканская Республика"
+    },
+    {
+      "dz": "Алжир"
+    },
+    {
+      "ec": "Эквадор"
+    },
+    {
+      "eg": "Египет"
+    },
+    {
+      "er": "Эритрея"
+    },
+    {
+      "eh": "Западная Сахара"
+    },
+    {
+      "es": "Испания"
+    },
+    {
+      "ee": "Эстония"
+    },
+    {
+      "et": "Эфиопия"
+    },
+    {
+      "fi": "Финляндия"
+    },
+    {
+      "fj": "Фиджи"
+    },
+    {
+      "fk": "Фолклендские острова"
+    },
+    {
+      "fr": "Франция"
+    },
+    {
+      "fo": "Фарерские острова"
+    },
+    {
+      "fm": "Федеративные Штаты Микронезии"
+    },
+    {
+      "ga": "Габон"
+    },
+    {
+      "gb": "Великобритания"
+    },
+    {
+      "ge": "Грузия"
+    },
+    {
+      "gg": "Гернси"
+    },
+    {
+      "gh": "Гана"
+    },
+    {
+      "gi": "Гибралтар"
+    },
+    {
+      "gn": "Гвинея"
+    },
+    {
+      "gp": "Гваделупа"
+    },
+    {
+      "gm": "Гамбия"
+    },
+    {
+      "gw": "Гвинея-Бисау"
+    },
+    {
+      "gq": "Экваториальная Гвинея"
+    },
+    {
+      "gr": "Греция"
+    },
+    {
+      "gd": "Гренада"
+    },
+    {
+      "gl": "Гренландия"
+    },
+    {
+      "gt": "Гватемала"
+    },
+    {
+      "gf": "Французская Гвиана"
+    },
+    {
+      "gu": "Гуам"
+    },
+    {
+      "gy": "Гайана"
+    },
+    {
+      "hk": "Гонконг"
+    },
+    {
+      "hm": "Остров Херд и острова Макдональд"
+    },
+    {
+      "hn": "Гондурас"
+    },
+    {
+      "hr": "Хорватия"
+    },
+    {
+      "ht": "Гаити"
+    },
+    {
+      "hu": "Венгрия"
+    },
+    {
+      "id": "Индонезия"
+    },
+    {
+      "im": "Остров Мэн"
+    },
+    {
+      "in": "Индия"
+    },
+    {
+      "io": "Британская территория в Индийском океане"
+    },
+    {
+      "ie": "Ирландия"
+    },
+    {
+      "ir": "Иран"
+    },
+    {
+      "iq": "Ирак"
+    },
+    {
+      "is": "Исландия"
+    },
+    {
+      "il": "Израиль"
+    },
+    {
+      "it": "Италия"
+    },
+    {
+      "jm": "Ямайка"
+    },
+    {
+      "je": "Джерси"
+    },
+    {
+      "jo": "Иордания"
+    },
+    {
+      "jp": "Япония"
+    },
+    {
+      "kz": "Казахстан"
+    },
+    {
+      "ke": "Кения"
+    },
+    {
+      "kg": "Киргизия"
+    },
+    {
+      "kh": "Камбоджа"
+    },
+    {
+      "ki": "Кирибати"
+    },
+    {
+      "kn": "Сент-Китс и Невис"
+    },
+    {
+      "kr": "Южная Корея"
+    },
+    {
+      "xk": "Республика Косово"
+    },
+    {
+      "kw": "Кувейт"
+    },
+    {
+      "la": "Лаос"
+    },
+    {
+      "lb": "Ливан"
+    },
+    {
+      "lr": "Либерия"
+    },
+    {
+      "ly": "Ливия"
+    },
+    {
+      "lc": "Сент-Люсия"
+    },
+    {
+      "li": "Лихтенштейн"
+    },
+    {
+      "lk": "Шри-Ланка"
+    },
+    {
+      "ls": "Лесото"
+    },
+    {
+      "lt": "Литва"
+    },
+    {
+      "lu": "Люксембург"
+    },
+    {
+      "lv": "Латвия"
+    },
+    {
+      "mo": "Макао"
+    },
+    {
+      "mf": "Сен-Мартен"
+    },
+    {
+      "ma": "Марокко"
+    },
+    {
+      "mc": "Монако"
+    },
+    {
+      "md": "Молдавия"
+    },
+    {
+      "mg": "Мадагаскар"
+    },
+    {
+      "mv": "Мальдивы"
+    },
+    {
+      "mx": "Мексика"
+    },
+    {
+      "mh": "Маршалловы Острова"
+    },
+    {
+      "mk": "Северная Македония"
+    },
+    {
+      "ml": "Мали"
+    },
+    {
+      "mt": "Мальта"
+    },
+    {
+      "mm": "Мьянма"
+    },
+    {
+      "me": "Черногория"
+    },
+    {
+      "mn": "Монголия"
+    },
+    {
+      "mp": "Северные Марианские острова"
+    },
+    {
+      "mz": "Мозамбик"
+    },
+    {
+      "mr": "Мавритания"
+    },
+    {
+      "ms": "Монтсеррат"
+    },
+    {
+      "mq": "Мартиника"
+    },
+    {
+      "mu": "Маврикий"
+    },
+    {
+      "mw": "Малави"
+    },
+    {
+      "my": "Малайзия"
+    },
+    {
+      "yt": "Майотта"
+    },
+    {
+      "na": "Намибия"
+    },
+    {
+      "nc": "Новая Каледония"
+    },
+    {
+      "ne": "Нигер"
+    },
+    {
+      "nf": "Норфолк"
+    },
+    {
+      "ng": "Нигерия"
+    },
+    {
+      "ni": "Никарагуа"
+    },
+    {
+      "nu": "Ниуэ"
+    },
+    {
+      "nl": "Нидерланды"
+    },
+    {
+      "no": "Норвегия"
+    },
+    {
+      "np": "Непал"
+    },
+    {
+      "nr": "Науру"
+    },
+    {
+      "nz": "Новая Зеландия"
+    },
+    {
+      "om": "Оман"
+    },
+    {
+      "pk": "Пакистан"
+    },
+    {
+      "pa": "Панама"
+    },
+    {
+      "pn": "Острова Питкэрн"
+    },
+    {
+      "pe": "Перу"
+    },
+    {
+      "ph": "Филиппины"
+    },
+    {
+      "pw": "Палау"
+    },
+    {
+      "pg": "Папуа — Новая Гвинея"
+    },
+    {
+      "pl": "Польша"
+    },
+    {
+      "pr": "Пуэрто-Рико"
+    },
+    {
+      "kp": "Северная Корея"
+    },
+    {
+      "pt": "Португалия"
+    },
+    {
+      "py": "Парагвай"
+    },
+    {
+      "ps": "Палестина"
+    },
+    {
+      "pf": "Французская Полинезия"
+    },
+    {
+      "qa": "Катар"
+    },
+    {
+      "re": "Реюньон"
+    },
+    {
+      "ro": "Румыния"
+    },
+    {
+      "ru": "Россия"
+    },
+    {
+      "rw": "Руанда"
+    },
+    {
+      "sa": "Саудовская Аравия"
+    },
+    {
+      "sd": "Судан"
+    },
+    {
+      "sn": "Сенегал"
+    },
+    {
+      "sg": "Сингапур"
+    },
+    {
+      "gs": "Южная Георгия и Южные Сандвичевы острова"
+    },
+    {
+      "sj": "Шпицберген и Ян-Майен"
+    },
+    {
+      "sb": "Соломоновы Острова"
+    },
+    {
+      "sl": "Сьерра-Леоне"
+    },
+    {
+      "sv": "Сальвадор"
+    },
+    {
+      "sm": "Сан-Марино"
+    },
+    {
+      "so": "Сомали"
+    },
+    {
+      "pm": "Сен-Пьер и Микелон"
+    },
+    {
+      "rs": "Сербия"
+    },
+    {
+      "ss": "Южный Судан"
+    },
+    {
+      "st": "Сан-Томе и Принсипи"
+    },
+    {
+      "sr": "Суринам"
+    },
+    {
+      "sk": "Словакия"
+    },
+    {
+      "si": "Словения"
+    },
+    {
+      "se": "Швеция"
+    },
+    {
+      "sz": "Свазиленд"
+    },
+    {
+      "sx": "Синт-Мартен"
+    },
+    {
+      "sc": "Сейшельские Острова"
+    },
+    {
+      "sy": "Сирия"
+    },
+    {
+      "tc": "Теркс и Кайкос"
+    },
+    {
+      "td": "Чад"
+    },
+    {
+      "tg": "Того"
+    },
+    {
+      "th": "Таиланд"
+    },
+    {
+      "tj": "Таджикистан"
+    },
+    {
+      "tk": "Токелау"
+    },
+    {
+      "tm": "Туркмения"
+    },
+    {
+      "tl": "Восточный Тимор"
+    },
+    {
+      "to": "Тонга"
+    },
+    {
+      "tt": "Тринидад и Тобаго"
+    },
+    {
+      "tn": "Тунис"
+    },
+    {
+      "tr": "Турция"
+    },
+    {
+      "tv": "Тувалу"
+    },
+    {
+      "tw": "Тайвань"
+    },
+    {
+      "tz": "Танзания"
+    },
+    {
+      "ug": "Уганда"
+    },
+    {
+      "ua": "Украина"
+    },
+    {
+      "um": "Внешние малые острова США"
+    },
+    {
+      "uy": "Уругвай"
+    },
+    {
+      "us": "Соединённые Штаты Америки"
+    },
+    {
+      "uz": "Узбекистан"
+    },
+    {
+      "va": "Ватикан"
+    },
+    {
+      "vc": "Сент-Винсент и Гренадины"
+    },
+    {
+      "ve": "Венесуэла"
+    },
+    {
+      "vg": "Британские Виргинские острова"
+    },
+    {
+      "vi": "Виргинские Острова"
+    },
+    {
+      "vn": "Вьетнам"
+    },
+    {
+      "vu": "Вануату"
+    },
+    {
+      "wf": "Уоллис и Футуна"
+    },
+    {
+      "ws": "Самоа"
+    },
+    {
+      "ye": "Йемен"
+    },
+    {
+      "za": "Южно-Африканская Республика"
+    },
+    {
+      "zm": "Замбия"
+    },
+    {
+      "zw": "Зимбабве"
+    }
+  ],
+  "zh": [
+    {
+      "aw": "阿鲁巴"
+    },
+    {
+      "af": "阿富汗"
+    },
+    {
+      "ao": "安哥拉"
+    },
+    {
+      "ai": "安圭拉"
+    },
+    {
+      "ax": "奥兰群岛"
+    },
+    {
+      "al": "阿尔巴尼亚"
+    },
+    {
+      "ad": "安道尔"
+    },
+    {
+      "ae": "阿拉伯联合酋长国"
+    },
+    {
+      "ar": "阿根廷"
+    },
+    {
+      "am": "亚美尼亚"
+    },
+    {
+      "as": "美属萨摩亚"
+    },
+    {
+      "aq": "南极洲"
+    },
+    {
+      "tf": "法国南部和南极土地"
+    },
+    {
+      "ag": "安提瓜和巴布达"
+    },
+    {
+      "au": "澳大利亚"
+    },
+    {
+      "at": "奥地利"
+    },
+    {
+      "az": "阿塞拜疆"
+    },
+    {
+      "bi": "布隆迪"
+    },
+    {
+      "be": "比利时"
+    },
+    {
+      "bj": "贝宁"
+    },
+    {
+      "bf": "布基纳法索"
+    },
+    {
+      "bd": "孟加拉国"
+    },
+    {
+      "bg": "保加利亚"
+    },
+    {
+      "bh": "巴林"
+    },
+    {
+      "bs": "巴哈马"
+    },
+    {
+      "ba": "波斯尼亚和黑塞哥维那"
+    },
+    {
+      "bl": "圣巴泰勒米"
+    },
+    {
+      "sh": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+    },
+    {
+      "by": "白俄罗斯"
+    },
+    {
+      "bz": "伯利兹"
+    },
+    {
+      "bm": "百慕大"
+    },
+    {
+      "bo": "玻利维亚"
+    },
+    {
+      "bq": "荷蘭加勒比區"
+    },
+    {
+      "br": "巴西"
+    },
+    {
+      "bb": "巴巴多斯"
+    },
+    {
+      "bn": "文莱"
+    },
+    {
+      "bt": "不丹"
+    },
+    {
+      "bv": "布维岛"
+    },
+    {
+      "bw": "博茨瓦纳"
+    },
+    {
+      "cf": "中非共和国"
+    },
+    {
+      "ca": "加拿大"
+    },
+    {
+      "cc": "科科斯"
+    },
+    {
+      "ch": "瑞士"
+    },
+    {
+      "cl": "智利"
+    },
+    {
+      "cn": "China"
+    },
+    {
+      "ci": "科特迪瓦"
+    },
+    {
+      "cm": "喀麦隆"
+    },
+    {
+      "cd": "民主刚果"
+    },
+    {
+      "cg": "刚果"
+    },
+    {
+      "ck": "库克群岛"
+    },
+    {
+      "co": "哥伦比亚"
+    },
+    {
+      "km": "科摩罗"
+    },
+    {
+      "cv": "佛得角"
+    },
+    {
+      "cr": "哥斯达黎加"
+    },
+    {
+      "cu": "古巴"
+    },
+    {
+      "cw": "库拉索"
+    },
+    {
+      "cx": "圣诞岛"
+    },
+    {
+      "ky": "开曼群岛"
+    },
+    {
+      "cy": "塞浦路斯"
+    },
+    {
+      "cz": "捷克"
+    },
+    {
+      "de": "德国"
+    },
+    {
+      "dj": "吉布提"
+    },
+    {
+      "dm": "多米尼加"
+    },
+    {
+      "dk": "丹麦"
+    },
+    {
+      "do": "多明尼加"
+    },
+    {
+      "dz": "阿尔及利亚"
+    },
+    {
+      "ec": "厄瓜多尔"
+    },
+    {
+      "eg": "埃及"
+    },
+    {
+      "er": "厄立特里亚"
+    },
+    {
+      "eh": "西撒哈拉"
+    },
+    {
+      "es": "西班牙"
+    },
+    {
+      "ee": "爱沙尼亚"
+    },
+    {
+      "et": "埃塞俄比亚"
+    },
+    {
+      "fi": "芬兰"
+    },
+    {
+      "fj": "斐济"
+    },
+    {
+      "fk": "福克兰群岛"
+    },
+    {
+      "fr": "法国"
+    },
+    {
+      "fo": "法罗群岛"
+    },
+    {
+      "fm": "密克罗尼西亚"
+    },
+    {
+      "ga": "加蓬"
+    },
+    {
+      "gb": "英国"
+    },
+    {
+      "ge": "格鲁吉亚"
+    },
+    {
+      "gg": "根西岛"
+    },
+    {
+      "gh": "加纳"
+    },
+    {
+      "gi": "直布罗陀"
+    },
+    {
+      "gn": "几内亚"
+    },
+    {
+      "gp": "瓜德罗普岛"
+    },
+    {
+      "gm": "冈比亚"
+    },
+    {
+      "gw": "几内亚比绍"
+    },
+    {
+      "gq": "赤道几内亚"
+    },
+    {
+      "gr": "希腊"
+    },
+    {
+      "gd": "格林纳达"
+    },
+    {
+      "gl": "格陵兰"
+    },
+    {
+      "gt": "危地马拉"
+    },
+    {
+      "gf": "法属圭亚那"
+    },
+    {
+      "gu": "关岛"
+    },
+    {
+      "gy": "圭亚那"
+    },
+    {
+      "hk": "Hong Kong"
+    },
+    {
+      "hm": "赫德岛和麦当劳群岛"
+    },
+    {
+      "hn": "洪都拉斯"
+    },
+    {
+      "hr": "克罗地亚"
+    },
+    {
+      "ht": "海地"
+    },
+    {
+      "hu": "匈牙利"
+    },
+    {
+      "id": "印度尼西亚"
+    },
+    {
+      "im": "马恩岛"
+    },
+    {
+      "in": "印度"
+    },
+    {
+      "io": "英属印度洋领地"
+    },
+    {
+      "ie": "爱尔兰"
+    },
+    {
+      "ir": "伊朗"
+    },
+    {
+      "iq": "伊拉克"
+    },
+    {
+      "is": "冰岛"
+    },
+    {
+      "il": "以色列"
+    },
+    {
+      "it": "意大利"
+    },
+    {
+      "jm": "牙买加"
+    },
+    {
+      "je": "泽西岛"
+    },
+    {
+      "jo": "约旦"
+    },
+    {
+      "jp": "日本"
+    },
+    {
+      "kz": "哈萨克斯坦"
+    },
+    {
+      "ke": "肯尼亚"
+    },
+    {
+      "kg": "吉尔吉斯斯坦"
+    },
+    {
+      "kh": "柬埔寨"
+    },
+    {
+      "ki": "基里巴斯"
+    },
+    {
+      "kn": "圣基茨和尼维斯"
+    },
+    {
+      "kr": "韩国"
+    },
+    {
+      "xk": "科索沃"
+    },
+    {
+      "kw": "科威特"
+    },
+    {
+      "la": "老挝"
+    },
+    {
+      "lb": "黎巴嫩"
+    },
+    {
+      "lr": "利比里亚"
+    },
+    {
+      "ly": "利比亚"
+    },
+    {
+      "lc": "圣卢西亚"
+    },
+    {
+      "li": "列支敦士登"
+    },
+    {
+      "lk": "斯里兰卡"
+    },
+    {
+      "ls": "莱索托"
+    },
+    {
+      "lt": "立陶宛"
+    },
+    {
+      "lu": "卢森堡"
+    },
+    {
+      "lv": "拉脱维亚"
+    },
+    {
+      "mo": "Macau"
+    },
+    {
+      "mf": "圣马丁"
+    },
+    {
+      "ma": "摩洛哥"
+    },
+    {
+      "mc": "摩纳哥"
+    },
+    {
+      "md": "摩尔多瓦"
+    },
+    {
+      "mg": "马达加斯加"
+    },
+    {
+      "mv": "马尔代夫"
+    },
+    {
+      "mx": "墨西哥"
+    },
+    {
+      "mh": "马绍尔群岛"
+    },
+    {
+      "mk": "北馬其頓"
+    },
+    {
+      "ml": "马里"
+    },
+    {
+      "mt": "马耳他"
+    },
+    {
+      "mm": "缅甸"
+    },
+    {
+      "me": "黑山"
+    },
+    {
+      "mn": "蒙古"
+    },
+    {
+      "mp": "北马里亚纳群岛"
+    },
+    {
+      "mz": "莫桑比克"
+    },
+    {
+      "mr": "毛里塔尼亚"
+    },
+    {
+      "ms": "蒙特塞拉特"
+    },
+    {
+      "mq": "马提尼克"
+    },
+    {
+      "mu": "毛里求斯"
+    },
+    {
+      "mw": "马拉维"
+    },
+    {
+      "my": "马来西亚"
+    },
+    {
+      "yt": "马约特"
+    },
+    {
+      "na": "纳米比亚"
+    },
+    {
+      "nc": "新喀里多尼亚"
+    },
+    {
+      "ne": "尼日尔"
+    },
+    {
+      "nf": "诺福克岛"
+    },
+    {
+      "ng": "尼日利亚"
+    },
+    {
+      "ni": "尼加拉瓜"
+    },
+    {
+      "nu": "纽埃"
+    },
+    {
+      "nl": "荷兰"
+    },
+    {
+      "no": "挪威"
+    },
+    {
+      "np": "尼泊尔"
+    },
+    {
+      "nr": "瑙鲁"
+    },
+    {
+      "nz": "新西兰"
+    },
+    {
+      "om": "阿曼"
+    },
+    {
+      "pk": "巴基斯坦"
+    },
+    {
+      "pa": "巴拿马"
+    },
+    {
+      "pn": "皮特凯恩群岛"
+    },
+    {
+      "pe": "秘鲁"
+    },
+    {
+      "ph": "菲律宾"
+    },
+    {
+      "pw": "帕劳"
+    },
+    {
+      "pg": "巴布亚新几内亚"
+    },
+    {
+      "pl": "波兰"
+    },
+    {
+      "pr": "波多黎各"
+    },
+    {
+      "kp": "朝鲜"
+    },
+    {
+      "pt": "葡萄牙"
+    },
+    {
+      "py": "巴拉圭"
+    },
+    {
+      "ps": "巴勒斯坦"
+    },
+    {
+      "pf": "法属波利尼西亚"
+    },
+    {
+      "qa": "卡塔尔"
+    },
+    {
+      "re": "留尼旺岛"
+    },
+    {
+      "ro": "罗马尼亚"
+    },
+    {
+      "ru": "俄罗斯"
+    },
+    {
+      "rw": "卢旺达"
+    },
+    {
+      "sa": "沙特阿拉伯"
+    },
+    {
+      "sd": "苏丹"
+    },
+    {
+      "sn": "塞内加尔"
+    },
+    {
+      "sg": "Singapore"
+    },
+    {
+      "gs": "南乔治亚"
+    },
+    {
+      "sj": "斯瓦尔巴特"
+    },
+    {
+      "sb": "所罗门群岛"
+    },
+    {
+      "sl": "塞拉利昂"
+    },
+    {
+      "sv": "萨尔瓦多"
+    },
+    {
+      "sm": "圣马力诺"
+    },
+    {
+      "so": "索马里"
+    },
+    {
+      "pm": "圣皮埃尔和密克隆"
+    },
+    {
+      "rs": "塞尔维亚"
+    },
+    {
+      "ss": "南苏丹"
+    },
+    {
+      "st": "圣多美和普林西比"
+    },
+    {
+      "sr": "苏里南"
+    },
+    {
+      "sk": "斯洛伐克"
+    },
+    {
+      "si": "斯洛文尼亚"
+    },
+    {
+      "se": "瑞典"
+    },
+    {
+      "sz": "斯威士兰"
+    },
+    {
+      "sx": "圣马丁岛"
+    },
+    {
+      "sc": "塞舌尔"
+    },
+    {
+      "sy": "叙利亚"
+    },
+    {
+      "tc": "特克斯和凯科斯群岛"
+    },
+    {
+      "td": "乍得"
+    },
+    {
+      "tg": "多哥"
+    },
+    {
+      "th": "泰国"
+    },
+    {
+      "tj": "塔吉克斯坦"
+    },
+    {
+      "tk": "托克劳"
+    },
+    {
+      "tm": "土库曼斯坦"
+    },
+    {
+      "tl": "东帝汶"
+    },
+    {
+      "to": "汤加"
+    },
+    {
+      "tt": "特立尼达和多巴哥"
+    },
+    {
+      "tn": "突尼斯"
+    },
+    {
+      "tr": "土耳其"
+    },
+    {
+      "tv": "图瓦卢"
+    },
+    {
+      "tw": "Taiwan"
+    },
+    {
+      "tz": "坦桑尼亚"
+    },
+    {
+      "ug": "乌干达"
+    },
+    {
+      "ua": "乌克兰"
+    },
+    {
+      "um": "美国本土外小岛屿"
+    },
+    {
+      "uy": "乌拉圭"
+    },
+    {
+      "us": "美国"
+    },
+    {
+      "uz": "乌兹别克斯坦"
+    },
+    {
+      "va": "梵蒂冈"
+    },
+    {
+      "vc": "圣文森特和格林纳丁斯"
+    },
+    {
+      "ve": "委内瑞拉"
+    },
+    {
+      "vg": "英属维尔京群岛"
+    },
+    {
+      "vi": "美属维尔京群岛"
+    },
+    {
+      "vn": "越南"
+    },
+    {
+      "vu": "瓦努阿图"
+    },
+    {
+      "wf": "瓦利斯和富图纳群岛"
+    },
+    {
+      "ws": "萨摩亚"
+    },
+    {
+      "ye": "也门"
+    },
+    {
+      "za": "南非"
+    },
+    {
+      "zm": "赞比亚"
+    },
+    {
+      "zw": "津巴布韦"
+    }
+  ]
+}

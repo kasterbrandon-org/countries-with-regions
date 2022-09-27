@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Aguascalientes",
+    "code": "mx.agu",
+    "country": "mx"
+  },
+  {
+    "name": "Baja California",
+    "code": "mx.bcn",
+    "country": "mx"
+  },
+  {
+    "name": "Baja California Sur",
+    "code": "mx.bcs",
+    "country": "mx"
+  },
+  {
+    "name": "Campeche",
+    "code": "mx.cam",
+    "country": "mx"
+  },
+  {
+    "name": "Ciudad de México",
+    "code": "mx.dif",
+    "country": "mx"
+  },
+  {
+    "name": "Chiapas",
+    "code": "mx.chp",
+    "country": "mx"
+  },
+  {
+    "name": "Chihuahua",
+    "code": "mx.chh",
+    "country": "mx"
+  },
+  {
+    "name": "Coahuila de Zaragoza",
+    "code": "mx.coa",
+    "country": "mx"
+  },
+  {
+    "name": "Colima",
+    "code": "mx.col",
+    "country": "mx"
+  },
+  {
+    "name": "Durango",
+    "code": "mx.dur",
+    "country": "mx"
+  },
+  {
+    "name": "Estado de México",
+    "code": "mx.mex",
+    "country": "mx"
+  },
+  {
+    "name": "Guanajuato",
+    "code": "mx.gua",
+    "country": "mx"
+  },
+  {
+    "name": "Guerrero",
+    "code": "mx.gro",
+    "country": "mx"
+  },
+  {
+    "name": "Hidalgo",
+    "code": "mx.hid",
+    "country": "mx"
+  },
+  {
+    "name": "Jalisco",
+    "code": "mx.jal",
+    "country": "mx"
+  },
+  {
+    "name": "Michoacán de Ocampo",
+    "code": "mx.mic",
+    "country": "mx"
+  },
+  {
+    "name": "Morelos",
+    "code": "mx.mor",
+    "country": "mx"
+  },
+  {
+    "name": "Nayarit",
+    "code": "mx.nay",
+    "country": "mx"
+  },
+  {
+    "name": "Nuevo León",
+    "code": "mx.nle",
+    "country": "mx"
+  },
+  {
+    "name": "Oaxaca",
+    "code": "mx.oax",
+    "country": "mx"
+  },
+  {
+    "name": "Puebla",
+    "code": "mx.pue",
+    "country": "mx"
+  },
+  {
+    "name": "Querétaro de Arteaga",
+    "code": "mx.que",
+    "country": "mx"
+  },
+  {
+    "name": "Quintana Roo",
+    "code": "mx.roo",
+    "country": "mx"
+  },
+  {
+    "name": "San Luis Potosí",
+    "code": "mx.slp",
+    "country": "mx"
+  },
+  {
+    "name": "Sinaloa",
+    "code": "mx.sin",
+    "country": "mx"
+  },
+  {
+    "name": "Sonora",
+    "code": "mx.son",
+    "country": "mx"
+  },
+  {
+    "name": "Tabasco",
+    "code": "mx.tab",
+    "country": "mx"
+  },
+  {
+    "name": "Tamaulipas",
+    "code": "mx.tam",
+    "country": "mx"
+  },
+  {
+    "name": "Tlaxcala",
+    "code": "mx.tla",
+    "country": "mx"
+  },
+  {
+    "name": "Veracruz",
+    "code": "mx.ver",
+    "country": "mx"
+  },
+  {
+    "name": "Yucatán",
+    "code": "mx.yuc",
+    "country": "mx"
+  },
+  {
+    "name": "Zacatecas",
+    "code": "mx.zac",
+    "country": "mx"
+  }
+]

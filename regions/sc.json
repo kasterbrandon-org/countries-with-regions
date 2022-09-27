@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Anse aux Pins",
+    "code": "sc.01",
+    "country": "sc"
+  },
+  {
+    "name": "Anse Boileau",
+    "code": "sc.02",
+    "country": "sc"
+  },
+  {
+    "name": "Anse Etoile",
+    "code": "sc.03",
+    "country": "sc"
+  },
+  {
+    "name": "Anse Royale",
+    "code": "sc.05",
+    "country": "sc"
+  },
+  {
+    "name": "Anu Cap",
+    "code": "sc.04",
+    "country": "sc"
+  },
+  {
+    "name": "Baie Lazare",
+    "code": "sc.06",
+    "country": "sc"
+  },
+  {
+    "name": "Baie Sainte Anne",
+    "code": "sc.07",
+    "country": "sc"
+  },
+  {
+    "name": "Beau Vallon",
+    "code": "sc.08",
+    "country": "sc"
+  },
+  {
+    "name": "Bel Air",
+    "code": "sc.09",
+    "country": "sc"
+  },
+  {
+    "name": "Bel Ombre",
+    "code": "sc.10",
+    "country": "sc"
+  },
+  {
+    "name": "Cascade",
+    "code": "sc.11",
+    "country": "sc"
+  },
+  {
+    "name": "Glacis",
+    "code": "sc.12",
+    "country": "sc"
+  },
+  {
+    "name": "Grand'Anse Mahe",
+    "code": "sc.13",
+    "country": "sc"
+  },
+  {
+    "name": "Grand'Anse Praslin",
+    "code": "sc.14",
+    "country": "sc"
+  },
+  {
+    "name": "La Digue",
+    "code": "sc.15",
+    "country": "sc"
+  },
+  {
+    "name": "La Riviere Anglaise",
+    "code": "sc.16",
+    "country": "sc"
+  },
+  {
+    "name": "Les Mamelles",
+    "code": "sc.24",
+    "country": "sc"
+  },
+  {
+    "name": "Mont Buxton",
+    "code": "sc.17",
+    "country": "sc"
+  },
+  {
+    "name": "Mont Fleuri",
+    "code": "sc.18",
+    "country": "sc"
+  },
+  {
+    "name": "Plaisance",
+    "code": "sc.19",
+    "country": "sc"
+  },
+  {
+    "name": "Pointe La Rue",
+    "code": "sc.20",
+    "country": "sc"
+  },
+  {
+    "name": "Port Glaud",
+    "code": "sc.21",
+    "country": "sc"
+  },
+  {
+    "name": "Roche Caiman",
+    "code": "sc.25",
+    "country": "sc"
+  },
+  {
+    "name": "Saint Louis",
+    "code": "sc.22",
+    "country": "sc"
+  },
+  {
+    "name": "Takamaka",
+    "code": "sc.23",
+    "country": "sc"
+  }
+]

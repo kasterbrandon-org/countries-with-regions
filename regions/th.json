@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Amnat Charoen",
+    "code": "th.37",
+    "country": "th"
+  },
+  {
+    "name": "Ang Thong",
+    "code": "th.15",
+    "country": "th"
+  },
+  {
+    "name": "Bueng Kan",
+    "code": "th.38",
+    "country": "th"
+  },
+  {
+    "name": "Buri Ram",
+    "code": "th.31",
+    "country": "th"
+  },
+  {
+    "name": "Chachoengsao",
+    "code": "th.24",
+    "country": "th"
+  },
+  {
+    "name": "Chai Nat",
+    "code": "th.18",
+    "country": "th"
+  },
+  {
+    "name": "Chaiyaphum",
+    "code": "th.36",
+    "country": "th"
+  },
+  {
+    "name": "Chanthaburi",
+    "code": "th.22",
+    "country": "th"
+  },
+  {
+    "name": "Chiang Mai",
+    "code": "th.50",
+    "country": "th"
+  },
+  {
+    "name": "Chiang Rai",
+    "code": "th.57",
+    "country": "th"
+  },
+  {
+    "name": "Chon Buri",
+    "code": "th.20",
+    "country": "th"
+  },
+  {
+    "name": "Chumphon",
+    "code": "th.86",
+    "country": "th"
+  },
+  {
+    "name": "Kalasin",
+    "code": "th.46",
+    "country": "th"
+  },
+  {
+    "name": "Kamphaeng Phet",
+    "code": "th.62",
+    "country": "th"
+  },
+  {
+    "name": "Kanchanaburi",
+    "code": "th.71",
+    "country": "th"
+  },
+  {
+    "name": "Khon Kaen",
+    "code": "th.40",
+    "country": "th"
+  },
+  {
+    "name": "Krabi",
+    "code": "th.81",
+    "country": "th"
+  },
+  {
+    "name": "Krung Thep Mahanakhon (Bangkok)",
+    "code": "th.10",
+    "country": "th"
+  },
+  {
+    "name": "Lampang",
+    "code": "th.52",
+    "country": "th"
+  },
+  {
+    "name": "Lamphun",
+    "code": "th.51",
+    "country": "th"
+  },
+  {
+    "name": "Loei",
+    "code": "th.42",
+    "country": "th"
+  },
+  {
+    "name": "Lop Buri",
+    "code": "th.16",
+    "country": "th"
+  },
+  {
+    "name": "Mae Hong Son",
+    "code": "th.58",
+    "country": "th"
+  },
+  {
+    "name": "Maha Sarakham",
+    "code": "th.44",
+    "country": "th"
+  },
+  {
+    "name": "Mukdahan",
+    "code": "th.49",
+    "country": "th"
+  },
+  {
+    "name": "Nakhon Nayok",
+    "code": "th.26",
+    "country": "th"
+  },
+  {
+    "name": "Nakhon Phathom",
+    "code": "th.73",
+    "country": "th"
+  },
+  {
+    "name": "Nakhon Phanom",
+    "code": "th.48",
+    "country": "th"
+  },
+  {
+    "name": "Nakhon Ratchasima",
+    "code": "th.30",
+    "country": "th"
+  },
+  {
+    "name": "Nakhon Sawan",
+    "code": "th.60",
+    "country": "th"
+  },
+  {
+    "name": "Nakhon Si Thammarat",
+    "code": "th.80",
+    "country": "th"
+  },
+  {
+    "name": "Nan",
+    "code": "th.55",
+    "country": "th"
+  },
+  {
+    "name": "Narathiwat",
+    "code": "th.96",
+    "country": "th"
+  },
+  {
+    "name": "Nong Bua Lam Phu",
+    "code": "th.39",
+    "country": "th"
+  },
+  {
+    "name": "Nong Khai",
+    "code": "th.43",
+    "country": "th"
+  },
+  {
+    "name": "Nonthaburi",
+    "code": "th.12",
+    "country": "th"
+  },
+  {
+    "name": "Pathum Thani",
+    "code": "th.13",
+    "country": "th"
+  },
+  {
+    "name": "Pattani",
+    "code": "th.94",
+    "country": "th"
+  },
+  {
+    "name": "Phangnga",
+    "code": "th.82",
+    "country": "th"
+  },
+  {
+    "name": "Phatthalung",
+    "code": "th.93",
+    "country": "th"
+  },
+  {
+    "name": "Phayao",
+    "code": "th.56",
+    "country": "th"
+  },
+  {
+    "name": "Phetchabun",
+    "code": "th.67",
+    "country": "th"
+  },
+  {
+    "name": "Phetchaburi",
+    "code": "th.76",
+    "country": "th"
+  },
+  {
+    "name": "Phichit",
+    "code": "th.66",
+    "country": "th"
+  },
+  {
+    "name": "Phitsanulok",
+    "code": "th.65",
+    "country": "th"
+  },
+  {
+    "name": "Phra Nakhon Si Ayutthaya",
+    "code": "th.14",
+    "country": "th"
+  },
+  {
+    "name": "Phrae",
+    "code": "th.54",
+    "country": "th"
+  },
+  {
+    "name": "Phuket",
+    "code": "th.83",
+    "country": "th"
+  },
+  {
+    "name": "Prachin Buri",
+    "code": "th.25",
+    "country": "th"
+  },
+  {
+    "name": "Prachuap Khiri Khan",
+    "code": "th.77",
+    "country": "th"
+  },
+  {
+    "name": "Ranong",
+    "code": "th.85",
+    "country": "th"
+  },
+  {
+    "name": "Ratchaburi",
+    "code": "th.70",
+    "country": "th"
+  },
+  {
+    "name": "Rayong",
+    "code": "th.21",
+    "country": "th"
+  },
+  {
+    "name": "Roi Et",
+    "code": "th.45",
+    "country": "th"
+  },
+  {
+    "name": "Sa Kaeo",
+    "code": "th.27",
+    "country": "th"
+  },
+  {
+    "name": "Sakon Nakhon",
+    "code": "th.47",
+    "country": "th"
+  },
+  {
+    "name": "Samut Prakan",
+    "code": "th.11",
+    "country": "th"
+  },
+  {
+    "name": "Samut Sakhon",
+    "code": "th.74",
+    "country": "th"
+  },
+  {
+    "name": "Samut Songkhram",
+    "code": "th.75",
+    "country": "th"
+  },
+  {
+    "name": "Saraburi",
+    "code": "th.19",
+    "country": "th"
+  },
+  {
+    "name": "Satun",
+    "code": "th.91",
+    "country": "th"
+  },
+  {
+    "name": "Sing Buri",
+    "code": "th.17",
+    "country": "th"
+  },
+  {
+    "name": "Si Sa ket",
+    "code": "th.33",
+    "country": "th"
+  },
+  {
+    "name": "Songkhla",
+    "code": "th.90",
+    "country": "th"
+  },
+  {
+    "name": "Sukhothai",
+    "code": "th.64",
+    "country": "th"
+  },
+  {
+    "name": "Suphan Buri",
+    "code": "th.72",
+    "country": "th"
+  },
+  {
+    "name": "Surat Thani",
+    "code": "th.84",
+    "country": "th"
+  },
+  {
+    "name": "Surin",
+    "code": "th.32",
+    "country": "th"
+  },
+  {
+    "name": "Tak",
+    "code": "th.63",
+    "country": "th"
+  },
+  {
+    "name": "Trang",
+    "code": "th.92",
+    "country": "th"
+  },
+  {
+    "name": "Trat",
+    "code": "th.23",
+    "country": "th"
+  },
+  {
+    "name": "Ubon Ratchathani",
+    "code": "th.34",
+    "country": "th"
+  },
+  {
+    "name": "Udon Thani",
+    "code": "th.41",
+    "country": "th"
+  },
+  {
+    "name": "Uthai Thani",
+    "code": "th.61",
+    "country": "th"
+  },
+  {
+    "name": "Uttaradit",
+    "code": "th.53",
+    "country": "th"
+  },
+  {
+    "name": "Yala",
+    "code": "th.95",
+    "country": "th"
+  },
+  {
+    "name": "Yasothon",
+    "code": "th.35",
+    "country": "th"
+  }
+]

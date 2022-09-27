@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alibori",
+    "code": "bj.al",
+    "country": "bj"
+  },
+  {
+    "name": "Atakora",
+    "code": "bj.ak",
+    "country": "bj"
+  },
+  {
+    "name": "Atlantique",
+    "code": "bj.aq",
+    "country": "bj"
+  },
+  {
+    "name": "Borgou",
+    "code": "bj.bo",
+    "country": "bj"
+  },
+  {
+    "name": "Collines Department",
+    "code": "bj.co",
+    "country": "bj"
+  },
+  {
+    "name": "Donga",
+    "code": "bj.do",
+    "country": "bj"
+  },
+  {
+    "name": "Kouffo",
+    "code": "bj.ko",
+    "country": "bj"
+  },
+  {
+    "name": "Littoral Department",
+    "code": "bj.li",
+    "country": "bj"
+  },
+  {
+    "name": "Mono Department",
+    "code": "bj.mo",
+    "country": "bj"
+  },
+  {
+    "name": "Ouémé",
+    "code": "bj.ou",
+    "country": "bj"
+  },
+  {
+    "name": "Plateau",
+    "code": "bj.pl",
+    "country": "bj"
+  },
+  {
+    "name": "Zou",
+    "code": "bj.zo",
+    "country": "bj"
+  }
+]

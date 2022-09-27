@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Arima",
+    "code": "tt.ari",
+    "country": "tt"
+  },
+  {
+    "name": "Chaguanas",
+    "code": "tt.cha",
+    "country": "tt"
+  },
+  {
+    "name": "Couva-Tabaquite-Talparo",
+    "code": "tt.ctt",
+    "country": "tt"
+  },
+  {
+    "name": "Diefo Martin",
+    "code": "tt.dmn",
+    "country": "tt"
+  },
+  {
+    "name": "Mayaro-Rio Claro",
+    "code": "tt.mrc",
+    "country": "tt"
+  },
+  {
+    "name": "Penal-Debe",
+    "code": "tt.ped",
+    "country": "tt"
+  },
+  {
+    "name": "Point Fortin",
+    "code": "tt.ptf",
+    "country": "tt"
+  },
+  {
+    "name": "Port-of-Spain",
+    "code": "tt.pos",
+    "country": "tt"
+  },
+  {
+    "name": "Princes Town",
+    "code": "tt.prt",
+    "country": "tt"
+  },
+  {
+    "name": "San Fernando",
+    "code": "tt.sfo",
+    "country": "tt"
+  },
+  {
+    "name": "San Juan-Laventille",
+    "code": "tt.sjl",
+    "country": "tt"
+  },
+  {
+    "name": "Sangre Grande",
+    "code": "tt.sge",
+    "country": "tt"
+  },
+  {
+    "name": "Siparia",
+    "code": "tt.sip",
+    "country": "tt"
+  },
+  {
+    "name": "Tobago",
+    "code": "tt.tob",
+    "country": "tt"
+  },
+  {
+    "name": "Tunapuna-Piarco",
+    "code": "tt.tup",
+    "country": "tt"
+  }
+]

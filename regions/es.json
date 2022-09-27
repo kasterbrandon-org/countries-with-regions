@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Albacete",
+    "code": "es.ab",
+    "country": "es"
+  },
+  {
+    "name": "Alicante",
+    "code": "es.a",
+    "country": "es"
+  },
+  {
+    "name": "Almería",
+    "code": "es.an",
+    "country": "es"
+  },
+  {
+    "name": "Araba/Álava",
+    "code": "es.vi",
+    "country": "es"
+  },
+  {
+    "name": "Asturias",
+    "code": "es.o",
+    "country": "es"
+  },
+  {
+    "name": "Ávila",
+    "code": "es.av",
+    "country": "es"
+  },
+  {
+    "name": "Badajoz",
+    "code": "es.ba",
+    "country": "es"
+  },
+  {
+    "name": "Barcelona",
+    "code": "es.b",
+    "country": "es"
+  },
+  {
+    "name": "Bizkaia",
+    "code": "es.bi",
+    "country": "es"
+  },
+  {
+    "name": "Burgos",
+    "code": "es.bu",
+    "country": "es"
+  },
+  {
+    "name": "Cáceres",
+    "code": "es.cc",
+    "country": "es"
+  },
+  {
+    "name": "Cádiz",
+    "code": "es.ca",
+    "country": "es"
+  },
+  {
+    "name": "Cantabria",
+    "code": "es.s",
+    "country": "es"
+  },
+  {
+    "name": "Castellón/Castelló",
+    "code": "es.cs",
+    "country": "es"
+  },
+  {
+    "name": "Ceuta",
+    "code": "es.ce",
+    "country": "es"
+  },
+  {
+    "name": "Ciudad Real",
+    "code": "es.cr",
+    "country": "es"
+  },
+  {
+    "name": "Córdoba",
+    "code": "es.co",
+    "country": "es"
+  },
+  {
+    "name": "A Coruña",
+    "code": "es.c",
+    "country": "es"
+  },
+  {
+    "name": "Cuenca",
+    "code": "es.cu",
+    "country": "es"
+  },
+  {
+    "name": "Gipuzkoa",
+    "code": "es.ss",
+    "country": "es"
+  },
+  {
+    "name": "Girona",
+    "code": "es.gi",
+    "country": "es"
+  },
+  {
+    "name": "Granada",
+    "code": "es.gr",
+    "country": "es"
+  },
+  {
+    "name": "Guadalajara",
+    "code": "es.gu",
+    "country": "es"
+  },
+  {
+    "name": "Huelva",
+    "code": "es.h",
+    "country": "es"
+  },
+  {
+    "name": "Huesca",
+    "code": "es.hu",
+    "country": "es"
+  },
+  {
+    "name": "Illes Balears",
+    "code": "es.pm",
+    "country": "es"
+  },
+  {
+    "name": "Jaén",
+    "code": "es.j",
+    "country": "es"
+  },
+  {
+    "name": "León",
+    "code": "es.le",
+    "country": "es"
+  },
+  {
+    "name": "Lleida",
+    "code": "es.l",
+    "country": "es"
+  },
+  {
+    "name": "Lugo",
+    "code": "es.lu",
+    "country": "es"
+  },
+  {
+    "name": "Madrid",
+    "code": "es.m",
+    "country": "es"
+  },
+  {
+    "name": "Málaga",
+    "code": "es.ma",
+    "country": "es"
+  },
+  {
+    "name": "Melilla",
+    "code": "es.ml",
+    "country": "es"
+  },
+  {
+    "name": "Murcia",
+    "code": "es.mu",
+    "country": "es"
+  },
+  {
+    "name": "Navarra/Nafarroa",
+    "code": "es.na",
+    "country": "es"
+  },
+  {
+    "name": "Ourense",
+    "code": "es.or",
+    "country": "es"
+  },
+  {
+    "name": "Palencia",
+    "code": "es.p",
+    "country": "es"
+  },
+  {
+    "name": "Las Palmas",
+    "code": "es.gc",
+    "country": "es"
+  },
+  {
+    "name": "Pontevedra",
+    "code": "es.po",
+    "country": "es"
+  },
+  {
+    "name": "La Rioja",
+    "code": "es.lo",
+    "country": "es"
+  },
+  {
+    "name": "Salamanca",
+    "code": "es.sa",
+    "country": "es"
+  },
+  {
+    "name": "Santa Cruz de Tenerife",
+    "code": "es.tf",
+    "country": "es"
+  },
+  {
+    "name": "Segovia",
+    "code": "es.sg",
+    "country": "es"
+  },
+  {
+    "name": "Sevilla",
+    "code": "es.se",
+    "country": "es"
+  },
+  {
+    "name": "Soria",
+    "code": "es.so",
+    "country": "es"
+  },
+  {
+    "name": "Tarragona",
+    "code": "es.t",
+    "country": "es"
+  },
+  {
+    "name": "Teruel",
+    "code": "es.te",
+    "country": "es"
+  },
+  {
+    "name": "Toledo",
+    "code": "es.to",
+    "country": "es"
+  },
+  {
+    "name": "Valencia/València",
+    "code": "es.v",
+    "country": "es"
+  },
+  {
+    "name": "Valladolid",
+    "code": "es.va",
+    "country": "es"
+  },
+  {
+    "name": "Zamora",
+    "code": "es.za",
+    "country": "es"
+  },
+  {
+    "name": "Zaragoza",
+    "code": "es.z",
+    "country": "es"
+  }
+]

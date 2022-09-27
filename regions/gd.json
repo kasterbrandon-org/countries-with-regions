@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Saint Andrew",
+    "code": "gd.01",
+    "country": "gd"
+  },
+  {
+    "name": "Saint David",
+    "code": "gd.02",
+    "country": "gd"
+  },
+  {
+    "name": "Saint George",
+    "code": "gd.03",
+    "country": "gd"
+  },
+  {
+    "name": "Saint John",
+    "code": "gd.04",
+    "country": "gd"
+  },
+  {
+    "name": "Saint Mark",
+    "code": "gd.05",
+    "country": "gd"
+  },
+  {
+    "name": "Saint Patrick",
+    "code": "gd.06",
+    "country": "gd"
+  },
+  {
+    "name": "Southern Grenadine Islands",
+    "code": "gd.10",
+    "country": "gd"
+  }
+]

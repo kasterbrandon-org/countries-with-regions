@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Abşeron",
+    "code": "az.abs",
+    "country": "az"
+  },
+  {
+    "name": "Ağcabədi",
+    "code": "az.agc",
+    "country": "az"
+  },
+  {
+    "name": "Ağdam",
+    "code": "az.agm",
+    "country": "az"
+  },
+  {
+    "name": "Ağdaş",
+    "code": "az.ags",
+    "country": "az"
+  },
+  {
+    "name": "Ağstafa",
+    "code": "az.aga",
+    "country": "az"
+  },
+  {
+    "name": "Ağsu",
+    "code": "az.agu",
+    "country": "az"
+  },
+  {
+    "name": "Astara",
+    "code": "az.ast",
+    "country": "az"
+  },
+  {
+    "name": "Bakı",
+    "code": "az.bak",
+    "country": "az"
+  },
+  {
+    "name": "Babək",
+    "code": "az.bab",
+    "country": "az"
+  },
+  {
+    "name": "Balakən",
+    "code": "az.bal",
+    "country": "az"
+  },
+  {
+    "name": "Bərdə",
+    "code": "az.bar",
+    "country": "az"
+  },
+  {
+    "name": "Beyləqan",
+    "code": "az.bey",
+    "country": "az"
+  },
+  {
+    "name": "Biləsuvar",
+    "code": "az.bil",
+    "country": "az"
+  },
+  {
+    "name": "Cəbrayıl",
+    "code": "az.cab",
+    "country": "az"
+  },
+  {
+    "name": "Cəlilabad",
+    "code": "az.cal",
+    "country": "az"
+  },
+  {
+    "name": "Culfa",
+    "code": "az.cul",
+    "country": "az"
+  },
+  {
+    "name": "Daşkəsən",
+    "code": "az.das",
+    "country": "az"
+  },
+  {
+    "name": "Füzuli",
+    "code": "az.fuz",
+    "country": "az"
+  },
+  {
+    "name": "Gədəbəy",
+    "code": "az.gad",
+    "country": "az"
+  },
+  {
+    "name": "Goranboy",
+    "code": "az.gor",
+    "country": "az"
+  },
+  {
+    "name": "Göyçay",
+    "code": "az.goy",
+    "country": "az"
+  },
+  {
+    "name": "Göygöl",
+    "code": "az.gyg",
+    "country": "az"
+  },
+  {
+    "name": "Hacıqabul",
+    "code": "az.hac",
+    "country": "az"
+  },
+  {
+    "name": "İmişli",
+    "code": "az.imi",
+    "country": "az"
+  },
+  {
+    "name": "İsmayıllı",
+    "code": "az.ism",
+    "country": "az"
+  },
+  {
+    "name": "Kəlbəcər",
+    "code": "az.kal",
+    "country": "az"
+  },
+  {
+    "name": "Kǝngǝrli",
+    "code": "az.kan",
+    "country": "az"
+  },
+  {
+    "name": "Kürdəmir",
+    "code": "az.kur",
+    "country": "az"
+  },
+  {
+    "name": "Laçın",
+    "code": "az.lac",
+    "country": "az"
+  },
+  {
+    "name": "Lənkəran",
+    "code": "az.lan",
+    "country": "az"
+  },
+  {
+    "name": "Lerik",
+    "code": "az.ler",
+    "country": "az"
+  },
+  {
+    "name": "Masallı",
+    "code": "az.mas",
+    "country": "az"
+  },
+  {
+    "name": "Neftçala",
+    "code": "az.nef",
+    "country": "az"
+  },
+  {
+    "name": "Oğuz",
+    "code": "az.ogu",
+    "country": "az"
+  },
+  {
+    "name": "Ordubad",
+    "code": "az.ord",
+    "country": "az"
+  },
+  {
+    "name": "Qəbələ",
+    "code": "az.qab",
+    "country": "az"
+  },
+  {
+    "name": "Qax",
+    "code": "az.qax",
+    "country": "az"
+  },
+  {
+    "name": "Qazax",
+    "code": "az.qaz",
+    "country": "az"
+  },
+  {
+    "name": "Qobustan",
+    "code": "az.qob",
+    "country": "az"
+  },
+  {
+    "name": "Quba",
+    "code": "az.qba",
+    "country": "az"
+  },
+  {
+    "name": "Qubadli",
+    "code": "az.qbi",
+    "country": "az"
+  },
+  {
+    "name": "Qusar",
+    "code": "az.qus",
+    "country": "az"
+  },
+  {
+    "name": "Saatlı",
+    "code": "az.sat",
+    "country": "az"
+  },
+  {
+    "name": "Sabirabad",
+    "code": "az.sab",
+    "country": "az"
+  },
+  {
+    "name": "Şabran",
+    "code": "az.sbn",
+    "country": "az"
+  },
+  {
+    "name": "Sədərək",
+    "code": "az.sad",
+    "country": "az"
+  },
+  {
+    "name": "Şahbuz",
+    "code": "az.sah",
+    "country": "az"
+  },
+  {
+    "name": "Şəki",
+    "code": "az.sak",
+    "country": "az"
+  },
+  {
+    "name": "Salyan",
+    "code": "az.sal",
+    "country": "az"
+  },
+  {
+    "name": "Şamaxı",
+    "code": "az.smi",
+    "country": "az"
+  },
+  {
+    "name": "Şəmkir",
+    "code": "az.skr",
+    "country": "az"
+  },
+  {
+    "name": "Samux",
+    "code": "az.smx",
+    "country": "az"
+  },
+  {
+    "name": "Şərur",
+    "code": "az.sar",
+    "country": "az"
+  },
+  {
+    "name": "Siyəzən",
+    "code": "az.siy",
+    "country": "az"
+  },
+  {
+    "name": "Şuşa",
+    "code": "az.sus",
+    "country": "az"
+  },
+  {
+    "name": "Tərtər",
+    "code": "az.tar",
+    "country": "az"
+  },
+  {
+    "name": "Tovuz",
+    "code": "az.tov",
+    "country": "az"
+  },
+  {
+    "name": "Ucar",
+    "code": "az.uca",
+    "country": "az"
+  },
+  {
+    "name": "Xaçmaz",
+    "code": "az.xac",
+    "country": "az"
+  },
+  {
+    "name": "Xızı",
+    "code": "az.xiz",
+    "country": "az"
+  },
+  {
+    "name": "Xocalı",
+    "code": "az.xci",
+    "country": "az"
+  },
+  {
+    "name": "Xocavənd",
+    "code": "az.xvd",
+    "country": "az"
+  },
+  {
+    "name": "Yardımlı",
+    "code": "az.yar",
+    "country": "az"
+  },
+  {
+    "name": "Yevlax",
+    "code": "az.yev",
+    "country": "az"
+  },
+  {
+    "name": "Zəngilan",
+    "code": "az.zan",
+    "country": "az"
+  },
+  {
+    "name": "Zaqatala",
+    "code": "az.zaq",
+    "country": "az"
+  },
+  {
+    "name": "Zərdab",
+    "code": "az.zar",
+    "country": "az"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Adrar",
+    "code": "dz.01",
+    "country": "dz"
+  },
+  {
+    "name": "Aïn Defla",
+    "code": "dz.44",
+    "country": "dz"
+  },
+  {
+    "name": "Aïn Témouchent",
+    "code": "dz.46",
+    "country": "dz"
+  },
+  {
+    "name": "Algiers",
+    "code": "dz.16",
+    "country": "dz"
+  },
+  {
+    "name": "Annaba",
+    "code": "dz.23",
+    "country": "dz"
+  },
+  {
+    "name": "Batna",
+    "code": "dz.05",
+    "country": "dz"
+  },
+  {
+    "name": "Béchar",
+    "code": "dz.08",
+    "country": "dz"
+  },
+  {
+    "name": "Béjaïa",
+    "code": "dz.06",
+    "country": "dz"
+  },
+  {
+    "name": "Biskra",
+    "code": "dz.07",
+    "country": "dz"
+  },
+  {
+    "name": "Blida",
+    "code": "dz.09",
+    "country": "dz"
+  },
+  {
+    "name": "Bordj Bou Arréridj",
+    "code": "dz.34",
+    "country": "dz"
+  },
+  {
+    "name": "Bouïra",
+    "code": "dz.10",
+    "country": "dz"
+  },
+  {
+    "name": "Boumerdès",
+    "code": "dz.35",
+    "country": "dz"
+  },
+  {
+    "name": "Chlef",
+    "code": "dz.02",
+    "country": "dz"
+  },
+  {
+    "name": "Constantine",
+    "code": "dz.25",
+    "country": "dz"
+  },
+  {
+    "name": "Djelfa",
+    "code": "dz.17",
+    "country": "dz"
+  },
+  {
+    "name": "El Bayadh",
+    "code": "dz.32",
+    "country": "dz"
+  },
+  {
+    "name": "El Oued",
+    "code": "dz.39",
+    "country": "dz"
+  },
+  {
+    "name": "El Tarf",
+    "code": "dz.36",
+    "country": "dz"
+  },
+  {
+    "name": "Ghardaïa",
+    "code": "dz.47",
+    "country": "dz"
+  },
+  {
+    "name": "Guelma",
+    "code": "dz.24",
+    "country": "dz"
+  },
+  {
+    "name": "Illizi",
+    "code": "dz.33",
+    "country": "dz"
+  },
+  {
+    "name": "Jijel",
+    "code": "dz.18",
+    "country": "dz"
+  },
+  {
+    "name": "Khenchela",
+    "code": "dz.40",
+    "country": "dz"
+  },
+  {
+    "name": "Laghouat",
+    "code": "dz.03",
+    "country": "dz"
+  },
+  {
+    "name": "Mascara",
+    "code": "dz.29",
+    "country": "dz"
+  },
+  {
+    "name": "Médéa",
+    "code": "dz.26",
+    "country": "dz"
+  },
+  {
+    "name": "Mila",
+    "code": "dz.43",
+    "country": "dz"
+  },
+  {
+    "name": "Mostaganem",
+    "code": "dz.27",
+    "country": "dz"
+  },
+  {
+    "name": "Msila",
+    "code": "dz.28",
+    "country": "dz"
+  },
+  {
+    "name": "Naâma",
+    "code": "dz.45",
+    "country": "dz"
+  },
+  {
+    "name": "Oran",
+    "code": "dz.31",
+    "country": "dz"
+  },
+  {
+    "name": "Ouargla",
+    "code": "dz.30",
+    "country": "dz"
+  },
+  {
+    "name": "Oum el Bouaghi",
+    "code": "dz.04",
+    "country": "dz"
+  },
+  {
+    "name": "Relizane",
+    "code": "dz.48",
+    "country": "dz"
+  },
+  {
+    "name": "Saïda",
+    "code": "dz.20",
+    "country": "dz"
+  },
+  {
+    "name": "Sétif",
+    "code": "dz.19",
+    "country": "dz"
+  },
+  {
+    "name": "Sidi Bel Abbès",
+    "code": "dz.22",
+    "country": "dz"
+  },
+  {
+    "name": "Skikda",
+    "code": "dz.21",
+    "country": "dz"
+  },
+  {
+    "name": "Souk Ahras",
+    "code": "dz.41",
+    "country": "dz"
+  },
+  {
+    "name": "Tamanghasset",
+    "code": "dz.11",
+    "country": "dz"
+  },
+  {
+    "name": "Tébessa",
+    "code": "dz.12",
+    "country": "dz"
+  },
+  {
+    "name": "Tiaret",
+    "code": "dz.14",
+    "country": "dz"
+  },
+  {
+    "name": "Tindouf",
+    "code": "dz.37",
+    "country": "dz"
+  },
+  {
+    "name": "Tipaza",
+    "code": "dz.42",
+    "country": "dz"
+  },
+  {
+    "name": "Tissemsilt",
+    "code": "dz.38",
+    "country": "dz"
+  },
+  {
+    "name": "Tizi Ouzou",
+    "code": "dz.15",
+    "country": "dz"
+  },
+  {
+    "name": "Tlemcen",
+    "code": "dz.13",
+    "country": "dz"
+  }
+]

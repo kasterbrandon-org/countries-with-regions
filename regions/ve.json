@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Dependencias Federales",
+    "code": "ve.w",
+    "country": "ve"
+  },
+  {
+    "name": "Distrito Federal",
+    "code": "ve.a",
+    "country": "ve"
+  },
+  {
+    "name": "Amazonas",
+    "code": "ve.z",
+    "country": "ve"
+  },
+  {
+    "name": "Anzoátegui",
+    "code": "ve.b",
+    "country": "ve"
+  },
+  {
+    "name": "Apure",
+    "code": "ve.c",
+    "country": "ve"
+  },
+  {
+    "name": "Aragua",
+    "code": "ve.d",
+    "country": "ve"
+  },
+  {
+    "name": "Barinas",
+    "code": "ve.e",
+    "country": "ve"
+  },
+  {
+    "name": "Bolívar",
+    "code": "ve.f",
+    "country": "ve"
+  },
+  {
+    "name": "Carabobo",
+    "code": "ve.g",
+    "country": "ve"
+  },
+  {
+    "name": "Cojedes",
+    "code": "ve.h",
+    "country": "ve"
+  },
+  {
+    "name": "Delta Amacuro",
+    "code": "ve.y",
+    "country": "ve"
+  },
+  {
+    "name": "Falcón",
+    "code": "ve.i",
+    "country": "ve"
+  },
+  {
+    "name": "Guárico",
+    "code": "ve.j",
+    "country": "ve"
+  },
+  {
+    "name": "Lara",
+    "code": "ve.k",
+    "country": "ve"
+  },
+  {
+    "name": "Mérida",
+    "code": "ve.l",
+    "country": "ve"
+  },
+  {
+    "name": "Miranda",
+    "code": "ve.m",
+    "country": "ve"
+  },
+  {
+    "name": "Monagas",
+    "code": "ve.n",
+    "country": "ve"
+  },
+  {
+    "name": "Nueva Esparta",
+    "code": "ve.o",
+    "country": "ve"
+  },
+  {
+    "name": "Portuguesa",
+    "code": "ve.p",
+    "country": "ve"
+  },
+  {
+    "name": "Sucre",
+    "code": "ve.r",
+    "country": "ve"
+  },
+  {
+    "name": "Táchira",
+    "code": "ve.s",
+    "country": "ve"
+  },
+  {
+    "name": "Trujillo",
+    "code": "ve.t",
+    "country": "ve"
+  },
+  {
+    "name": "Vargas",
+    "code": "ve.x",
+    "country": "ve"
+  },
+  {
+    "name": "Yaracuy",
+    "code": "ve.u",
+    "country": "ve"
+  },
+  {
+    "name": "Zulia",
+    "code": "ve.v",
+    "country": "ve"
+  }
+]

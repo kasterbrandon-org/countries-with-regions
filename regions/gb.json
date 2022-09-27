@@ -1,0 +1,1087 @@
+[
+  {
+    "name": "Aberdeen City",
+    "code": "gb.abe",
+    "country": "gb"
+  },
+  {
+    "name": "Aberdeenshire",
+    "code": "gb.abd",
+    "country": "gb"
+  },
+  {
+    "name": "Angus",
+    "code": "gb.ans",
+    "country": "gb"
+  },
+  {
+    "name": "Antrim and Newtownabbey",
+    "code": "gb.ann",
+    "country": "gb"
+  },
+  {
+    "name": "Ards and North Down",
+    "code": "gb.and",
+    "country": "gb"
+  },
+  {
+    "name": "Argyll and Bute",
+    "code": "gb.agb",
+    "country": "gb"
+  },
+  {
+    "name": "Armagh, Banbridge and Craigavon",
+    "code": "gb.abc",
+    "country": "gb"
+  },
+  {
+    "name": "Barking and Dagenham",
+    "code": "gb.bdg",
+    "country": "gb"
+  },
+  {
+    "name": "Barnet",
+    "code": "gb.bne",
+    "country": "gb"
+  },
+  {
+    "name": "Barnsley",
+    "code": "gb.bns",
+    "country": "gb"
+  },
+  {
+    "name": "Bath and North East Somerset",
+    "code": "gb.bas",
+    "country": "gb"
+  },
+  {
+    "name": "Bedford",
+    "code": "gb.bdf",
+    "country": "gb"
+  },
+  {
+    "name": "Belfast",
+    "code": "gb.bfs",
+    "country": "gb"
+  },
+  {
+    "name": "Bexley",
+    "code": "gb.bex",
+    "country": "gb"
+  },
+  {
+    "name": "Birmingham",
+    "code": "gb.bir",
+    "country": "gb"
+  },
+  {
+    "name": "Blackburn with Darwen",
+    "code": "gb.bbd",
+    "country": "gb"
+  },
+  {
+    "name": "Blackpool",
+    "code": "gb.bpl",
+    "country": "gb"
+  },
+  {
+    "name": "Blaenau Gwent",
+    "code": "gb.bgw",
+    "country": "gb"
+  },
+  {
+    "name": "Bolton",
+    "code": "gb.bol",
+    "country": "gb"
+  },
+  {
+    "name": "Bournemouth",
+    "code": "gb.bmh",
+    "country": "gb"
+  },
+  {
+    "name": "Bracknell Forest",
+    "code": "gb.brc",
+    "country": "gb"
+  },
+  {
+    "name": "Bradford",
+    "code": "gb.brd",
+    "country": "gb"
+  },
+  {
+    "name": "Brent",
+    "code": "gb.ben",
+    "country": "gb"
+  },
+  {
+    "name": "Bridgend",
+    "code": "gb.bge",
+    "country": "gb"
+  },
+  {
+    "name": "Brighton and Hove",
+    "code": "gb.bnh",
+    "country": "gb"
+  },
+  {
+    "name": "Bristol, City of",
+    "code": "gb.bst",
+    "country": "gb"
+  },
+  {
+    "name": "Bromley",
+    "code": "gb.bry",
+    "country": "gb"
+  },
+  {
+    "name": "Buckinghamshire",
+    "code": "gb.bkm",
+    "country": "gb"
+  },
+  {
+    "name": "Bury",
+    "code": "gb.bur",
+    "country": "gb"
+  },
+  {
+    "name": "Caerphilly",
+    "code": "gb.cay",
+    "country": "gb"
+  },
+  {
+    "name": "Calderdale",
+    "code": "gb.cld",
+    "country": "gb"
+  },
+  {
+    "name": "Cambridgeshire",
+    "code": "gb.cam",
+    "country": "gb"
+  },
+  {
+    "name": "Camden",
+    "code": "gb.cmd",
+    "country": "gb"
+  },
+  {
+    "name": "Cardiff",
+    "code": "gb.crf",
+    "country": "gb"
+  },
+  {
+    "name": "Carmarthenshire",
+    "code": "gb.cmn",
+    "country": "gb"
+  },
+  {
+    "name": "Causeway Coast and Glens",
+    "code": "gb.ccg",
+    "country": "gb"
+  },
+  {
+    "name": "Central Bedfordshire",
+    "code": "gb.cbf",
+    "country": "gb"
+  },
+  {
+    "name": "Ceredigion",
+    "code": "gb.cgn",
+    "country": "gb"
+  },
+  {
+    "name": "Cheshire East",
+    "code": "gb.che",
+    "country": "gb"
+  },
+  {
+    "name": "Cheshire West and Chester",
+    "code": "gb.chw",
+    "country": "gb"
+  },
+  {
+    "name": "Clackmannanshire",
+    "code": "gb.clk",
+    "country": "gb"
+  },
+  {
+    "name": "Conwy",
+    "code": "gb.cwy",
+    "country": "gb"
+  },
+  {
+    "name": "Cornwall",
+    "code": "gb.con",
+    "country": "gb"
+  },
+  {
+    "name": "Coventry",
+    "code": "gb.cov",
+    "country": "gb"
+  },
+  {
+    "name": "Croydon",
+    "code": "gb.cry",
+    "country": "gb"
+  },
+  {
+    "name": "Cumbria",
+    "code": "gb.cma",
+    "country": "gb"
+  },
+  {
+    "name": "Darlington",
+    "code": "gb.dal",
+    "country": "gb"
+  },
+  {
+    "name": "Denbighshire",
+    "code": "gb.den",
+    "country": "gb"
+  },
+  {
+    "name": "Derby",
+    "code": "gb.der",
+    "country": "gb"
+  },
+  {
+    "name": "Derbyshire",
+    "code": "gb.dby",
+    "country": "gb"
+  },
+  {
+    "name": "Derry and Strabane",
+    "code": "gb.drs",
+    "country": "gb"
+  },
+  {
+    "name": "Devon",
+    "code": "gb.dev",
+    "country": "gb"
+  },
+  {
+    "name": "Doncaster",
+    "code": "gb.dnc",
+    "country": "gb"
+  },
+  {
+    "name": "Dorset",
+    "code": "gb.dor",
+    "country": "gb"
+  },
+  {
+    "name": "Dudley",
+    "code": "gb.dud",
+    "country": "gb"
+  },
+  {
+    "name": "Dumfries and Galloway",
+    "code": "gb.dgy",
+    "country": "gb"
+  },
+  {
+    "name": "Dundee City",
+    "code": "gb.dnd",
+    "country": "gb"
+  },
+  {
+    "name": "Durham County",
+    "code": "gb.dur",
+    "country": "gb"
+  },
+  {
+    "name": "Ealing",
+    "code": "gb.eal",
+    "country": "gb"
+  },
+  {
+    "name": "East Ayrshire",
+    "code": "gb.eay",
+    "country": "gb"
+  },
+  {
+    "name": "East Dunbartonshire",
+    "code": "gb.edu",
+    "country": "gb"
+  },
+  {
+    "name": "East Lothian",
+    "code": "gb.eln",
+    "country": "gb"
+  },
+  {
+    "name": "East Renfrewshire",
+    "code": "gb.erw",
+    "country": "gb"
+  },
+  {
+    "name": "East Riding of Yorkshire",
+    "code": "gb.ery",
+    "country": "gb"
+  },
+  {
+    "name": "East Sussex",
+    "code": "gb.esx",
+    "country": "gb"
+  },
+  {
+    "name": "Edinburgh, City of",
+    "code": "gb.edh",
+    "country": "gb"
+  },
+  {
+    "name": "Eilean Siar",
+    "code": "gb.els",
+    "country": "gb"
+  },
+  {
+    "name": "Enfield",
+    "code": "gb.enf",
+    "country": "gb"
+  },
+  {
+    "name": "Essex",
+    "code": "gb.ess",
+    "country": "gb"
+  },
+  {
+    "name": "Falkirk",
+    "code": "gb.fal",
+    "country": "gb"
+  },
+  {
+    "name": "Fermanagh and Omagh",
+    "code": "gb.fmo",
+    "country": "gb"
+  },
+  {
+    "name": "Fife",
+    "code": "gb.fif",
+    "country": "gb"
+  },
+  {
+    "name": "Flintshire",
+    "code": "gb.fln",
+    "country": "gb"
+  },
+  {
+    "name": "Gateshead",
+    "code": "gb.gat",
+    "country": "gb"
+  },
+  {
+    "name": "Glasgow City",
+    "code": "gb.glg",
+    "country": "gb"
+  },
+  {
+    "name": "Gloucestershire",
+    "code": "gb.gls",
+    "country": "gb"
+  },
+  {
+    "name": "Greenwich",
+    "code": "gb.gre",
+    "country": "gb"
+  },
+  {
+    "name": "Gwynedd",
+    "code": "gb.gwn",
+    "country": "gb"
+  },
+  {
+    "name": "Hackney",
+    "code": "gb.hck",
+    "country": "gb"
+  },
+  {
+    "name": "Halton",
+    "code": "gb.hal",
+    "country": "gb"
+  },
+  {
+    "name": "Hammersmith and Fulham",
+    "code": "gb.hmf",
+    "country": "gb"
+  },
+  {
+    "name": "Hampshire",
+    "code": "gb.ham",
+    "country": "gb"
+  },
+  {
+    "name": "Haringey",
+    "code": "gb.hry",
+    "country": "gb"
+  },
+  {
+    "name": "Harrow",
+    "code": "gb.hrw",
+    "country": "gb"
+  },
+  {
+    "name": "Hartlepool",
+    "code": "gb.hpl",
+    "country": "gb"
+  },
+  {
+    "name": "Havering",
+    "code": "gb.hav",
+    "country": "gb"
+  },
+  {
+    "name": "Herefordshire",
+    "code": "gb.hef",
+    "country": "gb"
+  },
+  {
+    "name": "Hertfordshire",
+    "code": "gb.hrt",
+    "country": "gb"
+  },
+  {
+    "name": "Highland",
+    "code": "gb.hld",
+    "country": "gb"
+  },
+  {
+    "name": "Hillingdon",
+    "code": "gb.hil",
+    "country": "gb"
+  },
+  {
+    "name": "Hounslow",
+    "code": "gb.hns",
+    "country": "gb"
+  },
+  {
+    "name": "Inverclyde",
+    "code": "gb.ivc",
+    "country": "gb"
+  },
+  {
+    "name": "Isle of Anglesey",
+    "code": "gb.agy",
+    "country": "gb"
+  },
+  {
+    "name": "Isle of Wight",
+    "code": "gb.iow",
+    "country": "gb"
+  },
+  {
+    "name": "Isles of Scilly",
+    "code": "gb.ios",
+    "country": "gb"
+  },
+  {
+    "name": "Islington",
+    "code": "gb.isl",
+    "country": "gb"
+  },
+  {
+    "name": "Kensington and Chelsea",
+    "code": "gb.kec",
+    "country": "gb"
+  },
+  {
+    "name": "Kent",
+    "code": "gb.ken",
+    "country": "gb"
+  },
+  {
+    "name": "Kingston upon Hull",
+    "code": "gb.khl",
+    "country": "gb"
+  },
+  {
+    "name": "Kingston upon Thames",
+    "code": "gb.ktt",
+    "country": "gb"
+  },
+  {
+    "name": "Kirklees",
+    "code": "gb.kir",
+    "country": "gb"
+  },
+  {
+    "name": "Knowsley",
+    "code": "gb.kwl",
+    "country": "gb"
+  },
+  {
+    "name": "Lambeth",
+    "code": "gb.lbh",
+    "country": "gb"
+  },
+  {
+    "name": "Lancashire",
+    "code": "gb.lan",
+    "country": "gb"
+  },
+  {
+    "name": "Leeds",
+    "code": "gb.lds",
+    "country": "gb"
+  },
+  {
+    "name": "Leicester",
+    "code": "gb.lce",
+    "country": "gb"
+  },
+  {
+    "name": "Leicestershire",
+    "code": "gb.lec",
+    "country": "gb"
+  },
+  {
+    "name": "Lewisham",
+    "code": "gb.lew",
+    "country": "gb"
+  },
+  {
+    "name": "Lincolnshire",
+    "code": "gb.lin",
+    "country": "gb"
+  },
+  {
+    "name": "Lisburn and Castlereagh",
+    "code": "gb.lbc",
+    "country": "gb"
+  },
+  {
+    "name": "Liverpool",
+    "code": "gb.liv",
+    "country": "gb"
+  },
+  {
+    "name": "London, City of",
+    "code": "gb.lnd",
+    "country": "gb"
+  },
+  {
+    "name": "Luton",
+    "code": "gb.lut",
+    "country": "gb"
+  },
+  {
+    "name": "Manchester",
+    "code": "gb.man",
+    "country": "gb"
+  },
+  {
+    "name": "Medway",
+    "code": "gb.mdw",
+    "country": "gb"
+  },
+  {
+    "name": "Merthyr Tydfil",
+    "code": "gb.mty",
+    "country": "gb"
+  },
+  {
+    "name": "Merton",
+    "code": "gb.mrt",
+    "country": "gb"
+  },
+  {
+    "name": "Mid and East Antrim",
+    "code": "gb.mea",
+    "country": "gb"
+  },
+  {
+    "name": "Mid Ulster",
+    "code": "gb.mul",
+    "country": "gb"
+  },
+  {
+    "name": "Middlesbrough",
+    "code": "gb.mdb",
+    "country": "gb"
+  },
+  {
+    "name": "Midlothian",
+    "code": "gb.mln",
+    "country": "gb"
+  },
+  {
+    "name": "Milton Keynes",
+    "code": "gb.mik",
+    "country": "gb"
+  },
+  {
+    "name": "Monmouthshire",
+    "code": "gb.mon",
+    "country": "gb"
+  },
+  {
+    "name": "Moray",
+    "code": "gb.mry",
+    "country": "gb"
+  },
+  {
+    "name": "Neath Port Talbot",
+    "code": "gb.ntl",
+    "country": "gb"
+  },
+  {
+    "name": "Newcastle upon Tyne",
+    "code": "gb.net",
+    "country": "gb"
+  },
+  {
+    "name": "Newham",
+    "code": "gb.nwm",
+    "country": "gb"
+  },
+  {
+    "name": "Newport",
+    "code": "gb.nwp",
+    "country": "gb"
+  },
+  {
+    "name": "Newry, Mourne and Down",
+    "code": "gb.nmd",
+    "country": "gb"
+  },
+  {
+    "name": "Norfolk",
+    "code": "gb.nfk",
+    "country": "gb"
+  },
+  {
+    "name": "North Ayrshire",
+    "code": "gb.nay",
+    "country": "gb"
+  },
+  {
+    "name": "North East Lincolnshire",
+    "code": "gb.nel",
+    "country": "gb"
+  },
+  {
+    "name": "North Lanarkshire",
+    "code": "gb.nlk",
+    "country": "gb"
+  },
+  {
+    "name": "North Lincolnshire",
+    "code": "gb.nln",
+    "country": "gb"
+  },
+  {
+    "name": "North Somerset",
+    "code": "gb.nsm",
+    "country": "gb"
+  },
+  {
+    "name": "North Tyneside",
+    "code": "gb.nty",
+    "country": "gb"
+  },
+  {
+    "name": "North Yorkshire",
+    "code": "gb.nyk",
+    "country": "gb"
+  },
+  {
+    "name": "Northamptonshire",
+    "code": "gb.nth",
+    "country": "gb"
+  },
+  {
+    "name": "Northumberland",
+    "code": "gb.nbl",
+    "country": "gb"
+  },
+  {
+    "name": "Nottingham",
+    "code": "gb.ngm",
+    "country": "gb"
+  },
+  {
+    "name": "Nottinghamshire",
+    "code": "gb.ntt",
+    "country": "gb"
+  },
+  {
+    "name": "Oldham",
+    "code": "gb.old",
+    "country": "gb"
+  },
+  {
+    "name": "Orkney Islands",
+    "code": "gb.ork",
+    "country": "gb"
+  },
+  {
+    "name": "Oxfordshire",
+    "code": "gb.oxf",
+    "country": "gb"
+  },
+  {
+    "name": "Pembrokeshire",
+    "code": "gb.pem",
+    "country": "gb"
+  },
+  {
+    "name": "Perth and Kinross",
+    "code": "gb.pkn",
+    "country": "gb"
+  },
+  {
+    "name": "Peterborough",
+    "code": "gb.pte",
+    "country": "gb"
+  },
+  {
+    "name": "Plymouth",
+    "code": "gb.ply",
+    "country": "gb"
+  },
+  {
+    "name": "Poole",
+    "code": "gb.pol",
+    "country": "gb"
+  },
+  {
+    "name": "Portsmouth",
+    "code": "gb.por",
+    "country": "gb"
+  },
+  {
+    "name": "Powys",
+    "code": "gb.pow",
+    "country": "gb"
+  },
+  {
+    "name": "Reading",
+    "code": "gb.rdg",
+    "country": "gb"
+  },
+  {
+    "name": "Redbridge",
+    "code": "gb.rdb",
+    "country": "gb"
+  },
+  {
+    "name": "Redcar and Cleveland",
+    "code": "gb.rcc",
+    "country": "gb"
+  },
+  {
+    "name": "Renfrewshire",
+    "code": "gb.rfw",
+    "country": "gb"
+  },
+  {
+    "name": "Rhondda, Cynon, Taff",
+    "code": "gb.rct",
+    "country": "gb"
+  },
+  {
+    "name": "Richmond upon Thames",
+    "code": "gb.ric",
+    "country": "gb"
+  },
+  {
+    "name": "Rochdale",
+    "code": "gb.rch",
+    "country": "gb"
+  },
+  {
+    "name": "Rotherham",
+    "code": "gb.rot",
+    "country": "gb"
+  },
+  {
+    "name": "Rutland",
+    "code": "gb.rut",
+    "country": "gb"
+  },
+  {
+    "name": "St. Helens",
+    "code": "gb.shn",
+    "country": "gb"
+  },
+  {
+    "name": "Salford",
+    "code": "gb.slf",
+    "country": "gb"
+  },
+  {
+    "name": "Sandwell",
+    "code": "gb.saw",
+    "country": "gb"
+  },
+  {
+    "name": "Scottish Borders, The",
+    "code": "gb.scb",
+    "country": "gb"
+  },
+  {
+    "name": "Sefton",
+    "code": "gb.sft",
+    "country": "gb"
+  },
+  {
+    "name": "Sheffield",
+    "code": "gb.shf",
+    "country": "gb"
+  },
+  {
+    "name": "Shetland Islands",
+    "code": "gb.zet",
+    "country": "gb"
+  },
+  {
+    "name": "Shropshire",
+    "code": "gb.shr",
+    "country": "gb"
+  },
+  {
+    "name": "Slough",
+    "code": "gb.slg",
+    "country": "gb"
+  },
+  {
+    "name": "Solihull",
+    "code": "gb.sol",
+    "country": "gb"
+  },
+  {
+    "name": "Somerset",
+    "code": "gb.som",
+    "country": "gb"
+  },
+  {
+    "name": "South Ayrshire",
+    "code": "gb.say",
+    "country": "gb"
+  },
+  {
+    "name": "South Gloucestershire",
+    "code": "gb.sgc",
+    "country": "gb"
+  },
+  {
+    "name": "South Lanarkshire",
+    "code": "gb.slk",
+    "country": "gb"
+  },
+  {
+    "name": "South Tyneside",
+    "code": "gb.sty",
+    "country": "gb"
+  },
+  {
+    "name": "Southampton",
+    "code": "gb.sth",
+    "country": "gb"
+  },
+  {
+    "name": "Southend-on-Sea",
+    "code": "gb.sos",
+    "country": "gb"
+  },
+  {
+    "name": "Southwark",
+    "code": "gb.swk",
+    "country": "gb"
+  },
+  {
+    "name": "Staffordshire",
+    "code": "gb.sts",
+    "country": "gb"
+  },
+  {
+    "name": "Stirling",
+    "code": "gb.stg",
+    "country": "gb"
+  },
+  {
+    "name": "Stockport",
+    "code": "gb.skp",
+    "country": "gb"
+  },
+  {
+    "name": "Stockton-on-Tees",
+    "code": "gb.stt",
+    "country": "gb"
+  },
+  {
+    "name": "Stoke-on-Trent",
+    "code": "gb.ste",
+    "country": "gb"
+  },
+  {
+    "name": "Suffolk",
+    "code": "gb.sfk",
+    "country": "gb"
+  },
+  {
+    "name": "Sunderland",
+    "code": "gb.snd",
+    "country": "gb"
+  },
+  {
+    "name": "Surrey",
+    "code": "gb.sry",
+    "country": "gb"
+  },
+  {
+    "name": "Sutton",
+    "code": "gb.stn",
+    "country": "gb"
+  },
+  {
+    "name": "Swansea",
+    "code": "gb.swa",
+    "country": "gb"
+  },
+  {
+    "name": "Swindon",
+    "code": "gb.swd",
+    "country": "gb"
+  },
+  {
+    "name": "Tameside",
+    "code": "gb.tam",
+    "country": "gb"
+  },
+  {
+    "name": "Telford and Wrekin",
+    "code": "gb.tfw",
+    "country": "gb"
+  },
+  {
+    "name": "Thurrock",
+    "code": "gb.thr",
+    "country": "gb"
+  },
+  {
+    "name": "Torbay",
+    "code": "gb.tob",
+    "country": "gb"
+  },
+  {
+    "name": "Torfaen",
+    "code": "gb.tof",
+    "country": "gb"
+  },
+  {
+    "name": "Tower Hamlets",
+    "code": "gb.twh",
+    "country": "gb"
+  },
+  {
+    "name": "Trafford",
+    "code": "gb.trf",
+    "country": "gb"
+  },
+  {
+    "name": "Vale of Glamorgan, The",
+    "code": "gb.vgl",
+    "country": "gb"
+  },
+  {
+    "name": "Wakefield",
+    "code": "gb.wkf",
+    "country": "gb"
+  },
+  {
+    "name": "Walsall",
+    "code": "gb.wll",
+    "country": "gb"
+  },
+  {
+    "name": "Waltham Forest",
+    "code": "gb.wft",
+    "country": "gb"
+  },
+  {
+    "name": "Wandsworth",
+    "code": "gb.wnd",
+    "country": "gb"
+  },
+  {
+    "name": "Warrington",
+    "code": "gb.wrt",
+    "country": "gb"
+  },
+  {
+    "name": "Warwickshire",
+    "code": "gb.war",
+    "country": "gb"
+  },
+  {
+    "name": "West Berkshire",
+    "code": "gb.wbk",
+    "country": "gb"
+  },
+  {
+    "name": "West Dunbartonshire",
+    "code": "gb.wdu",
+    "country": "gb"
+  },
+  {
+    "name": "West Lothian",
+    "code": "gb.wln",
+    "country": "gb"
+  },
+  {
+    "name": "West Sussex",
+    "code": "gb.wsx",
+    "country": "gb"
+  },
+  {
+    "name": "Westminster",
+    "code": "gb.wsm",
+    "country": "gb"
+  },
+  {
+    "name": "Wigan",
+    "code": "gb.wgn",
+    "country": "gb"
+  },
+  {
+    "name": "Wiltshire",
+    "code": "gb.wil",
+    "country": "gb"
+  },
+  {
+    "name": "Windsor and Maidenhead",
+    "code": "gb.wnm",
+    "country": "gb"
+  },
+  {
+    "name": "Wirral",
+    "code": "gb.wrl",
+    "country": "gb"
+  },
+  {
+    "name": "Wokingham",
+    "code": "gb.wok",
+    "country": "gb"
+  },
+  {
+    "name": "Wolverhampton",
+    "code": "gb.wlv",
+    "country": "gb"
+  },
+  {
+    "name": "Worcestershire",
+    "code": "gb.wor",
+    "country": "gb"
+  },
+  {
+    "name": "Wrexham",
+    "code": "gb.wrx",
+    "country": "gb"
+  },
+  {
+    "name": "York",
+    "code": "gb.yor",
+    "country": "gb"
+  }
+]

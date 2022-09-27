@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Āzād Kashmīr",
+    "code": "pk.jk",
+    "country": "pk"
+  },
+  {
+    "name": "Balōchistān",
+    "code": "pk.ba",
+    "country": "pk"
+  },
+  {
+    "name": "Gilgit-Baltistān",
+    "code": "pk.gb",
+    "country": "pk"
+  },
+  {
+    "name": "Islāmābād",
+    "code": "pk.is",
+    "country": "pk"
+  },
+  {
+    "name": "Khaībar Pakhtūnkhwās",
+    "code": "pk.kp",
+    "country": "pk"
+  },
+  {
+    "name": "Punjāb",
+    "code": "pk.pb",
+    "country": "pk"
+  },
+  {
+    "name": "Sindh",
+    "code": "pk.sd",
+    "country": "pk"
+  },
+  {
+    "name": "Federally Administered Tribal Areas",
+    "code": "pk.ta",
+    "country": "pk"
+  }
+]

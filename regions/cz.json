@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Hlavní město Praha",
+    "code": "cz.pr",
+    "country": "cz"
+  },
+  {
+    "name": "Jihočeský kraj",
+    "code": "cz.jc",
+    "country": "cz"
+  },
+  {
+    "name": "Jihomoravský kraj",
+    "code": "cz.jm",
+    "country": "cz"
+  },
+  {
+    "name": "Karlovarský kraj",
+    "code": "cz.ka",
+    "country": "cz"
+  },
+  {
+    "name": "Královéhradecký kraj",
+    "code": "cz.kr",
+    "country": "cz"
+  },
+  {
+    "name": "Liberecký kraj",
+    "code": "cz.li",
+    "country": "cz"
+  },
+  {
+    "name": "Moravskoslezský kraj",
+    "code": "cz.mo",
+    "country": "cz"
+  },
+  {
+    "name": "Olomoucký kraj",
+    "code": "cz.ol",
+    "country": "cz"
+  },
+  {
+    "name": "Pardubický kraj",
+    "code": "cz.pa",
+    "country": "cz"
+  },
+  {
+    "name": "Plzeňský kraj",
+    "code": "cz.pl",
+    "country": "cz"
+  },
+  {
+    "name": "Středočeský kraj",
+    "code": "cz.st",
+    "country": "cz"
+  },
+  {
+    "name": "Ústecký kraj",
+    "code": "cz.us",
+    "country": "cz"
+  },
+  {
+    "name": "Vysočina",
+    "code": "cz.vy",
+    "country": "cz"
+  },
+  {
+    "name": "Zlínský kraj",
+    "code": "cz.zl",
+    "country": "cz"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Cibao Central",
+    "code": "do.02",
+    "country": "do"
+  },
+  {
+    "name": "Del Valle",
+    "code": "do.37",
+    "country": "do"
+  },
+  {
+    "name": "Distrito Nacional",
+    "code": "do.01",
+    "country": "do"
+  },
+  {
+    "name": "Enriquillo",
+    "code": "do.38",
+    "country": "do"
+  },
+  {
+    "name": "Norcentral",
+    "code": "do.04",
+    "country": "do"
+  },
+  {
+    "name": "Nordeste",
+    "code": "do.33",
+    "country": "do"
+  },
+  {
+    "name": "Noroeste",
+    "code": "do.34",
+    "country": "do"
+  },
+  {
+    "name": "Norte",
+    "code": "do.35",
+    "country": "do"
+  },
+  {
+    "name": "Valdesia",
+    "code": "do.42",
+    "country": "do"
+  }
+]

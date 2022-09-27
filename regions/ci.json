@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Agnéby",
+    "code": "ci.16",
+    "country": "ci"
+  },
+  {
+    "name": "Bafing",
+    "code": "ci.17",
+    "country": "ci"
+  },
+  {
+    "name": "Bas-Sassandra",
+    "code": "ci.09",
+    "country": "ci"
+  },
+  {
+    "name": "Denguélé",
+    "code": "ci.10",
+    "country": "ci"
+  },
+  {
+    "name": "Dix-Huit Montagnes",
+    "code": "ci.06",
+    "country": "ci"
+  },
+  {
+    "name": "Fromager",
+    "code": "ci.18",
+    "country": "ci"
+  },
+  {
+    "name": "Haut-Sassandra",
+    "code": "ci.02",
+    "country": "ci"
+  },
+  {
+    "name": "Lacs",
+    "code": "ci.07",
+    "country": "ci"
+  },
+  {
+    "name": "Lagunes",
+    "code": "ci.01",
+    "country": "ci"
+  },
+  {
+    "name": "Marahoué",
+    "code": "ci.12",
+    "country": "ci"
+  },
+  {
+    "name": "Moyen-Cavally",
+    "code": "ci.19",
+    "country": "ci"
+  },
+  {
+    "name": "Moyen-Comoé",
+    "code": "ci.05",
+    "country": "ci"
+  },
+  {
+    "name": "N'zi-Comoé",
+    "code": "ci.11",
+    "country": "ci"
+  },
+  {
+    "name": "Savanes",
+    "code": "ci.03",
+    "country": "ci"
+  },
+  {
+    "name": "Sud-Bandama",
+    "code": "ci.15",
+    "country": "ci"
+  },
+  {
+    "name": "Sud-Comoé",
+    "code": "ci.13",
+    "country": "ci"
+  },
+  {
+    "name": "Vallée du Bandama",
+    "code": "ci.04",
+    "country": "ci"
+  },
+  {
+    "name": "Worodougou",
+    "code": "ci.14",
+    "country": "ci"
+  },
+  {
+    "name": "Zanzan",
+    "code": "ci.08",
+    "country": "ci"
+  }
+]

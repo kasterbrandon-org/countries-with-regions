@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Aragatsotn",
+    "code": "am.ag",
+    "country": "am"
+  },
+  {
+    "name": "Ararat",
+    "code": "am.ar",
+    "country": "am"
+  },
+  {
+    "name": "Armavir",
+    "code": "am.av",
+    "country": "am"
+  },
+  {
+    "name": "Gegharkunik",
+    "code": "am.gr",
+    "country": "am"
+  },
+  {
+    "name": "Kotayk",
+    "code": "am.kt",
+    "country": "am"
+  },
+  {
+    "name": "Lori",
+    "code": "am.lo",
+    "country": "am"
+  },
+  {
+    "name": "Shirak",
+    "code": "am.sh",
+    "country": "am"
+  },
+  {
+    "name": "Syunik",
+    "code": "am.su",
+    "country": "am"
+  },
+  {
+    "name": "Tavush",
+    "code": "am.tv",
+    "country": "am"
+  },
+  {
+    "name": "Vayots Dzor",
+    "code": "am.vd",
+    "country": "am"
+  },
+  {
+    "name": "Yerevan",
+    "code": "am.er",
+    "country": "am"
+  }
+]

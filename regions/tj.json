@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dushanbe",
+    "code": "tj.du",
+    "country": "tj"
+  },
+  {
+    "name": "Kŭhistoni Badakhshon",
+    "code": "tj.gb",
+    "country": "tj"
+  },
+  {
+    "name": "Khatlon",
+    "code": "tj.kt",
+    "country": "tj"
+  },
+  {
+    "name": "Sughd",
+    "code": "tj.su",
+    "country": "tj"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Hovedstaden",
+    "code": "dk.84",
+    "country": "dk"
+  },
+  {
+    "name": "Kujalleq",
+    "code": "dk.gl-ku",
+    "country": "dk"
+  },
+  {
+    "name": "Midtjylland",
+    "code": "dk.82",
+    "country": "dk"
+  },
+  {
+    "name": "Norderøerne",
+    "code": "dk.fo-01",
+    "country": "dk"
+  },
+  {
+    "name": "Nordjylland",
+    "code": "dk.81",
+    "country": "dk"
+  },
+  {
+    "name": "Østerø",
+    "code": "dk.fo-06",
+    "country": "dk"
+  },
+  {
+    "name": "Qaasuitsup",
+    "code": "dk.gl-qa",
+    "country": "dk"
+  },
+  {
+    "name": "Qeqqata",
+    "code": "dk.gl-qe",
+    "country": "dk"
+  },
+  {
+    "name": "Sandø",
+    "code": "dk.fo-02",
+    "country": "dk"
+  },
+  {
+    "name": "Sermersooq",
+    "code": "dk.gl-sm",
+    "country": "dk"
+  },
+  {
+    "name": "Sjælland",
+    "code": "dk.85",
+    "country": "dk"
+  },
+  {
+    "name": "Strømø",
+    "code": "dk.fo-03",
+    "country": "dk"
+  },
+  {
+    "name": "Suderø",
+    "code": "dk.fo-04",
+    "country": "dk"
+  },
+  {
+    "name": "Syddanmark",
+    "code": "dk.83",
+    "country": "dk"
+  },
+  {
+    "name": "Vågø",
+    "code": "dk.fo-05",
+    "country": "dk"
+  }
+]

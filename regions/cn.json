@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Anhui",
+    "code": "cn.34",
+    "country": "cn"
+  },
+  {
+    "name": "Beijing",
+    "code": "cn.11",
+    "country": "cn"
+  },
+  {
+    "name": "Chongqing",
+    "code": "cn.50",
+    "country": "cn"
+  },
+  {
+    "name": "Fujian",
+    "code": "cn.35",
+    "country": "cn"
+  },
+  {
+    "name": "Gansu",
+    "code": "cn.62",
+    "country": "cn"
+  },
+  {
+    "name": "Guangdong",
+    "code": "cn.44",
+    "country": "cn"
+  },
+  {
+    "name": "Guangxi",
+    "code": "cn.45",
+    "country": "cn"
+  },
+  {
+    "name": "Guizhou",
+    "code": "cn.52",
+    "country": "cn"
+  },
+  {
+    "name": "Hainan",
+    "code": "cn.46",
+    "country": "cn"
+  },
+  {
+    "name": "Hebei",
+    "code": "cn.13",
+    "country": "cn"
+  },
+  {
+    "name": "Heilongjiang",
+    "code": "cn.23",
+    "country": "cn"
+  },
+  {
+    "name": "Henan",
+    "code": "cn.41",
+    "country": "cn"
+  },
+  {
+    "name": "Hong Kong",
+    "code": "cn.91",
+    "country": "cn"
+  },
+  {
+    "name": "Hubei",
+    "code": "cn.42",
+    "country": "cn"
+  },
+  {
+    "name": "Hunan",
+    "code": "cn.43",
+    "country": "cn"
+  },
+  {
+    "name": "Inner Mongolia",
+    "code": "cn.15",
+    "country": "cn"
+  },
+  {
+    "name": "Jiangsu",
+    "code": "cn.32",
+    "country": "cn"
+  },
+  {
+    "name": "Jiangxi",
+    "code": "cn.36",
+    "country": "cn"
+  },
+  {
+    "name": "Jilin",
+    "code": "cn.22",
+    "country": "cn"
+  },
+  {
+    "name": "Liaoning",
+    "code": "cn.21",
+    "country": "cn"
+  },
+  {
+    "name": "Macau",
+    "code": "cn.92",
+    "country": "cn"
+  },
+  {
+    "name": "Ningxia",
+    "code": "cn.64",
+    "country": "cn"
+  },
+  {
+    "name": "Qinghai",
+    "code": "cn.63",
+    "country": "cn"
+  },
+  {
+    "name": "Shaanxi",
+    "code": "cn.61",
+    "country": "cn"
+  },
+  {
+    "name": "Shandong",
+    "code": "cn.37",
+    "country": "cn"
+  },
+  {
+    "name": "Shanghai",
+    "code": "cn.31",
+    "country": "cn"
+  },
+  {
+    "name": "Shanxi",
+    "code": "cn.14",
+    "country": "cn"
+  },
+  {
+    "name": "Sichuan",
+    "code": "cn.51",
+    "country": "cn"
+  },
+  {
+    "name": "Tianjin",
+    "code": "cn.12",
+    "country": "cn"
+  },
+  {
+    "name": "Tibet",
+    "code": "cn.54",
+    "country": "cn"
+  },
+  {
+    "name": "Xinjiang",
+    "code": "cn.65",
+    "country": "cn"
+  },
+  {
+    "name": "Yunnan",
+    "code": "cn.53",
+    "country": "cn"
+  },
+  {
+    "name": "Zhejiang",
+    "code": "cn.33",
+    "country": "cn"
+  }
+]

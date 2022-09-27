@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bagmati",
+    "code": "np.ba",
+    "country": "np"
+  },
+  {
+    "name": "Bheri",
+    "code": "np.bh",
+    "country": "np"
+  },
+  {
+    "name": "Dhawalagiri",
+    "code": "np.dh",
+    "country": "np"
+  },
+  {
+    "name": "Gandaki",
+    "code": "np.ga",
+    "country": "np"
+  },
+  {
+    "name": "Janakpur",
+    "code": "np.ja",
+    "country": "np"
+  },
+  {
+    "name": "Karnali",
+    "code": "np.ka",
+    "country": "np"
+  },
+  {
+    "name": "Kosi",
+    "code": "np.ko",
+    "country": "np"
+  },
+  {
+    "name": "Lumbini",
+    "code": "np.lu",
+    "country": "np"
+  },
+  {
+    "name": "Mahakali",
+    "code": "np.ma",
+    "country": "np"
+  },
+  {
+    "name": "Mechi",
+    "code": "np.me",
+    "country": "np"
+  },
+  {
+    "name": "Narayani",
+    "code": "np.na",
+    "country": "np"
+  },
+  {
+    "name": "Rapti",
+    "code": "np.ra",
+    "country": "np"
+  },
+  {
+    "name": "Sagarmatha",
+    "code": "np.sa",
+    "country": "np"
+  },
+  {
+    "name": "Seti",
+    "code": "np.se",
+    "country": "np"
+  }
+]

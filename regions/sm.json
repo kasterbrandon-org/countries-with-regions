@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Acquaviva",
+    "code": "sm.01",
+    "country": "sm"
+  },
+  {
+    "name": "Borgo Maggiore",
+    "code": "sm.06",
+    "country": "sm"
+  },
+  {
+    "name": "Chiesanuova",
+    "code": "sm.02",
+    "country": "sm"
+  },
+  {
+    "name": "Domagnano",
+    "code": "sm.03",
+    "country": "sm"
+  },
+  {
+    "name": "Faetano",
+    "code": "sm.04",
+    "country": "sm"
+  },
+  {
+    "name": "Fiorentino",
+    "code": "sm.05",
+    "country": "sm"
+  },
+  {
+    "name": "Montegiardino",
+    "code": "sm.08",
+    "country": "sm"
+  },
+  {
+    "name": "San Marino",
+    "code": "sm.07",
+    "country": "sm"
+  },
+  {
+    "name": "Serravalle",
+    "code": "sm.09",
+    "country": "sm"
+  }
+]

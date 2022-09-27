@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Chuuk (Truk)",
+    "code": "fm.trk",
+    "country": "fm"
+  },
+  {
+    "name": "Kosrae",
+    "code": "fm.ksa",
+    "country": "fm"
+  },
+  {
+    "name": "Pohnpei",
+    "code": "fm.pni",
+    "country": "fm"
+  },
+  {
+    "name": "Yap",
+    "code": "fm.yap",
+    "country": "fm"
+  }
+]

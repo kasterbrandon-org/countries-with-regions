@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Es Smara",
+    "code": "eh.esm",
+    "country": "eh"
+  },
+  {
+    "name": "Boujdour",
+    "code": "eh.bod",
+    "country": "eh"
+  },
+  {
+    "name": "Laâyoune",
+    "code": "eh.laa",
+    "country": "eh"
+  },
+  {
+    "name": "Aousserd",
+    "code": "eh.aou",
+    "country": "eh"
+  },
+  {
+    "name": "Oued ed Dahab",
+    "code": "eh.oud",
+    "country": "eh"
+  }
+]

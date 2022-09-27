@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Saint Andrew Parish",
+    "code": "dm.02",
+    "country": "dm"
+  },
+  {
+    "name": "Saint David Parish",
+    "code": "dm.03",
+    "country": "dm"
+  },
+  {
+    "name": "Saint George Parish",
+    "code": "dm.04",
+    "country": "dm"
+  },
+  {
+    "name": "Saint John Parish",
+    "code": "dm.05",
+    "country": "dm"
+  },
+  {
+    "name": "Saint Joseph Parish",
+    "code": "dm.06",
+    "country": "dm"
+  },
+  {
+    "name": "Saint Luke Parish",
+    "code": "dm.07",
+    "country": "dm"
+  },
+  {
+    "name": "Saint Mark Parish",
+    "code": "dm.08",
+    "country": "dm"
+  },
+  {
+    "name": "Saint Patrick Parish",
+    "code": "dm.09",
+    "country": "dm"
+  },
+  {
+    "name": "Saint Paul Parish",
+    "code": "dm.10",
+    "country": "dm"
+  },
+  {
+    "name": "Saint Peter Parish",
+    "code": "dm.11",
+    "country": "dm"
+  }
+]

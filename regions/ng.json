@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Abia",
+    "code": "ng.ab",
+    "country": "ng"
+  },
+  {
+    "name": "Abuja Federal Capital Territory",
+    "code": "ng.fc",
+    "country": "ng"
+  },
+  {
+    "name": "Adamawa",
+    "code": "ng.ad",
+    "country": "ng"
+  },
+  {
+    "name": "Akwa Ibom",
+    "code": "ng.ak",
+    "country": "ng"
+  },
+  {
+    "name": "Anambra",
+    "code": "ng.an",
+    "country": "ng"
+  },
+  {
+    "name": "Bauchi",
+    "code": "ng.ba",
+    "country": "ng"
+  },
+  {
+    "name": "Bayelsa",
+    "code": "ng.by",
+    "country": "ng"
+  },
+  {
+    "name": "Benue",
+    "code": "ng.be",
+    "country": "ng"
+  },
+  {
+    "name": "Borno",
+    "code": "ng.bo",
+    "country": "ng"
+  },
+  {
+    "name": "Cross River",
+    "code": "ng.cr",
+    "country": "ng"
+  },
+  {
+    "name": "Delta",
+    "code": "ng.de",
+    "country": "ng"
+  },
+  {
+    "name": "Ebonyi",
+    "code": "ng.eb",
+    "country": "ng"
+  },
+  {
+    "name": "Edo",
+    "code": "ng.ed",
+    "country": "ng"
+  },
+  {
+    "name": "Ekiti",
+    "code": "ng.ek",
+    "country": "ng"
+  },
+  {
+    "name": "Enugu",
+    "code": "ng.en",
+    "country": "ng"
+  },
+  {
+    "name": "Gombe",
+    "code": "ng.go",
+    "country": "ng"
+  },
+  {
+    "name": "Imo",
+    "code": "ng.im",
+    "country": "ng"
+  },
+  {
+    "name": "Jigawa",
+    "code": "ng.ji",
+    "country": "ng"
+  },
+  {
+    "name": "Kaduna",
+    "code": "ng.kd",
+    "country": "ng"
+  },
+  {
+    "name": "Kano",
+    "code": "ng.kn",
+    "country": "ng"
+  },
+  {
+    "name": "Katsina",
+    "code": "ng.kt",
+    "country": "ng"
+  },
+  {
+    "name": "Kebbi",
+    "code": "ng.ke",
+    "country": "ng"
+  },
+  {
+    "name": "Kogi",
+    "code": "ng.ko",
+    "country": "ng"
+  },
+  {
+    "name": "Kwara",
+    "code": "ng.kw",
+    "country": "ng"
+  },
+  {
+    "name": "Lagos",
+    "code": "ng.la",
+    "country": "ng"
+  },
+  {
+    "name": "Nassarawa",
+    "code": "ng.na",
+    "country": "ng"
+  },
+  {
+    "name": "Niger",
+    "code": "ng.ni",
+    "country": "ng"
+  },
+  {
+    "name": "Ogun",
+    "code": "ng.og",
+    "country": "ng"
+  },
+  {
+    "name": "Ondo",
+    "code": "ng.on",
+    "country": "ng"
+  },
+  {
+    "name": "Osun",
+    "code": "ng.os",
+    "country": "ng"
+  },
+  {
+    "name": "Oyo",
+    "code": "ng.oy",
+    "country": "ng"
+  },
+  {
+    "name": "Plateau",
+    "code": "ng.pl",
+    "country": "ng"
+  },
+  {
+    "name": "Rivers",
+    "code": "ng.ri",
+    "country": "ng"
+  },
+  {
+    "name": "Sokoto",
+    "code": "ng.so",
+    "country": "ng"
+  },
+  {
+    "name": "Taraba",
+    "code": "ng.ta",
+    "country": "ng"
+  },
+  {
+    "name": "Yobe",
+    "code": "ng.yo",
+    "country": "ng"
+  },
+  {
+    "name": "Zamfara",
+    "code": "ng.za",
+    "country": "ng"
+  }
+]

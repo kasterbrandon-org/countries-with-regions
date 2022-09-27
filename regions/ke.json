@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Baringo",
+    "code": "ke.01",
+    "country": "ke"
+  },
+  {
+    "name": "Bomet",
+    "code": "ke.02",
+    "country": "ke"
+  },
+  {
+    "name": "Bungoma",
+    "code": "ke.03",
+    "country": "ke"
+  },
+  {
+    "name": "Busia",
+    "code": "ke.04",
+    "country": "ke"
+  },
+  {
+    "name": "Eleyo/Marakwet",
+    "code": "ke.05",
+    "country": "ke"
+  },
+  {
+    "name": "Embu",
+    "code": "ke.06",
+    "country": "ke"
+  },
+  {
+    "name": "Garissa",
+    "code": "ke.07",
+    "country": "ke"
+  },
+  {
+    "name": "Homa Bay",
+    "code": "ke.08",
+    "country": "ke"
+  },
+  {
+    "name": "Isiolo",
+    "code": "ke.09",
+    "country": "ke"
+  },
+  {
+    "name": "Kajiado",
+    "code": "ke.10",
+    "country": "ke"
+  },
+  {
+    "name": "Kakamega",
+    "code": "ke.11",
+    "country": "ke"
+  },
+  {
+    "name": "Kericho",
+    "code": "ke.12",
+    "country": "ke"
+  },
+  {
+    "name": "Kiambu",
+    "code": "ke.13",
+    "country": "ke"
+  },
+  {
+    "name": "Kilifi",
+    "code": "ke.14",
+    "country": "ke"
+  },
+  {
+    "name": "Kirinyaga",
+    "code": "ke.15",
+    "country": "ke"
+  },
+  {
+    "name": "Kisii",
+    "code": "ke.16",
+    "country": "ke"
+  },
+  {
+    "name": "Kisumu",
+    "code": "ke.17",
+    "country": "ke"
+  },
+  {
+    "name": "Kitui",
+    "code": "ke.18",
+    "country": "ke"
+  },
+  {
+    "name": "Kwale",
+    "code": "ke.19",
+    "country": "ke"
+  },
+  {
+    "name": "Laikipia",
+    "code": "ke.20",
+    "country": "ke"
+  },
+  {
+    "name": "Lamu",
+    "code": "ke.21",
+    "country": "ke"
+  },
+  {
+    "name": "Machakos",
+    "code": "ke.22",
+    "country": "ke"
+  },
+  {
+    "name": "Makueni",
+    "code": "ke.23",
+    "country": "ke"
+  },
+  {
+    "name": "Mandera",
+    "code": "ke.24",
+    "country": "ke"
+  },
+  {
+    "name": "Marsabit",
+    "code": "ke.25",
+    "country": "ke"
+  },
+  {
+    "name": "Meru",
+    "code": "ke.26",
+    "country": "ke"
+  },
+  {
+    "name": "Migori",
+    "code": "ke.27",
+    "country": "ke"
+  },
+  {
+    "name": "Mombasa",
+    "code": "ke.28",
+    "country": "ke"
+  },
+  {
+    "name": "Murang'a",
+    "code": "ke.29",
+    "country": "ke"
+  },
+  {
+    "name": "Nairobi City",
+    "code": "ke.30",
+    "country": "ke"
+  },
+  {
+    "name": "Nakuru",
+    "code": "ke.31",
+    "country": "ke"
+  },
+  {
+    "name": "Nandi",
+    "code": "ke.32",
+    "country": "ke"
+  },
+  {
+    "name": "Narok",
+    "code": "ke.33",
+    "country": "ke"
+  },
+  {
+    "name": "Nyamira",
+    "code": "ke.34",
+    "country": "ke"
+  },
+  {
+    "name": "Nyandarua",
+    "code": "ke.35",
+    "country": "ke"
+  },
+  {
+    "name": "Nyeri",
+    "code": "ke.36",
+    "country": "ke"
+  },
+  {
+    "name": "Samburu",
+    "code": "ke.37",
+    "country": "ke"
+  },
+  {
+    "name": "Siaya",
+    "code": "ke.38",
+    "country": "ke"
+  },
+  {
+    "name": "Taita/Taveta",
+    "code": "ke.39",
+    "country": "ke"
+  },
+  {
+    "name": "Tana River",
+    "code": "ke.40",
+    "country": "ke"
+  },
+  {
+    "name": "Tharaka-Nithi",
+    "code": "ke.41",
+    "country": "ke"
+  },
+  {
+    "name": "Trans Nzoia",
+    "code": "ke.42",
+    "country": "ke"
+  },
+  {
+    "name": "Turkana",
+    "code": "ke.43",
+    "country": "ke"
+  },
+  {
+    "name": "Uasin Gishu",
+    "code": "ke.44",
+    "country": "ke"
+  },
+  {
+    "name": "Vihiga",
+    "code": "ke.45",
+    "country": "ke"
+  },
+  {
+    "name": "Wajir",
+    "code": "ke.46",
+    "country": "ke"
+  },
+  {
+    "name": "West Pokot",
+    "code": "ke.47",
+    "country": "ke"
+  }
+]

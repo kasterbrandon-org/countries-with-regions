@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Boaco",
+    "code": "ni.bo",
+    "country": "ni"
+  },
+  {
+    "name": "Carazo",
+    "code": "ni.ca",
+    "country": "ni"
+  },
+  {
+    "name": "Chinandega",
+    "code": "ni.ci",
+    "country": "ni"
+  },
+  {
+    "name": "Chontales",
+    "code": "ni.co",
+    "country": "ni"
+  },
+  {
+    "name": "Estelí",
+    "code": "ni.es",
+    "country": "ni"
+  },
+  {
+    "name": "Granada",
+    "code": "ni.gr",
+    "country": "ni"
+  },
+  {
+    "name": "Jinotega",
+    "code": "ni.ji",
+    "country": "ni"
+  },
+  {
+    "name": "León",
+    "code": "ni.le",
+    "country": "ni"
+  },
+  {
+    "name": "Madriz",
+    "code": "ni.md",
+    "country": "ni"
+  },
+  {
+    "name": "Managua",
+    "code": "ni.mn",
+    "country": "ni"
+  },
+  {
+    "name": "Masaya",
+    "code": "ni.ms",
+    "country": "ni"
+  },
+  {
+    "name": "Matagalpa",
+    "code": "ni.mt",
+    "country": "ni"
+  },
+  {
+    "name": "Nueva Segovia",
+    "code": "ni.ns",
+    "country": "ni"
+  },
+  {
+    "name": "Río San Juan",
+    "code": "ni.sj",
+    "country": "ni"
+  },
+  {
+    "name": "Rivas",
+    "code": "ni.ri",
+    "country": "ni"
+  },
+  {
+    "name": "Atlántico Norte",
+    "code": "ni.an",
+    "country": "ni"
+  },
+  {
+    "name": "Atlántico Sur",
+    "code": "ni.as",
+    "country": "ni"
+  }
+]

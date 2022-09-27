@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ahal",
+    "code": "tm.a",
+    "country": "tm"
+  },
+  {
+    "name": "Asgabat",
+    "code": "tm.s",
+    "country": "tm"
+  },
+  {
+    "name": "Balkan",
+    "code": "tm.b",
+    "country": "tm"
+  },
+  {
+    "name": "Dashoguz",
+    "code": "tm.d",
+    "country": "tm"
+  },
+  {
+    "name": "Lebap",
+    "code": "tm.l",
+    "country": "tm"
+  },
+  {
+    "name": "Mary",
+    "code": "tm.m",
+    "country": "tm"
+  }
+]

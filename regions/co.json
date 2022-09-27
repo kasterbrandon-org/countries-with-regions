@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Amazonas",
+    "code": "co.ama",
+    "country": "co"
+  },
+  {
+    "name": "Antioquia",
+    "code": "co.ant",
+    "country": "co"
+  },
+  {
+    "name": "Arauca",
+    "code": "co.ara",
+    "country": "co"
+  },
+  {
+    "name": "Archipiélago de San Andrés",
+    "code": "co.sap",
+    "country": "co"
+  },
+  {
+    "name": "Atlántico",
+    "code": "co.atl",
+    "country": "co"
+  },
+  {
+    "name": "Bogotá D.C.",
+    "code": "co.dc",
+    "country": "co"
+  },
+  {
+    "name": "Bolívar",
+    "code": "co.bol",
+    "country": "co"
+  },
+  {
+    "name": "Boyacá",
+    "code": "co.boy",
+    "country": "co"
+  },
+  {
+    "name": "Caldas",
+    "code": "co.cal",
+    "country": "co"
+  },
+  {
+    "name": "Caquetá",
+    "code": "co.caq",
+    "country": "co"
+  },
+  {
+    "name": "Casanare",
+    "code": "co.cas",
+    "country": "co"
+  },
+  {
+    "name": "Cauca",
+    "code": "co.cau",
+    "country": "co"
+  },
+  {
+    "name": "Cesar",
+    "code": "co.ces",
+    "country": "co"
+  },
+  {
+    "name": "Chocó",
+    "code": "co.cho",
+    "country": "co"
+  },
+  {
+    "name": "Córdoba",
+    "code": "co.cor",
+    "country": "co"
+  },
+  {
+    "name": "Cundinamarca",
+    "code": "co.cun",
+    "country": "co"
+  },
+  {
+    "name": "Guainía",
+    "code": "co.gua",
+    "country": "co"
+  },
+  {
+    "name": "Guaviare",
+    "code": "co.guv",
+    "country": "co"
+  },
+  {
+    "name": "Huila",
+    "code": "co.hui",
+    "country": "co"
+  },
+  {
+    "name": "La Guajira",
+    "code": "co.lag",
+    "country": "co"
+  },
+  {
+    "name": "Magdalena",
+    "code": "co.mag",
+    "country": "co"
+  },
+  {
+    "name": "Meta",
+    "code": "co.met",
+    "country": "co"
+  },
+  {
+    "name": "Nariño",
+    "code": "co.nar",
+    "country": "co"
+  },
+  {
+    "name": "Norte de Santander",
+    "code": "co.nsa",
+    "country": "co"
+  },
+  {
+    "name": "Putumayo",
+    "code": "co.put",
+    "country": "co"
+  },
+  {
+    "name": "Quindío",
+    "code": "co.qui",
+    "country": "co"
+  },
+  {
+    "name": "Risaralda",
+    "code": "co.ris",
+    "country": "co"
+  },
+  {
+    "name": "Santander",
+    "code": "co.san",
+    "country": "co"
+  },
+  {
+    "name": "Sucre",
+    "code": "co.suc",
+    "country": "co"
+  },
+  {
+    "name": "Tolima",
+    "code": "co.tol",
+    "country": "co"
+  },
+  {
+    "name": "Valle del Cauca",
+    "code": "co.vac",
+    "country": "co"
+  },
+  {
+    "name": "Vaupés",
+    "code": "co.vau",
+    "country": "co"
+  },
+  {
+    "name": "Vichada",
+    "code": "co.vid",
+    "country": "co"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Malampa",
+    "code": "vu.map",
+    "country": "vu"
+  },
+  {
+    "name": "Pénama",
+    "code": "vu.pam",
+    "country": "vu"
+  },
+  {
+    "name": "Sanma",
+    "code": "vu.sam",
+    "country": "vu"
+  },
+  {
+    "name": "Shéfa",
+    "code": "vu.see",
+    "country": "vu"
+  },
+  {
+    "name": "Taféa",
+    "code": "vu.tae",
+    "country": "vu"
+  },
+  {
+    "name": "Torba",
+    "code": "vu.tob",
+    "country": "vu"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Aichi",
+    "code": "jp.23",
+    "country": "jp"
+  },
+  {
+    "name": "Akita",
+    "code": "jp.05",
+    "country": "jp"
+  },
+  {
+    "name": "Aomori",
+    "code": "jp.02",
+    "country": "jp"
+  },
+  {
+    "name": "Chiba",
+    "code": "jp.12",
+    "country": "jp"
+  },
+  {
+    "name": "Ehime",
+    "code": "jp.38",
+    "country": "jp"
+  },
+  {
+    "name": "Fukui",
+    "code": "jp.18",
+    "country": "jp"
+  },
+  {
+    "name": "Fukuoka",
+    "code": "jp.40",
+    "country": "jp"
+  },
+  {
+    "name": "Fukushima",
+    "code": "jp.07",
+    "country": "jp"
+  },
+  {
+    "name": "Gifu",
+    "code": "jp.21",
+    "country": "jp"
+  },
+  {
+    "name": "Gunma",
+    "code": "jp.10",
+    "country": "jp"
+  },
+  {
+    "name": "Hiroshima",
+    "code": "jp.34",
+    "country": "jp"
+  },
+  {
+    "name": "Hokkaido",
+    "code": "jp.01",
+    "country": "jp"
+  },
+  {
+    "name": "Hyogo",
+    "code": "jp.28",
+    "country": "jp"
+  },
+  {
+    "name": "Ibaraki",
+    "code": "jp.08",
+    "country": "jp"
+  },
+  {
+    "name": "Ishikawa",
+    "code": "jp.17",
+    "country": "jp"
+  },
+  {
+    "name": "Iwate",
+    "code": "jp.03",
+    "country": "jp"
+  },
+  {
+    "name": "Kagawa",
+    "code": "jp.37",
+    "country": "jp"
+  },
+  {
+    "name": "Kagoshima",
+    "code": "jp.46",
+    "country": "jp"
+  },
+  {
+    "name": "Kanagawa",
+    "code": "jp.14",
+    "country": "jp"
+  },
+  {
+    "name": "Kochi",
+    "code": "jp.39",
+    "country": "jp"
+  },
+  {
+    "name": "Kumamoto",
+    "code": "jp.43",
+    "country": "jp"
+  },
+  {
+    "name": "Kyoto",
+    "code": "jp.26",
+    "country": "jp"
+  },
+  {
+    "name": "Mie",
+    "code": "jp.24",
+    "country": "jp"
+  },
+  {
+    "name": "Miyagi",
+    "code": "jp.04",
+    "country": "jp"
+  },
+  {
+    "name": "Miyazaki",
+    "code": "jp.45",
+    "country": "jp"
+  },
+  {
+    "name": "Nagano",
+    "code": "jp.20",
+    "country": "jp"
+  },
+  {
+    "name": "Nagasaki",
+    "code": "jp.42",
+    "country": "jp"
+  },
+  {
+    "name": "Nara",
+    "code": "jp.29",
+    "country": "jp"
+  },
+  {
+    "name": "Niigata",
+    "code": "jp.15",
+    "country": "jp"
+  },
+  {
+    "name": "Oita",
+    "code": "jp.44",
+    "country": "jp"
+  },
+  {
+    "name": "Okayama",
+    "code": "jp.33",
+    "country": "jp"
+  },
+  {
+    "name": "Okinawa",
+    "code": "jp.47",
+    "country": "jp"
+  },
+  {
+    "name": "Osaka",
+    "code": "jp.27",
+    "country": "jp"
+  },
+  {
+    "name": "Saga",
+    "code": "jp.41",
+    "country": "jp"
+  },
+  {
+    "name": "Saitama",
+    "code": "jp.11",
+    "country": "jp"
+  },
+  {
+    "name": "Shiga",
+    "code": "jp.25",
+    "country": "jp"
+  },
+  {
+    "name": "Shimane",
+    "code": "jp.32",
+    "country": "jp"
+  },
+  {
+    "name": "Shizuoka",
+    "code": "jp.22",
+    "country": "jp"
+  },
+  {
+    "name": "Tochigi",
+    "code": "jp.09",
+    "country": "jp"
+  },
+  {
+    "name": "Tokushima",
+    "code": "jp.36",
+    "country": "jp"
+  },
+  {
+    "name": "Tokyo",
+    "code": "jp.13",
+    "country": "jp"
+  },
+  {
+    "name": "Tottori",
+    "code": "jp.31",
+    "country": "jp"
+  },
+  {
+    "name": "Toyama",
+    "code": "jp.16",
+    "country": "jp"
+  },
+  {
+    "name": "Wakayama",
+    "code": "jp.30",
+    "country": "jp"
+  },
+  {
+    "name": "Yamagata",
+    "code": "jp.06",
+    "country": "jp"
+  },
+  {
+    "name": "Yamaguchi",
+    "code": "jp.35",
+    "country": "jp"
+  },
+  {
+    "name": "Yamanashi",
+    "code": "jp.19",
+    "country": "jp"
+  }
+]

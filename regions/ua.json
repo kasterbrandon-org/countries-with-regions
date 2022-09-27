@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Cherkasy",
+    "code": "ua.71",
+    "country": "ua"
+  },
+  {
+    "name": "Chernihiv",
+    "code": "ua.74",
+    "country": "ua"
+  },
+  {
+    "name": "Chernivtsi",
+    "code": "ua.77",
+    "country": "ua"
+  },
+  {
+    "name": "Dnipropetrovsk",
+    "code": "ua.12",
+    "country": "ua"
+  },
+  {
+    "name": "Donetsk",
+    "code": "ua.14",
+    "country": "ua"
+  },
+  {
+    "name": "Ivano-Frankivsk",
+    "code": "ua.26",
+    "country": "ua"
+  },
+  {
+    "name": "Kharkiv",
+    "code": "ua.63",
+    "country": "ua"
+  },
+  {
+    "name": "Kherson",
+    "code": "ua.65",
+    "country": "ua"
+  },
+  {
+    "name": "Khmelnytskyi",
+    "code": "ua.68",
+    "country": "ua"
+  },
+  {
+    "name": "Kiev",
+    "code": "ua.32",
+    "country": "ua"
+  },
+  {
+    "name": "Kirovohrad",
+    "code": "ua.35",
+    "country": "ua"
+  },
+  {
+    "name": "Luhansk",
+    "code": "ua.09",
+    "country": "ua"
+  },
+  {
+    "name": "Lviv",
+    "code": "ua.46",
+    "country": "ua"
+  },
+  {
+    "name": "Mykolaiv",
+    "code": "ua.48",
+    "country": "ua"
+  },
+  {
+    "name": "Odessa",
+    "code": "ua.51",
+    "country": "ua"
+  },
+  {
+    "name": "Poltava",
+    "code": "ua.53",
+    "country": "ua"
+  },
+  {
+    "name": "Rivne",
+    "code": "ua.56",
+    "country": "ua"
+  },
+  {
+    "name": "Sumy",
+    "code": "ua.59",
+    "country": "ua"
+  },
+  {
+    "name": "Ternopil",
+    "code": "ua.61",
+    "country": "ua"
+  },
+  {
+    "name": "Vinnytsia",
+    "code": "ua.05",
+    "country": "ua"
+  },
+  {
+    "name": "Volyn",
+    "code": "ua.07",
+    "country": "ua"
+  },
+  {
+    "name": "Zakarpattia",
+    "code": "ua.21",
+    "country": "ua"
+  },
+  {
+    "name": "Zaporizhia",
+    "code": "ua.23",
+    "country": "ua"
+  },
+  {
+    "name": "Zhytomyr",
+    "code": "ua.18",
+    "country": "ua"
+  },
+  {
+    "name": "Avtonomna Respublika Krym",
+    "code": "ua.43",
+    "country": "ua"
+  },
+  {
+    "name": "Kyïv",
+    "code": "ua.30",
+    "country": "ua"
+  },
+  {
+    "name": "Sevastopol",
+    "code": "ua.40",
+    "country": "ua"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Toshkent shahri",
+    "code": "uz.tk",
+    "country": "uz"
+  },
+  {
+    "name": "Andijon",
+    "code": "uz.an",
+    "country": "uz"
+  },
+  {
+    "name": "Buxoro",
+    "code": "uz.bu",
+    "country": "uz"
+  },
+  {
+    "name": "Farg‘ona",
+    "code": "uz.fa",
+    "country": "uz"
+  },
+  {
+    "name": "Jizzax",
+    "code": "uz.ji",
+    "country": "uz"
+  },
+  {
+    "name": "Namangan",
+    "code": "uz.ng",
+    "country": "uz"
+  },
+  {
+    "name": "Navoiy",
+    "code": "uz.nw",
+    "country": "uz"
+  },
+  {
+    "name": "Qashqadaryo (Qarshi)",
+    "code": "uz.qa",
+    "country": "uz"
+  },
+  {
+    "name": "Samarqand",
+    "code": "uz.sa",
+    "country": "uz"
+  },
+  {
+    "name": "Sirdaryo (Guliston)",
+    "code": "uz.si",
+    "country": "uz"
+  },
+  {
+    "name": "Surxondaryo (Termiz)",
+    "code": "uz.su",
+    "country": "uz"
+  },
+  {
+    "name": "Toshkent wiloyati",
+    "code": "uz.to",
+    "country": "uz"
+  },
+  {
+    "name": "Xorazm (Urganch)",
+    "code": "uz.xo",
+    "country": "uz"
+  },
+  {
+    "name": "Qoraqalpog‘iston Respublikasi (Nukus)",
+    "code": "uz.qr",
+    "country": "uz"
+  }
+]

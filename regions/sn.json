@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Dakar",
+    "code": "sn.dk",
+    "country": "sn"
+  },
+  {
+    "name": "Diourbel",
+    "code": "sn.db",
+    "country": "sn"
+  },
+  {
+    "name": "Fatick",
+    "code": "sn.fk",
+    "country": "sn"
+  },
+  {
+    "name": "Kaffrine",
+    "code": "sn.ka",
+    "country": "sn"
+  },
+  {
+    "name": "Kaolack",
+    "code": "sn.kl",
+    "country": "sn"
+  },
+  {
+    "name": "Kedougou",
+    "code": "sn.ke",
+    "country": "sn"
+  },
+  {
+    "name": "Kolda",
+    "code": "sn.kd",
+    "country": "sn"
+  },
+  {
+    "name": "Louga",
+    "code": "sn.lg",
+    "country": "sn"
+  },
+  {
+    "name": "Matam",
+    "code": "sn.mt",
+    "country": "sn"
+  },
+  {
+    "name": "Saint-Louis",
+    "code": "sn.sl",
+    "country": "sn"
+  },
+  {
+    "name": "Sedhiou",
+    "code": "sn.se",
+    "country": "sn"
+  },
+  {
+    "name": "Tambacounda",
+    "code": "sn.tc",
+    "country": "sn"
+  },
+  {
+    "name": "Thies",
+    "code": "sn.th",
+    "country": "sn"
+  },
+  {
+    "name": "Ziguinchor",
+    "code": "sn.zg",
+    "country": "sn"
+  }
+]

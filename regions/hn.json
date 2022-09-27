@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Atlántida",
+    "code": "hn.at",
+    "country": "hn"
+  },
+  {
+    "name": "Choluteca",
+    "code": "hn.ch",
+    "country": "hn"
+  },
+  {
+    "name": "Colón",
+    "code": "hn.cl",
+    "country": "hn"
+  },
+  {
+    "name": "Comayagua",
+    "code": "hn.cm",
+    "country": "hn"
+  },
+  {
+    "name": "Copán",
+    "code": "hn.cp",
+    "country": "hn"
+  },
+  {
+    "name": "Cortés",
+    "code": "hn.cr",
+    "country": "hn"
+  },
+  {
+    "name": "El Paraíso",
+    "code": "hn.ep",
+    "country": "hn"
+  },
+  {
+    "name": "Francisco Morazán",
+    "code": "hn.fm",
+    "country": "hn"
+  },
+  {
+    "name": "Gracias a Dios",
+    "code": "hn.gd",
+    "country": "hn"
+  },
+  {
+    "name": "Intibucá",
+    "code": "hn.in",
+    "country": "hn"
+  },
+  {
+    "name": "Islas de la Bahía",
+    "code": "hn.ib",
+    "country": "hn"
+  },
+  {
+    "name": "La Paz",
+    "code": "hn.lp",
+    "country": "hn"
+  },
+  {
+    "name": "Lempira",
+    "code": "hn.le",
+    "country": "hn"
+  },
+  {
+    "name": "Ocotepeque",
+    "code": "hn.oc",
+    "country": "hn"
+  },
+  {
+    "name": "Olancho",
+    "code": "hn.ol",
+    "country": "hn"
+  },
+  {
+    "name": "Santa Bárbara",
+    "code": "hn.sb",
+    "country": "hn"
+  },
+  {
+    "name": "Valle",
+    "code": "hn.va",
+    "country": "hn"
+  },
+  {
+    "name": "Yoro",
+    "code": "hn.yo",
+    "country": "hn"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Aisén del General Carlos Ibáñez del Campo",
+    "code": "cl.ai",
+    "country": "cl"
+  },
+  {
+    "name": "Antofagasta",
+    "code": "cl.an",
+    "country": "cl"
+  },
+  {
+    "name": "Araucanía",
+    "code": "cl.ar",
+    "country": "cl"
+  },
+  {
+    "name": "Arica y Parinacota",
+    "code": "cl.ap",
+    "country": "cl"
+  },
+  {
+    "name": "Atacama",
+    "code": "cl.at",
+    "country": "cl"
+  },
+  {
+    "name": "Bío-Bío",
+    "code": "cl.bi",
+    "country": "cl"
+  },
+  {
+    "name": "Coquimbo",
+    "code": "cl.co",
+    "country": "cl"
+  },
+  {
+    "name": "Libertador General Bernardo O'Higgins",
+    "code": "cl.li",
+    "country": "cl"
+  },
+  {
+    "name": "Los Lagos",
+    "code": "cl.ll",
+    "country": "cl"
+  },
+  {
+    "name": "Los Ríos",
+    "code": "cl.lr",
+    "country": "cl"
+  },
+  {
+    "name": "Magallanes y Antartica Chilena",
+    "code": "cl.ma",
+    "country": "cl"
+  },
+  {
+    "name": "Maule",
+    "code": "cl.ml",
+    "country": "cl"
+  },
+  {
+    "name": "Ñuble",
+    "code": "cl.nb",
+    "country": "cl"
+  },
+  {
+    "name": "Región Metropolitana de Santiago",
+    "code": "cl.rm",
+    "country": "cl"
+  },
+  {
+    "name": "Tarapacá",
+    "code": "cl.ta",
+    "country": "cl"
+  },
+  {
+    "name": "Valparaíso",
+    "code": "cl.vs",
+    "country": "cl"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Bocas del Toro",
+    "code": "pa.1",
+    "country": "pa"
+  },
+  {
+    "name": "Chiriquí",
+    "code": "pa.4",
+    "country": "pa"
+  },
+  {
+    "name": "Coclé",
+    "code": "pa.2",
+    "country": "pa"
+  },
+  {
+    "name": "Colón",
+    "code": "pa.3",
+    "country": "pa"
+  },
+  {
+    "name": "Darién",
+    "code": "pa.5",
+    "country": "pa"
+  },
+  {
+    "name": "Emberá",
+    "code": "pa.em",
+    "country": "pa"
+  },
+  {
+    "name": "Herrera",
+    "code": "pa.6",
+    "country": "pa"
+  },
+  {
+    "name": "Kuna Yala",
+    "code": "pa.ky",
+    "country": "pa"
+  },
+  {
+    "name": "Los Santos",
+    "code": "pa.7",
+    "country": "pa"
+  },
+  {
+    "name": "Ngäbe-Buglé",
+    "code": "pa.nb",
+    "country": "pa"
+  },
+  {
+    "name": "Panamá",
+    "code": "pa.8",
+    "country": "pa"
+  },
+  {
+    "name": "Panamá Oeste",
+    "code": "pa.10",
+    "country": "pa"
+  },
+  {
+    "name": "Veraguas",
+    "code": "pa.9",
+    "country": "pa"
+  }
+]

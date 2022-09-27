@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bahr el Ghazal",
+    "code": "td.bg",
+    "country": "td"
+  },
+  {
+    "name": "Batha",
+    "code": "td.ba",
+    "country": "td"
+  },
+  {
+    "name": "Borkou",
+    "code": "td.bo",
+    "country": "td"
+  },
+  {
+    "name": "Chari-Baguirmi",
+    "code": "td.cb",
+    "country": "td"
+  },
+  {
+    "name": "Ennedi-Est",
+    "code": "td.ee",
+    "country": "td"
+  },
+  {
+    "name": "Ennedi-Ouest",
+    "code": "td.eo",
+    "country": "td"
+  },
+  {
+    "name": "Guéra",
+    "code": "td.gr",
+    "country": "td"
+  },
+  {
+    "name": "Hadjer Lamis",
+    "code": "td.hl",
+    "country": "td"
+  },
+  {
+    "name": "Kanem",
+    "code": "td.ka",
+    "country": "td"
+  },
+  {
+    "name": "Lac",
+    "code": "td.lc",
+    "country": "td"
+  },
+  {
+    "name": "Logone Occidental",
+    "code": "td.lo",
+    "country": "td"
+  },
+  {
+    "name": "Logone Oriental",
+    "code": "td.lr",
+    "country": "td"
+  },
+  {
+    "name": "Mondoul",
+    "code": "td.ma",
+    "country": "td"
+  },
+  {
+    "name": "Mayo-Kébbi-Est",
+    "code": "td.me",
+    "country": "td"
+  },
+  {
+    "name": "Moyen-Chari",
+    "code": "td.mc",
+    "country": "td"
+  },
+  {
+    "name": "Ouaddai",
+    "code": "td.od",
+    "country": "td"
+  },
+  {
+    "name": "Salamat",
+    "code": "td.sa",
+    "country": "td"
+  },
+  {
+    "name": "Sila",
+    "code": "td.si",
+    "country": "td"
+  },
+  {
+    "name": "Tandjilé",
+    "code": "td.ta",
+    "country": "td"
+  },
+  {
+    "name": "Tibesti",
+    "code": "td.ti",
+    "country": "td"
+  },
+  {
+    "name": "Ville de Ndjamena",
+    "code": "td.nd",
+    "country": "td"
+  },
+  {
+    "name": "Wadi Fira",
+    "code": "td.wf",
+    "country": "td"
+  }
+]

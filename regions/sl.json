@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Eastern",
+    "code": "sl.e",
+    "country": "sl"
+  },
+  {
+    "name": "Northern",
+    "code": "sl.n",
+    "country": "sl"
+  },
+  {
+    "name": "Southern",
+    "code": "sl.s",
+    "country": "sl"
+  },
+  {
+    "name": "Western",
+    "code": "sl.w",
+    "country": "sl"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Acre",
+    "code": "br.ac",
+    "country": "br"
+  },
+  {
+    "name": "Alagoas",
+    "code": "br.al",
+    "country": "br"
+  },
+  {
+    "name": "Amapá",
+    "code": "br.ap",
+    "country": "br"
+  },
+  {
+    "name": "Amazonas",
+    "code": "br.am",
+    "country": "br"
+  },
+  {
+    "name": "Bahia",
+    "code": "br.ba",
+    "country": "br"
+  },
+  {
+    "name": "Ceará",
+    "code": "br.ce",
+    "country": "br"
+  },
+  {
+    "name": "Distrito Federal",
+    "code": "br.df",
+    "country": "br"
+  },
+  {
+    "name": "Espírito Santo",
+    "code": "br.es",
+    "country": "br"
+  },
+  {
+    "name": "Goiás",
+    "code": "br.go",
+    "country": "br"
+  },
+  {
+    "name": "Maranhão",
+    "code": "br.ma",
+    "country": "br"
+  },
+  {
+    "name": "Mato Grosso",
+    "code": "br.mt",
+    "country": "br"
+  },
+  {
+    "name": "Mato Grosso do Sul",
+    "code": "br.ms",
+    "country": "br"
+  },
+  {
+    "name": "Minas Gerais",
+    "code": "br.mg",
+    "country": "br"
+  },
+  {
+    "name": "Pará",
+    "code": "br.pa",
+    "country": "br"
+  },
+  {
+    "name": "Paraíba",
+    "code": "br.pb",
+    "country": "br"
+  },
+  {
+    "name": "Paraná",
+    "code": "br.pr",
+    "country": "br"
+  },
+  {
+    "name": "Pernambuco",
+    "code": "br.pe",
+    "country": "br"
+  },
+  {
+    "name": "Piauí",
+    "code": "br.pi",
+    "country": "br"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "code": "br.rj",
+    "country": "br"
+  },
+  {
+    "name": "Rio Grande do Norte",
+    "code": "br.rn",
+    "country": "br"
+  },
+  {
+    "name": "Rio Grande do Sul",
+    "code": "br.rs",
+    "country": "br"
+  },
+  {
+    "name": "Rondônia",
+    "code": "br.ro",
+    "country": "br"
+  },
+  {
+    "name": "Roraima",
+    "code": "br.rr",
+    "country": "br"
+  },
+  {
+    "name": "Santa Catarina",
+    "code": "br.sc",
+    "country": "br"
+  },
+  {
+    "name": "São Paulo",
+    "code": "br.sp",
+    "country": "br"
+  },
+  {
+    "name": "Sergipe",
+    "code": "br.se",
+    "country": "br"
+  },
+  {
+    "name": "Tocantins",
+    "code": "br.to",
+    "country": "br"
+  }
+]

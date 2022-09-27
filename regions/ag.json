@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Antigua Island",
+    "code": "ag.01",
+    "country": "ag"
+  },
+  {
+    "name": "Barbuda Island",
+    "code": "ag.02",
+    "country": "ag"
+  },
+  {
+    "name": "Bird Island",
+    "code": "ag.04",
+    "country": "ag"
+  },
+  {
+    "name": "Bishop Island",
+    "code": "ag.05",
+    "country": "ag"
+  },
+  {
+    "name": "Blake Island",
+    "code": "ag.06",
+    "country": "ag"
+  },
+  {
+    "name": "Crump Island",
+    "code": "ag.09",
+    "country": "ag"
+  },
+  {
+    "name": "Dulcina Island",
+    "code": "ag.10",
+    "country": "ag"
+  },
+  {
+    "name": "Exchange Island",
+    "code": "ag.11",
+    "country": "ag"
+  },
+  {
+    "name": "Five Islands",
+    "code": "ag.12",
+    "country": "ag"
+  },
+  {
+    "name": "Great Bird Island",
+    "code": "ag.13",
+    "country": "ag"
+  },
+  {
+    "name": "Green Island",
+    "code": "ag.14",
+    "country": "ag"
+  },
+  {
+    "name": "Guiana Island",
+    "code": "ag.15",
+    "country": "ag"
+  },
+  {
+    "name": "Hawes Island",
+    "code": "ag.17",
+    "country": "ag"
+  },
+  {
+    "name": "Hells Gate Island",
+    "code": "ag.16",
+    "country": "ag"
+  },
+  {
+    "name": "Henry Island",
+    "code": "ag.18",
+    "country": "ag"
+  },
+  {
+    "name": "Johnson Island",
+    "code": "ag.19",
+    "country": "ag"
+  },
+  {
+    "name": "Kid Island",
+    "code": "ag.20",
+    "country": "ag"
+  },
+  {
+    "name": "Lobster Island",
+    "code": "ag.22",
+    "country": "ag"
+  },
+  {
+    "name": "Maiden Island",
+    "code": "ag.24",
+    "country": "ag"
+  },
+  {
+    "name": "Moor Island",
+    "code": "ag.25",
+    "country": "ag"
+  },
+  {
+    "name": "Nanny Island",
+    "code": "ag.26",
+    "country": "ag"
+  },
+  {
+    "name": "Pelican Island",
+    "code": "ag.27",
+    "country": "ag"
+  },
+  {
+    "name": "Prickly Pear Island",
+    "code": "ag.28",
+    "country": "ag"
+  },
+  {
+    "name": "Rabbit Island",
+    "code": "ag.29",
+    "country": "ag"
+  },
+  {
+    "name": "Red Head Island",
+    "code": "ag.31",
+    "country": "ag"
+  },
+  {
+    "name": "Redonda Island",
+    "code": "ag.03",
+    "country": "ag"
+  },
+  {
+    "name": "Sandy Island",
+    "code": "ag.32",
+    "country": "ag"
+  },
+  {
+    "name": "Smith Island",
+    "code": "ag.33",
+    "country": "ag"
+  },
+  {
+    "name": "The Sisters",
+    "code": "ag.34",
+    "country": "ag"
+  },
+  {
+    "name": "Vernon Island",
+    "code": "ag.35",
+    "country": "ag"
+  },
+  {
+    "name": "Wicked Will Island",
+    "code": "ag.36",
+    "country": "ag"
+  },
+  {
+    "name": "York Island",
+    "code": "ag.37",
+    "country": "ag"
+  }
+]

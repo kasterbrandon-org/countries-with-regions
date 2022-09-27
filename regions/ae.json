@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Abu Dhabi",
+    "code": "ae.az",
+    "country": "ae"
+  },
+  {
+    "name": "Ajman",
+    "code": "ae.aj",
+    "country": "ae"
+  },
+  {
+    "name": "Dubai",
+    "code": "ae.du",
+    "country": "ae"
+  },
+  {
+    "name": "Fujairah",
+    "code": "ae.fu",
+    "country": "ae"
+  },
+  {
+    "name": "Ras al Khaimah",
+    "code": "ae.rk",
+    "country": "ae"
+  },
+  {
+    "name": "Sharjah",
+    "code": "ae.sh",
+    "country": "ae"
+  },
+  {
+    "name": "Umm Al Quwain",
+    "code": "ae.uq",
+    "country": "ae"
+  }
+]

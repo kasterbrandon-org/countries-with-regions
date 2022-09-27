@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Andrijevica",
+    "code": "me.01",
+    "country": "me"
+  },
+  {
+    "name": "Bar",
+    "code": "me.02",
+    "country": "me"
+  },
+  {
+    "name": "Berane",
+    "code": "me.03",
+    "country": "me"
+  },
+  {
+    "name": "Bijelo Polje",
+    "code": "me.04",
+    "country": "me"
+  },
+  {
+    "name": "Budva",
+    "code": "me.05",
+    "country": "me"
+  },
+  {
+    "name": "Cetinje",
+    "code": "me.06",
+    "country": "me"
+  },
+  {
+    "name": "Danilovgrad",
+    "code": "me.07",
+    "country": "me"
+  },
+  {
+    "name": "Gusinje",
+    "code": "me.22",
+    "country": "me"
+  },
+  {
+    "name": "Herceg Novi",
+    "code": "me.08",
+    "country": "me"
+  },
+  {
+    "name": "Kolašin",
+    "code": "me.09",
+    "country": "me"
+  },
+  {
+    "name": "Kotor",
+    "code": "me.10",
+    "country": "me"
+  },
+  {
+    "name": "Mojkovac",
+    "code": "me.11",
+    "country": "me"
+  },
+  {
+    "name": "Nikšić",
+    "code": "me.12",
+    "country": "me"
+  },
+  {
+    "name": "Petnica",
+    "code": "me.23",
+    "country": "me"
+  },
+  {
+    "name": "Plav",
+    "code": "me.13",
+    "country": "me"
+  },
+  {
+    "name": "Plužine",
+    "code": "me.14",
+    "country": "me"
+  },
+  {
+    "name": "Pljevlja",
+    "code": "me.15",
+    "country": "me"
+  },
+  {
+    "name": "Podgorica",
+    "code": "me.16",
+    "country": "me"
+  },
+  {
+    "name": "Rožaje",
+    "code": "me.17",
+    "country": "me"
+  },
+  {
+    "name": "Šavnik",
+    "code": "me.18",
+    "country": "me"
+  },
+  {
+    "name": "Tivat",
+    "code": "me.19",
+    "country": "me"
+  },
+  {
+    "name": "Ulcinj",
+    "code": "me.20",
+    "country": "me"
+  },
+  {
+    "name": "Žabljak",
+    "code": "me.21",
+    "country": "me"
+  }
+]

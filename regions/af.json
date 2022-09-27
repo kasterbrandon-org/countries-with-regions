@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Badakhshan",
+    "code": "af.bds",
+    "country": "af"
+  },
+  {
+    "name": "Badghis",
+    "code": "af.bdg",
+    "country": "af"
+  },
+  {
+    "name": "Baghlan",
+    "code": "af.bgl",
+    "country": "af"
+  },
+  {
+    "name": "Balkh",
+    "code": "af.bal",
+    "country": "af"
+  },
+  {
+    "name": "Bamyan",
+    "code": "af.bam",
+    "country": "af"
+  },
+  {
+    "name": "Daykundi",
+    "code": "af.day",
+    "country": "af"
+  },
+  {
+    "name": "Farah",
+    "code": "af.fra",
+    "country": "af"
+  },
+  {
+    "name": "Faryab",
+    "code": "af.fyb",
+    "country": "af"
+  },
+  {
+    "name": "Ghazni",
+    "code": "af.gha",
+    "country": "af"
+  },
+  {
+    "name": "Ghor",
+    "code": "af.gho",
+    "country": "af"
+  },
+  {
+    "name": "Helmand",
+    "code": "af.hel",
+    "country": "af"
+  },
+  {
+    "name": "Herat",
+    "code": "af.her",
+    "country": "af"
+  },
+  {
+    "name": "Jowzjan",
+    "code": "af.jow",
+    "country": "af"
+  },
+  {
+    "name": "Kabul",
+    "code": "af.kab",
+    "country": "af"
+  },
+  {
+    "name": "Kandahar",
+    "code": "af.kan",
+    "country": "af"
+  },
+  {
+    "name": "Kapisa",
+    "code": "af.kap",
+    "country": "af"
+  },
+  {
+    "name": "Khost",
+    "code": "af.kho",
+    "country": "af"
+  },
+  {
+    "name": "Kunar",
+    "code": "af.knr",
+    "country": "af"
+  },
+  {
+    "name": "Kunduz",
+    "code": "af.kdz",
+    "country": "af"
+  },
+  {
+    "name": "Laghman",
+    "code": "af.lag",
+    "country": "af"
+  },
+  {
+    "name": "Logar",
+    "code": "af.low",
+    "country": "af"
+  },
+  {
+    "name": "Maidan Wardak",
+    "code": "af.war",
+    "country": "af"
+  },
+  {
+    "name": "Nangarhar",
+    "code": "af.nan",
+    "country": "af"
+  },
+  {
+    "name": "Nimruz",
+    "code": "af.nim",
+    "country": "af"
+  },
+  {
+    "name": "Nuristan",
+    "code": "af.nur",
+    "country": "af"
+  },
+  {
+    "name": "Paktia",
+    "code": "af.pia",
+    "country": "af"
+  },
+  {
+    "name": "Paktika",
+    "code": "af.pka",
+    "country": "af"
+  },
+  {
+    "name": "Panjshir",
+    "code": "af.pan",
+    "country": "af"
+  },
+  {
+    "name": "Parwan",
+    "code": "af.par",
+    "country": "af"
+  },
+  {
+    "name": "Samangan",
+    "code": "af.sam",
+    "country": "af"
+  },
+  {
+    "name": "Sar-e Pol",
+    "code": "af.sar",
+    "country": "af"
+  },
+  {
+    "name": "Takhar",
+    "code": "af.tak",
+    "country": "af"
+  },
+  {
+    "name": "Urozgan",
+    "code": "af.oru",
+    "country": "af"
+  },
+  {
+    "name": "Zabul",
+    "code": "af.zab",
+    "country": "af"
+  }
+]

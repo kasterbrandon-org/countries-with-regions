@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bougainville",
+    "code": "pg.nsb",
+    "country": "pg"
+  },
+  {
+    "name": "Central",
+    "code": "pg.cpm",
+    "country": "pg"
+  },
+  {
+    "name": "Chimbu",
+    "code": "pg.cpk",
+    "country": "pg"
+  },
+  {
+    "name": "East New Britain",
+    "code": "pg.ebr",
+    "country": "pg"
+  },
+  {
+    "name": "East Sepik",
+    "code": "pg.esw",
+    "country": "pg"
+  },
+  {
+    "name": "Eastern Highlands",
+    "code": "pg.ehg",
+    "country": "pg"
+  },
+  {
+    "name": "Enga",
+    "code": "pg.epw",
+    "country": "pg"
+  },
+  {
+    "name": "Gulf",
+    "code": "pg.gpk",
+    "country": "pg"
+  },
+  {
+    "name": "Hela",
+    "code": "pg.hla",
+    "country": "pg"
+  },
+  {
+    "name": "Jiwaka",
+    "code": "pg.jwk",
+    "country": "pg"
+  },
+  {
+    "name": "Madang",
+    "code": "pg.mom",
+    "country": "pg"
+  },
+  {
+    "name": "Manus",
+    "code": "pg.mrl",
+    "country": "pg"
+  },
+  {
+    "name": "Milne Bay",
+    "code": "pg.mba",
+    "country": "pg"
+  },
+  {
+    "name": "Morobe",
+    "code": "pg.mpl",
+    "country": "pg"
+  },
+  {
+    "name": "Port Moresby",
+    "code": "pg.ncd",
+    "country": "pg"
+  },
+  {
+    "name": "New Ireland",
+    "code": "pg.nik",
+    "country": "pg"
+  },
+  {
+    "name": "Northern",
+    "code": "pg.npp",
+    "country": "pg"
+  },
+  {
+    "name": "Southern Highlands",
+    "code": "pg.shm",
+    "country": "pg"
+  },
+  {
+    "name": "West New Britain",
+    "code": "pg.wbk",
+    "country": "pg"
+  },
+  {
+    "name": "West Sepik",
+    "code": "pg.san",
+    "country": "pg"
+  },
+  {
+    "name": "Western",
+    "code": "pg.wpd",
+    "country": "pg"
+  },
+  {
+    "name": "Western Highlands",
+    "code": "pg.whm",
+    "country": "pg"
+  }
+]

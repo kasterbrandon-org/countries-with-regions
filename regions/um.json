@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Baker Island",
+    "code": "um.81",
+    "country": "um"
+  },
+  {
+    "name": "Howland Island",
+    "code": "um.84",
+    "country": "um"
+  },
+  {
+    "name": "Jarvis Island",
+    "code": "um.86",
+    "country": "um"
+  },
+  {
+    "name": "Johnston Atoll",
+    "code": "um.67",
+    "country": "um"
+  },
+  {
+    "name": "Kingman Reef",
+    "code": "um.89",
+    "country": "um"
+  },
+  {
+    "name": "Midway Islands",
+    "code": "um.71",
+    "country": "um"
+  },
+  {
+    "name": "Navassa Island",
+    "code": "um.76",
+    "country": "um"
+  },
+  {
+    "name": "Palmyra Atoll",
+    "code": "um.95",
+    "country": "um"
+  },
+  {
+    "name": "Wake Island",
+    "code": "um.79",
+    "country": "um"
+  },
+  {
+    "name": "Bajo Nuevo Bank",
+    "code": "um.bn",
+    "country": "um"
+  },
+  {
+    "name": "Serranilla Bank",
+    "code": "um.sb",
+    "country": "um"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Anatolikí Makedonía kai Thráki",
+    "code": "gr.a",
+    "country": "gr"
+  },
+  {
+    "name": "Attikḯ",
+    "code": "gr.i",
+    "country": "gr"
+  },
+  {
+    "name": "Dytikí Elláda",
+    "code": "gr.g",
+    "country": "gr"
+  },
+  {
+    "name": "Dytikí Makedonía",
+    "code": "gr.c",
+    "country": "gr"
+  },
+  {
+    "name": "Ionía Nísia",
+    "code": "gr.f",
+    "country": "gr"
+  },
+  {
+    "name": "Kentrikí Makedonía",
+    "code": "gr.b",
+    "country": "gr"
+  },
+  {
+    "name": "Krítí",
+    "code": "gr.m",
+    "country": "gr"
+  },
+  {
+    "name": "Notío Aigaío",
+    "code": "gr.l",
+    "country": "gr"
+  },
+  {
+    "name": "Peloponnísos",
+    "code": "gr.j",
+    "country": "gr"
+  },
+  {
+    "name": "Stereá Elláda",
+    "code": "gr.h",
+    "country": "gr"
+  },
+  {
+    "name": "Thessalía",
+    "code": "gr.e",
+    "country": "gr"
+  },
+  {
+    "name": "Voreío Aigaío",
+    "code": "gr.k",
+    "country": "gr"
+  },
+  {
+    "name": "Ípeiros",
+    "code": "gr.d",
+    "country": "gr"
+  },
+  {
+    "name": "Ágion Óros",
+    "code": "gr.69",
+    "country": "gr"
+  }
+]

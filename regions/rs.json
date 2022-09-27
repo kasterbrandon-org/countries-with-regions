@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Beograd (Belgrade)",
+    "code": "rs.00",
+    "country": "rs"
+  },
+  {
+    "name": "Borski",
+    "code": "rs.14",
+    "country": "rs"
+  },
+  {
+    "name": "Braničevski",
+    "code": "rs.11",
+    "country": "rs"
+  },
+  {
+    "name": "Jablanički",
+    "code": "rs.23",
+    "country": "rs"
+  },
+  {
+    "name": "Južnobački",
+    "code": "rs.06",
+    "country": "rs"
+  },
+  {
+    "name": "Južnobanatski",
+    "code": "rs.04",
+    "country": "rs"
+  },
+  {
+    "name": "Kolubarski",
+    "code": "rs.09",
+    "country": "rs"
+  },
+  {
+    "name": "Kosovski",
+    "code": "rs.25",
+    "country": "rs"
+  },
+  {
+    "name": "Kosovsko-Mitrovački",
+    "code": "rs.28",
+    "country": "rs"
+  },
+  {
+    "name": "Kosovsko-Pomoravski",
+    "code": "rs.29",
+    "country": "rs"
+  },
+  {
+    "name": "Mačvanski",
+    "code": "rs.08",
+    "country": "rs"
+  },
+  {
+    "name": "Moravički",
+    "code": "rs.17",
+    "country": "rs"
+  },
+  {
+    "name": "Nišavski",
+    "code": "rs.20",
+    "country": "rs"
+  },
+  {
+    "name": "Pčinjski",
+    "code": "rs.24",
+    "country": "rs"
+  },
+  {
+    "name": "Pećki",
+    "code": "rs.26",
+    "country": "rs"
+  },
+  {
+    "name": "Pirotski",
+    "code": "rs.22",
+    "country": "rs"
+  },
+  {
+    "name": "Podunavski",
+    "code": "rs.10",
+    "country": "rs"
+  },
+  {
+    "name": "Pomoravski",
+    "code": "rs.13",
+    "country": "rs"
+  },
+  {
+    "name": "Prizrenski",
+    "code": "rs.27",
+    "country": "rs"
+  },
+  {
+    "name": "Rasinski",
+    "code": "rs.19",
+    "country": "rs"
+  },
+  {
+    "name": "Raški",
+    "code": "rs.18",
+    "country": "rs"
+  },
+  {
+    "name": "Severnobački",
+    "code": "rs.01",
+    "country": "rs"
+  },
+  {
+    "name": "Severnobanatski",
+    "code": "rs.03",
+    "country": "rs"
+  },
+  {
+    "name": "Srednjebanatski",
+    "code": "rs.02",
+    "country": "rs"
+  },
+  {
+    "name": "Sremski",
+    "code": "rs.07",
+    "country": "rs"
+  },
+  {
+    "name": "Šumadijski",
+    "code": "rs.12",
+    "country": "rs"
+  },
+  {
+    "name": "Toplički",
+    "code": "rs.21",
+    "country": "rs"
+  },
+  {
+    "name": "Zaječarski",
+    "code": "rs.15",
+    "country": "rs"
+  },
+  {
+    "name": "Zapadnobački",
+    "code": "rs.05",
+    "country": "rs"
+  },
+  {
+    "name": "Zlatiborski",
+    "code": "rs.16",
+    "country": "rs"
+  }
+]

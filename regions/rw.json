@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Kigali",
+    "code": "rw.01",
+    "country": "rw"
+  },
+  {
+    "name": "Eastern",
+    "code": "rw.02",
+    "country": "rw"
+  },
+  {
+    "name": "Northern",
+    "code": "rw.03",
+    "country": "rw"
+  },
+  {
+    "name": "Western",
+    "code": "rw.04",
+    "country": "rw"
+  },
+  {
+    "name": "Southern",
+    "code": "rw.05",
+    "country": "rw"
+  }
+]

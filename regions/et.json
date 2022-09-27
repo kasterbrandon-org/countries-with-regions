@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Addis Ababa",
+    "code": "et.aa",
+    "country": "et"
+  },
+  {
+    "name": "Afar",
+    "code": "et.af",
+    "country": "et"
+  },
+  {
+    "name": "Amhara",
+    "code": "et.am",
+    "country": "et"
+  },
+  {
+    "name": "Benshangul-Gumaz",
+    "code": "et.be",
+    "country": "et"
+  },
+  {
+    "name": "Dire Dawa",
+    "code": "et.dd",
+    "country": "et"
+  },
+  {
+    "name": "Gambela",
+    "code": "et.ga",
+    "country": "et"
+  },
+  {
+    "name": "Harari",
+    "code": "et.ha",
+    "country": "et"
+  },
+  {
+    "name": "Oromia",
+    "code": "et.or",
+    "country": "et"
+  },
+  {
+    "name": "Somali",
+    "code": "et.so",
+    "country": "et"
+  },
+  {
+    "name": "Southern Nations Nationalities and People's Region",
+    "code": "et.sn",
+    "country": "et"
+  },
+  {
+    "name": "Tigray",
+    "code": "et.ti",
+    "country": "et"
+  }
+]

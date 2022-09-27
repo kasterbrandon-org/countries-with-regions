@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Harjumaa (Tallinn)",
+    "code": "ee.37",
+    "country": "ee"
+  },
+  {
+    "name": "Hiiumaa (Kardla)",
+    "code": "ee.39",
+    "country": "ee"
+  },
+  {
+    "name": "Ida-Virumaa (Johvi)",
+    "code": "ee.44",
+    "country": "ee"
+  },
+  {
+    "name": "Järvamaa (Paide)",
+    "code": "ee.41",
+    "country": "ee"
+  },
+  {
+    "name": "Jõgevamaa (Jogeva)",
+    "code": "ee.49",
+    "country": "ee"
+  },
+  {
+    "name": "Läänemaa",
+    "code": "ee.57",
+    "country": "ee"
+  },
+  {
+    "name": "Lääne-Virumaa (Rakvere)",
+    "code": "ee.59",
+    "country": "ee"
+  },
+  {
+    "name": "Pärnumaa (Parnu)",
+    "code": "ee.67",
+    "country": "ee"
+  },
+  {
+    "name": "Põlvamaa (Polva)",
+    "code": "ee.65",
+    "country": "ee"
+  },
+  {
+    "name": "Raplamaa (Rapla)",
+    "code": "ee.70",
+    "country": "ee"
+  },
+  {
+    "name": "Saaremaa (Kuessaare)",
+    "code": "ee.74",
+    "country": "ee"
+  },
+  {
+    "name": "Tartumaa (Tartu)",
+    "code": "ee.78",
+    "country": "ee"
+  },
+  {
+    "name": "Valgamaa (Valga)",
+    "code": "ee.82",
+    "country": "ee"
+  },
+  {
+    "name": "Viljandimaa (Viljandi)",
+    "code": "ee.84",
+    "country": "ee"
+  },
+  {
+    "name": "Võrumaa (Voru)",
+    "code": "ee.86",
+    "country": "ee"
+  }
+]

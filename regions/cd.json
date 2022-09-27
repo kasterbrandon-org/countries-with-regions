@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Bandundu",
+    "code": "cd.bn",
+    "country": "cd"
+  },
+  {
+    "name": "Bas-Congo",
+    "code": "cd.bc",
+    "country": "cd"
+  },
+  {
+    "name": "Équateur",
+    "code": "cd.eq",
+    "country": "cd"
+  },
+  {
+    "name": "Kasaï-Occidental",
+    "code": "cd.ke",
+    "country": "cd"
+  },
+  {
+    "name": "Kasaï-Oriental",
+    "code": "cd.kw",
+    "country": "cd"
+  },
+  {
+    "name": "Katanga",
+    "code": "cd.ka",
+    "country": "cd"
+  },
+  {
+    "name": "Kinshasa",
+    "code": "cd.kn",
+    "country": "cd"
+  },
+  {
+    "name": "Maniema",
+    "code": "cd.ma",
+    "country": "cd"
+  },
+  {
+    "name": "Nord-Kivu",
+    "code": "cd.nk",
+    "country": "cd"
+  },
+  {
+    "name": "Orientale",
+    "code": "cd.or",
+    "country": "cd"
+  },
+  {
+    "name": "Sud-Kivu",
+    "code": "cd.sk",
+    "country": "cd"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Bamingui-Bangoran",
+    "code": "cf.bb",
+    "country": "cf"
+  },
+  {
+    "name": "Bangui",
+    "code": "cf.bgf",
+    "country": "cf"
+  },
+  {
+    "name": "Basse-Kotto",
+    "code": "cf.bk",
+    "country": "cf"
+  },
+  {
+    "name": "Haute-Kotto",
+    "code": "cf.hk",
+    "country": "cf"
+  },
+  {
+    "name": "Haut-Mbomou",
+    "code": "cf.hm",
+    "country": "cf"
+  },
+  {
+    "name": "Kémo",
+    "code": "cf.kg",
+    "country": "cf"
+  },
+  {
+    "name": "Lobaye",
+    "code": "cf.lb",
+    "country": "cf"
+  },
+  {
+    "name": "Mambéré-Kadéï",
+    "code": "cf.hs",
+    "country": "cf"
+  },
+  {
+    "name": "Mbomou",
+    "code": "cf.mb",
+    "country": "cf"
+  },
+  {
+    "name": "Nana-Grebizi",
+    "code": "cf.10",
+    "country": "cf"
+  },
+  {
+    "name": "Nana-Mambéré",
+    "code": "cf.nm",
+    "country": "cf"
+  },
+  {
+    "name": "Ombella-M'Poko",
+    "code": "cf.mp",
+    "country": "cf"
+  },
+  {
+    "name": "Ouaka",
+    "code": "cf.uk",
+    "country": "cf"
+  },
+  {
+    "name": "Ouham",
+    "code": "cf.ac",
+    "country": "cf"
+  },
+  {
+    "name": "Ouham Péndé",
+    "code": "cf.op",
+    "country": "cf"
+  },
+  {
+    "name": "Sangha-Mbaéré",
+    "code": "cf.se",
+    "country": "cf"
+  },
+  {
+    "name": "Vakaga",
+    "code": "cf.vk",
+    "country": "cf"
+  }
+]

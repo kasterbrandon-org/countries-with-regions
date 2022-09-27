@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Akershus",
+    "code": "no.02",
+    "country": "no"
+  },
+  {
+    "name": "Aust-Agder",
+    "code": "no.09",
+    "country": "no"
+  },
+  {
+    "name": "Buskerud",
+    "code": "no.06",
+    "country": "no"
+  },
+  {
+    "name": "Finnmark",
+    "code": "no.20",
+    "country": "no"
+  },
+  {
+    "name": "Hedmark",
+    "code": "no.04",
+    "country": "no"
+  },
+  {
+    "name": "Hordaland",
+    "code": "no.12",
+    "country": "no"
+  },
+  {
+    "name": "Møre og Romsdal",
+    "code": "no.15",
+    "country": "no"
+  },
+  {
+    "name": "Nordland",
+    "code": "no.18",
+    "country": "no"
+  },
+  {
+    "name": "Nord-Trøndelag",
+    "code": "no.17",
+    "country": "no"
+  },
+  {
+    "name": "Oppland",
+    "code": "no.05",
+    "country": "no"
+  },
+  {
+    "name": "Oslo",
+    "code": "no.03",
+    "country": "no"
+  },
+  {
+    "name": "Rogaland",
+    "code": "no.11",
+    "country": "no"
+  },
+  {
+    "name": "Sogn og Fjordane",
+    "code": "no.14",
+    "country": "no"
+  },
+  {
+    "name": "Sør-Trøndelag",
+    "code": "no.16",
+    "country": "no"
+  },
+  {
+    "name": "Telemark",
+    "code": "no.08",
+    "country": "no"
+  },
+  {
+    "name": "Troms",
+    "code": "no.19",
+    "country": "no"
+  },
+  {
+    "name": "Vest-Agder",
+    "code": "no.10",
+    "country": "no"
+  },
+  {
+    "name": "Vestfold",
+    "code": "no.07",
+    "country": "no"
+  },
+  {
+    "name": "Østfold",
+    "code": "no.01",
+    "country": "no"
+  },
+  {
+    "name": "Jan Mayen",
+    "code": "no.22",
+    "country": "no"
+  },
+  {
+    "name": "Svalbard",
+    "code": "no.21",
+    "country": "no"
+  }
+]

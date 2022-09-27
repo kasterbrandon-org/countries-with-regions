@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Ahvenanmaan maakunta",
+    "code": "fi.fi-01",
+    "country": "fi"
+  },
+  {
+    "name": "Etelä-Karjala",
+    "code": "fi.fi-02",
+    "country": "fi"
+  },
+  {
+    "name": "Etelä-Pohjanmaa",
+    "code": "fi.fi-03",
+    "country": "fi"
+  },
+  {
+    "name": "Etelä-Savo",
+    "code": "fi.fi-04",
+    "country": "fi"
+  },
+  {
+    "name": "Kainuu",
+    "code": "fi.fi-05",
+    "country": "fi"
+  },
+  {
+    "name": "Kanta-Häme",
+    "code": "fi.fi-06",
+    "country": "fi"
+  },
+  {
+    "name": "Keski-Pohjanmaa",
+    "code": "fi.fi-07",
+    "country": "fi"
+  },
+  {
+    "name": "Keski-Suomi",
+    "code": "fi.fi-08",
+    "country": "fi"
+  },
+  {
+    "name": "Kymenlaakso",
+    "code": "fi.fi-09",
+    "country": "fi"
+  },
+  {
+    "name": "Lappi",
+    "code": "fi.fi-10",
+    "country": "fi"
+  },
+  {
+    "name": "Pirkanmaa",
+    "code": "fi.fi-11",
+    "country": "fi"
+  },
+  {
+    "name": "Pohjanmaa",
+    "code": "fi.fi-12",
+    "country": "fi"
+  },
+  {
+    "name": "Pohjois-Karjala",
+    "code": "fi.fi-13",
+    "country": "fi"
+  },
+  {
+    "name": "Pohjois-Pohjanmaa",
+    "code": "fi.fi-14",
+    "country": "fi"
+  },
+  {
+    "name": "Pohjois-Savo",
+    "code": "fi.fi-15",
+    "country": "fi"
+  },
+  {
+    "name": "Päijät-Häme",
+    "code": "fi.fi-16",
+    "country": "fi"
+  },
+  {
+    "name": "Satakunta",
+    "code": "fi.fi-17",
+    "country": "fi"
+  },
+  {
+    "name": "Uusimaa",
+    "code": "fi.fi-18",
+    "country": "fi"
+  },
+  {
+    "name": "Varsinais-Suomi",
+    "code": "fi.fi-19",
+    "country": "fi"
+  }
+]

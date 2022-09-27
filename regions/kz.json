@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Almaty",
+    "code": "kz.ala",
+    "country": "kz"
+  },
+  {
+    "name": "Aqmola",
+    "code": "kz.akm",
+    "country": "kz"
+  },
+  {
+    "name": "Aqtobe",
+    "code": "kz.akt",
+    "country": "kz"
+  },
+  {
+    "name": "Astana",
+    "code": "kz.ast",
+    "country": "kz"
+  },
+  {
+    "name": "Atyrau",
+    "code": "kz.aty",
+    "country": "kz"
+  },
+  {
+    "name": "Batys Qazaqstan",
+    "code": "kz.zap",
+    "country": "kz"
+  },
+  {
+    "name": "Mangghystau",
+    "code": "kz.man",
+    "country": "kz"
+  },
+  {
+    "name": "Ongtustik Qazaqstan",
+    "code": "kz.yuz",
+    "country": "kz"
+  },
+  {
+    "name": "Pavlodar",
+    "code": "kz.pav",
+    "country": "kz"
+  },
+  {
+    "name": "Qaraghandy",
+    "code": "kz.kar",
+    "country": "kz"
+  },
+  {
+    "name": "Qostanay",
+    "code": "kz.kus",
+    "country": "kz"
+  },
+  {
+    "name": "Qyzylorda",
+    "code": "kz.kzy",
+    "country": "kz"
+  },
+  {
+    "name": "Shyghys Qazaqstan",
+    "code": "kz.vos",
+    "country": "kz"
+  },
+  {
+    "name": "Soltustik Qazaqstan",
+    "code": "kz.sev",
+    "country": "kz"
+  },
+  {
+    "name": "Zhambyl",
+    "code": "kz.zha",
+    "country": "kz"
+  }
+]

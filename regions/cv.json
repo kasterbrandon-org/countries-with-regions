@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Boa Vista",
+    "code": "cv.bv",
+    "country": "cv"
+  },
+  {
+    "name": "Brava",
+    "code": "cv.br",
+    "country": "cv"
+  },
+  {
+    "name": "Calheta de São Miguel",
+    "code": "cv.cs",
+    "country": "cv"
+  },
+  {
+    "name": "Maio",
+    "code": "cv.ma",
+    "country": "cv"
+  },
+  {
+    "name": "Mosteiros",
+    "code": "cv.mo",
+    "country": "cv"
+  },
+  {
+    "name": "Paúl",
+    "code": "cv.pa",
+    "country": "cv"
+  },
+  {
+    "name": "Porto Novo",
+    "code": "cv.pn",
+    "country": "cv"
+  },
+  {
+    "name": "Praia",
+    "code": "cv.pr",
+    "country": "cv"
+  },
+  {
+    "name": "Ribeira Brava",
+    "code": "cv.rb",
+    "country": "cv"
+  },
+  {
+    "name": "Ribeira Grande",
+    "code": "cv.rg",
+    "country": "cv"
+  },
+  {
+    "name": "Sal",
+    "code": "cv.sl",
+    "country": "cv"
+  },
+  {
+    "name": "Santa Catarina",
+    "code": "cv.ca",
+    "country": "cv"
+  },
+  {
+    "name": "Santa Cruz",
+    "code": "cv.cr",
+    "country": "cv"
+  },
+  {
+    "name": "São Domingos",
+    "code": "cv.sd",
+    "country": "cv"
+  },
+  {
+    "name": "São Filipe",
+    "code": "cv.sf",
+    "country": "cv"
+  },
+  {
+    "name": "São Nicolau",
+    "code": "cv.sn",
+    "country": "cv"
+  },
+  {
+    "name": "São Vicente",
+    "code": "cv.sv",
+    "country": "cv"
+  },
+  {
+    "name": "Tarrafal",
+    "code": "cv.ta",
+    "country": "cv"
+  },
+  {
+    "name": "Tarrafal de São Nicolau",
+    "code": "cv.ts",
+    "country": "cv"
+  }
+]

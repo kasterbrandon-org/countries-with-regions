@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Aargau",
+    "code": "ch.ag",
+    "country": "ch"
+  },
+  {
+    "name": "Appenzell Ausserrhoden",
+    "code": "ch.ar",
+    "country": "ch"
+  },
+  {
+    "name": "Appenzell Innerhoden",
+    "code": "ch.ai",
+    "country": "ch"
+  },
+  {
+    "name": "Basel-Landschaft",
+    "code": "ch.bl",
+    "country": "ch"
+  },
+  {
+    "name": "Basel-Stadt",
+    "code": "ch.bs",
+    "country": "ch"
+  },
+  {
+    "name": "Bern",
+    "code": "ch.be",
+    "country": "ch"
+  },
+  {
+    "name": "Fribourg",
+    "code": "ch.fr",
+    "country": "ch"
+  },
+  {
+    "name": "Genève",
+    "code": "ch.ge",
+    "country": "ch"
+  },
+  {
+    "name": "Glarus",
+    "code": "ch.gl",
+    "country": "ch"
+  },
+  {
+    "name": "Graubünden",
+    "code": "ch.gr",
+    "country": "ch"
+  },
+  {
+    "name": "Jura",
+    "code": "ch.ju",
+    "country": "ch"
+  },
+  {
+    "name": "Luzern",
+    "code": "ch.lu",
+    "country": "ch"
+  },
+  {
+    "name": "Neuchâtel",
+    "code": "ch.ne",
+    "country": "ch"
+  },
+  {
+    "name": "Nidwalden",
+    "code": "ch.nw",
+    "country": "ch"
+  },
+  {
+    "name": "Obwalden",
+    "code": "ch.ow",
+    "country": "ch"
+  },
+  {
+    "name": "Sankt Gallen",
+    "code": "ch.sg",
+    "country": "ch"
+  },
+  {
+    "name": "Schaffhausen",
+    "code": "ch.sh",
+    "country": "ch"
+  },
+  {
+    "name": "Schwyz",
+    "code": "ch.sz",
+    "country": "ch"
+  },
+  {
+    "name": "Solothurn",
+    "code": "ch.so",
+    "country": "ch"
+  },
+  {
+    "name": "Thurgau",
+    "code": "ch.tg",
+    "country": "ch"
+  },
+  {
+    "name": "Ticino",
+    "code": "ch.ti",
+    "country": "ch"
+  },
+  {
+    "name": "Uri",
+    "code": "ch.ur",
+    "country": "ch"
+  },
+  {
+    "name": "Valais",
+    "code": "ch.vs",
+    "country": "ch"
+  },
+  {
+    "name": "Vaud",
+    "code": "ch.vd",
+    "country": "ch"
+  },
+  {
+    "name": "Zug",
+    "code": "ch.zg",
+    "country": "ch"
+  },
+  {
+    "name": "Zürich",
+    "code": "ch.zh",
+    "country": "ch"
+  }
+]

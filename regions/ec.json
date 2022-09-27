@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Azuay",
+    "code": "ec.a",
+    "country": "ec"
+  },
+  {
+    "name": "Bolívar",
+    "code": "ec.b",
+    "country": "ec"
+  },
+  {
+    "name": "Cañar",
+    "code": "ec.f",
+    "country": "ec"
+  },
+  {
+    "name": "Carchi",
+    "code": "ec.c",
+    "country": "ec"
+  },
+  {
+    "name": "Chimborazo",
+    "code": "ec.h",
+    "country": "ec"
+  },
+  {
+    "name": "Cotopaxi",
+    "code": "ec.x",
+    "country": "ec"
+  },
+  {
+    "name": "El Oro",
+    "code": "ec.o",
+    "country": "ec"
+  },
+  {
+    "name": "Esmeraldas",
+    "code": "ec.e",
+    "country": "ec"
+  },
+  {
+    "name": "Galápagos",
+    "code": "ec.w",
+    "country": "ec"
+  },
+  {
+    "name": "Guayas",
+    "code": "ec.g",
+    "country": "ec"
+  },
+  {
+    "name": "Imbabura",
+    "code": "ec.i",
+    "country": "ec"
+  },
+  {
+    "name": "Loja",
+    "code": "ec.l",
+    "country": "ec"
+  },
+  {
+    "name": "Los Ríos",
+    "code": "ec.r",
+    "country": "ec"
+  },
+  {
+    "name": "Manabí",
+    "code": "ec.m",
+    "country": "ec"
+  },
+  {
+    "name": "Morona-Santiago",
+    "code": "ec.s",
+    "country": "ec"
+  },
+  {
+    "name": "Napo",
+    "code": "ec.n",
+    "country": "ec"
+  },
+  {
+    "name": "Orellana",
+    "code": "ec.d",
+    "country": "ec"
+  },
+  {
+    "name": "Pastaza",
+    "code": "ec.y",
+    "country": "ec"
+  },
+  {
+    "name": "Pichincha",
+    "code": "ec.p",
+    "country": "ec"
+  },
+  {
+    "name": "Santa Elena",
+    "code": "ec.se",
+    "country": "ec"
+  },
+  {
+    "name": "Santo Domingo de los Tsáchilas",
+    "code": "ec.sd",
+    "country": "ec"
+  },
+  {
+    "name": "Sucumbíos",
+    "code": "ec.u",
+    "country": "ec"
+  },
+  {
+    "name": "Tungurahua",
+    "code": "ec.t",
+    "country": "ec"
+  },
+  {
+    "name": "Zamora-Chinchipe",
+    "code": "ec.z",
+    "country": "ec"
+  }
+]

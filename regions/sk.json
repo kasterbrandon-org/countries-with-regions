@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Banskobystricky",
+    "code": "sk.bc",
+    "country": "sk"
+  },
+  {
+    "name": "Bratislavsky",
+    "code": "sk.bl",
+    "country": "sk"
+  },
+  {
+    "name": "Kosicky",
+    "code": "sk.ki",
+    "country": "sk"
+  },
+  {
+    "name": "Nitriansky",
+    "code": "sk.ni",
+    "country": "sk"
+  },
+  {
+    "name": "Presovsky",
+    "code": "sk.pv",
+    "country": "sk"
+  },
+  {
+    "name": "Trenciansky",
+    "code": "sk.tc",
+    "country": "sk"
+  },
+  {
+    "name": "Trnavsky",
+    "code": "sk.ta",
+    "country": "sk"
+  },
+  {
+    "name": "Zilinsky",
+    "code": "sk.zi",
+    "country": "sk"
+  }
+]

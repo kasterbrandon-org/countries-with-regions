@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Johor",
+    "code": "my.01",
+    "country": "my"
+  },
+  {
+    "name": "Kedah",
+    "code": "my.02",
+    "country": "my"
+  },
+  {
+    "name": "Kelantan",
+    "code": "my.03",
+    "country": "my"
+  },
+  {
+    "name": "Melaka",
+    "code": "my.04",
+    "country": "my"
+  },
+  {
+    "name": "Negeri Sembilan",
+    "code": "my.05",
+    "country": "my"
+  },
+  {
+    "name": "Pahang",
+    "code": "my.06",
+    "country": "my"
+  },
+  {
+    "name": "Perak",
+    "code": "my.08",
+    "country": "my"
+  },
+  {
+    "name": "Perlis",
+    "code": "my.09",
+    "country": "my"
+  },
+  {
+    "name": "Pulau Pinang",
+    "code": "my.07",
+    "country": "my"
+  },
+  {
+    "name": "Sabah",
+    "code": "my.12",
+    "country": "my"
+  },
+  {
+    "name": "Sarawak",
+    "code": "my.13",
+    "country": "my"
+  },
+  {
+    "name": "Selangor",
+    "code": "my.10",
+    "country": "my"
+  },
+  {
+    "name": "Terengganu",
+    "code": "my.11",
+    "country": "my"
+  },
+  {
+    "name": "Wilayah Persekutuan (Kuala Lumpur)",
+    "code": "my.14",
+    "country": "my"
+  },
+  {
+    "name": "Wilayah Persekutuan (Labuan)",
+    "code": "my.15",
+    "country": "my"
+  },
+  {
+    "name": "Wilayah Persekutuan (Putrajaya)",
+    "code": "my.16",
+    "country": "my"
+  }
+]

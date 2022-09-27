@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Awdal",
+    "code": "so.aw",
+    "country": "so"
+  },
+  {
+    "name": "Bakool",
+    "code": "so.bk",
+    "country": "so"
+  },
+  {
+    "name": "Banaadir",
+    "code": "so.bn",
+    "country": "so"
+  },
+  {
+    "name": "Bari",
+    "code": "so.br",
+    "country": "so"
+  },
+  {
+    "name": "Bay",
+    "code": "so.by",
+    "country": "so"
+  },
+  {
+    "name": "Galguduud",
+    "code": "so.ga",
+    "country": "so"
+  },
+  {
+    "name": "Gedo",
+    "code": "so.ge",
+    "country": "so"
+  },
+  {
+    "name": "Hiiraan",
+    "code": "so.hi",
+    "country": "so"
+  },
+  {
+    "name": "Jubbada Dhexe",
+    "code": "so.jd",
+    "country": "so"
+  },
+  {
+    "name": "Jubbada Hoose",
+    "code": "so.jh",
+    "country": "so"
+  },
+  {
+    "name": "Mudug",
+    "code": "so.mu",
+    "country": "so"
+  },
+  {
+    "name": "Nugaal",
+    "code": "so.nu",
+    "country": "so"
+  },
+  {
+    "name": "Sanaag",
+    "code": "so.sa",
+    "country": "so"
+  },
+  {
+    "name": "Shabeellaha Dhexe",
+    "code": "so.sd",
+    "country": "so"
+  },
+  {
+    "name": "Shabeellaha Hoose",
+    "code": "so.sh",
+    "country": "so"
+  },
+  {
+    "name": "Sool",
+    "code": "so.so",
+    "country": "so"
+  },
+  {
+    "name": "Togdheer",
+    "code": "so.to",
+    "country": "so"
+  },
+  {
+    "name": "Woqooyi Galbeed",
+    "code": "so.wo",
+    "country": "so"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Berea",
+    "code": "ls.d",
+    "country": "ls"
+  },
+  {
+    "name": "Butha-Buthe",
+    "code": "ls.b",
+    "country": "ls"
+  },
+  {
+    "name": "Leribe",
+    "code": "ls.c",
+    "country": "ls"
+  },
+  {
+    "name": "Mafeteng",
+    "code": "ls.e",
+    "country": "ls"
+  },
+  {
+    "name": "Maseru",
+    "code": "ls.a",
+    "country": "ls"
+  },
+  {
+    "name": "Mohales Hoek",
+    "code": "ls.f",
+    "country": "ls"
+  },
+  {
+    "name": "Mokhotlong",
+    "code": "ls.j",
+    "country": "ls"
+  },
+  {
+    "name": "Qacha's Nek",
+    "code": "ls.h",
+    "country": "ls"
+  },
+  {
+    "name": "Quthing",
+    "code": "ls.g",
+    "country": "ls"
+  },
+  {
+    "name": "Thaba-Tseka",
+    "code": "ls.k",
+    "country": "ls"
+  }
+]

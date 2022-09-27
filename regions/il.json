@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HaDarom",
+    "code": "il.d",
+    "country": "il"
+  },
+  {
+    "name": "HaMerkaz",
+    "code": "il.m",
+    "country": "il"
+  },
+  {
+    "name": "HaTsafon",
+    "code": "il.z",
+    "country": "il"
+  },
+  {
+    "name": "H̱efa",
+    "code": "il.ha",
+    "country": "il"
+  },
+  {
+    "name": "Tel-Aviv",
+    "code": "il.ta",
+    "country": "il"
+  },
+  {
+    "name": "Yerushalayim",
+    "code": "il.jm",
+    "country": "il"
+  }
+]

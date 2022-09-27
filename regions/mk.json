@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Aračinovo",
+    "code": "mk.02",
+    "country": "mk"
+  },
+  {
+    "name": "Berovo",
+    "code": "mk.03",
+    "country": "mk"
+  },
+  {
+    "name": "Bitola",
+    "code": "mk.04",
+    "country": "mk"
+  },
+  {
+    "name": "Bogdanci",
+    "code": "mk.05",
+    "country": "mk"
+  },
+  {
+    "name": "Bogovinje",
+    "code": "mk.06",
+    "country": "mk"
+  },
+  {
+    "name": "Bosilovo",
+    "code": "mk.07",
+    "country": "mk"
+  },
+  {
+    "name": "Brvenica",
+    "code": "mk.08",
+    "country": "mk"
+  },
+  {
+    "name": "Centar Župa",
+    "code": "mk.78",
+    "country": "mk"
+  },
+  {
+    "name": "Čaška",
+    "code": "mk.80",
+    "country": "mk"
+  },
+  {
+    "name": "Češinovo-Obleševo",
+    "code": "mk.81",
+    "country": "mk"
+  },
+  {
+    "name": "Čučer Sandevo",
+    "code": "mk.82",
+    "country": "mk"
+  },
+  {
+    "name": "Debar",
+    "code": "mk.21",
+    "country": "mk"
+  },
+  {
+    "name": "Debarca",
+    "code": "mk.22",
+    "country": "mk"
+  },
+  {
+    "name": "Delčevo",
+    "code": "mk.23",
+    "country": "mk"
+  },
+  {
+    "name": "Demir Hisar",
+    "code": "mk.25",
+    "country": "mk"
+  },
+  {
+    "name": "Demir Kapija",
+    "code": "mk.24",
+    "country": "mk"
+  },
+  {
+    "name": "Doran",
+    "code": "mk.26",
+    "country": "mk"
+  },
+  {
+    "name": "Dolneni",
+    "code": "mk.27",
+    "country": "mk"
+  },
+  {
+    "name": "Gevgelija",
+    "code": "mk.18",
+    "country": "mk"
+  },
+  {
+    "name": "Gostivar",
+    "code": "mk.19",
+    "country": "mk"
+  },
+  {
+    "name": "Gradsko",
+    "code": "mk.20",
+    "country": "mk"
+  },
+  {
+    "name": "Ilinden",
+    "code": "mk.34",
+    "country": "mk"
+  },
+  {
+    "name": "Jegunovce",
+    "code": "mk.35",
+    "country": "mk"
+  },
+  {
+    "name": "Karbinci",
+    "code": "mk.37",
+    "country": "mk"
+  },
+  {
+    "name": "Kavadarci",
+    "code": "mk.36",
+    "country": "mk"
+  },
+  {
+    "name": "Kičevo",
+    "code": "mk.40",
+    "country": "mk"
+  },
+  {
+    "name": "Kočani",
+    "code": "mk.42",
+    "country": "mk"
+  },
+  {
+    "name": "Konče",
+    "code": "mk.41",
+    "country": "mk"
+  },
+  {
+    "name": "Kratovo",
+    "code": "mk.43",
+    "country": "mk"
+  },
+  {
+    "name": "Kriva Palanka",
+    "code": "mk.44",
+    "country": "mk"
+  },
+  {
+    "name": "Krivogaštani",
+    "code": "mk.45",
+    "country": "mk"
+  },
+  {
+    "name": "Kruševo",
+    "code": "mk.46",
+    "country": "mk"
+  },
+  {
+    "name": "Kumanovo",
+    "code": "mk.47",
+    "country": "mk"
+  },
+  {
+    "name": "Lipkovo",
+    "code": "mk.48",
+    "country": "mk"
+  },
+  {
+    "name": "Lozovo",
+    "code": "mk.49",
+    "country": "mk"
+  },
+  {
+    "name": "Makedonska Kamenica",
+    "code": "mk.51",
+    "country": "mk"
+  },
+  {
+    "name": "Makedonski Brod",
+    "code": "mk.52",
+    "country": "mk"
+  },
+  {
+    "name": "Mavrovo i Rostuša",
+    "code": "mk.50",
+    "country": "mk"
+  },
+  {
+    "name": "Mogila",
+    "code": "mk.53",
+    "country": "mk"
+  },
+  {
+    "name": "Negotino",
+    "code": "mk.54",
+    "country": "mk"
+  },
+  {
+    "name": "Novaci",
+    "code": "mk.55",
+    "country": "mk"
+  },
+  {
+    "name": "Novo Selo",
+    "code": "mk.56",
+    "country": "mk"
+  },
+  {
+    "name": "Ohrid",
+    "code": "mk.58",
+    "country": "mk"
+  },
+  {
+    "name": "Pehčevo",
+    "code": "mk.60",
+    "country": "mk"
+  },
+  {
+    "name": "Petrovec",
+    "code": "mk.59",
+    "country": "mk"
+  },
+  {
+    "name": "Plasnica",
+    "code": "mk.61",
+    "country": "mk"
+  },
+  {
+    "name": "Prilep",
+    "code": "mk.62",
+    "country": "mk"
+  },
+  {
+    "name": "Probištip",
+    "code": "mk.63",
+    "country": "mk"
+  },
+  {
+    "name": "Rankovce",
+    "code": "mk.65",
+    "country": "mk"
+  },
+  {
+    "name": "Resen",
+    "code": "mk.66",
+    "country": "mk"
+  },
+  {
+    "name": "Rosoman",
+    "code": "mk.67",
+    "country": "mk"
+  },
+  {
+    "name": "Skopje",
+    "code": "mk.85",
+    "country": "mk"
+  },
+  {
+    "name": "Sopište",
+    "code": "mk.70",
+    "country": "mk"
+  },
+  {
+    "name": "Staro Nagoričane",
+    "code": "mk.71",
+    "country": "mk"
+  },
+  {
+    "name": "Struga",
+    "code": "mk.72",
+    "country": "mk"
+  },
+  {
+    "name": "Strumica",
+    "code": "mk.73",
+    "country": "mk"
+  },
+  {
+    "name": "Studeničani",
+    "code": "mk.74",
+    "country": "mk"
+  },
+  {
+    "name": "Sveti Nikole",
+    "code": "mk.69",
+    "country": "mk"
+  },
+  {
+    "name": "Štip",
+    "code": "mk.83",
+    "country": "mk"
+  },
+  {
+    "name": "Tearce",
+    "code": "mk.75",
+    "country": "mk"
+  },
+  {
+    "name": "Tetovo",
+    "code": "mk.76",
+    "country": "mk"
+  },
+  {
+    "name": "Valandovo",
+    "code": "mk.10",
+    "country": "mk"
+  },
+  {
+    "name": "Vasilevo",
+    "code": "mk.11",
+    "country": "mk"
+  },
+  {
+    "name": "Veles",
+    "code": "mk.13",
+    "country": "mk"
+  },
+  {
+    "name": "Vevčani",
+    "code": "mk.12",
+    "country": "mk"
+  },
+  {
+    "name": "Vinica",
+    "code": "mk.14",
+    "country": "mk"
+  },
+  {
+    "name": "Vrapčište",
+    "code": "mk.16",
+    "country": "mk"
+  },
+  {
+    "name": "Zelenikovo",
+    "code": "mk.32",
+    "country": "mk"
+  },
+  {
+    "name": "Zrnovci",
+    "code": "mk.33",
+    "country": "mk"
+  },
+  {
+    "name": "Želino",
+    "code": "mk.30",
+    "country": "mk"
+  }
+]

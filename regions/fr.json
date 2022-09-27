@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Auvergne-Rhône-Alpes",
+    "code": "fr.ara",
+    "country": "fr"
+  },
+  {
+    "name": "Bourgogne-Franche-Comté",
+    "code": "fr.bfc",
+    "country": "fr"
+  },
+  {
+    "name": "Bretagne",
+    "code": "fr.bre",
+    "country": "fr"
+  },
+  {
+    "name": "Centre-Val de Loire",
+    "code": "fr.cvl",
+    "country": "fr"
+  },
+  {
+    "name": "Corse",
+    "code": "fr.cor",
+    "country": "fr"
+  },
+  {
+    "name": "Grand Est",
+    "code": "fr.ges",
+    "country": "fr"
+  },
+  {
+    "name": "Hauts-de-France",
+    "code": "fr.hdf",
+    "country": "fr"
+  },
+  {
+    "name": "Île-de-France",
+    "code": "fr.idf",
+    "country": "fr"
+  },
+  {
+    "name": "Normandie",
+    "code": "fr.nor",
+    "country": "fr"
+  },
+  {
+    "name": "Nouvelle-Aquitaine",
+    "code": "fr.naq",
+    "country": "fr"
+  },
+  {
+    "name": "Occitanie",
+    "code": "fr.occ",
+    "country": "fr"
+  },
+  {
+    "name": "Pays de la Loire",
+    "code": "fr.pdl",
+    "country": "fr"
+  },
+  {
+    "name": "Provence-Alpes-Cote d'Azur",
+    "code": "fr.pac",
+    "country": "fr"
+  },
+  {
+    "name": "Clipperton",
+    "code": "fr.cp",
+    "country": "fr"
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "fr.gp",
+    "country": "fr"
+  },
+  {
+    "name": "Guyane",
+    "code": "fr.gf",
+    "country": "fr"
+  },
+  {
+    "name": "Martinique",
+    "code": "fr.mq",
+    "country": "fr"
+  },
+  {
+    "name": "Mayotte",
+    "code": "fr.yt",
+    "country": "fr"
+  },
+  {
+    "name": "Novelle-Calédonie",
+    "code": "fr.nc",
+    "country": "fr"
+  },
+  {
+    "name": "Polynésie",
+    "code": "fr.pf",
+    "country": "fr"
+  },
+  {
+    "name": "Saint-Pierre-et-Miquelon",
+    "code": "fr.pm",
+    "country": "fr"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "code": "fr.bl",
+    "country": "fr"
+  },
+  {
+    "name": "Saint Martin",
+    "code": "fr.mf",
+    "country": "fr"
+  },
+  {
+    "name": "Réunion",
+    "code": "fr.re",
+    "country": "fr"
+  },
+  {
+    "name": "Terres Australes Françaises",
+    "code": "fr.tf",
+    "country": "fr"
+  },
+  {
+    "name": "Wallis-et-Futuna",
+    "code": "fr.wf",
+    "country": "fr"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Adrar",
+    "code": "mr.07",
+    "country": "mr"
+  },
+  {
+    "name": "Assaba",
+    "code": "mr.03",
+    "country": "mr"
+  },
+  {
+    "name": "Brakna",
+    "code": "mr.05",
+    "country": "mr"
+  },
+  {
+    "name": "Dakhlet Nouadhibou",
+    "code": "mr.08",
+    "country": "mr"
+  },
+  {
+    "name": "Gorgol",
+    "code": "mr.04",
+    "country": "mr"
+  },
+  {
+    "name": "Guidimaka",
+    "code": "mr.10",
+    "country": "mr"
+  },
+  {
+    "name": "Hodh Ech Chargui",
+    "code": "mr.01",
+    "country": "mr"
+  },
+  {
+    "name": "Hodh El Gharbi",
+    "code": "mr.02",
+    "country": "mr"
+  },
+  {
+    "name": "Inchiri",
+    "code": "mr.12",
+    "country": "mr"
+  },
+  {
+    "name": "Nouakchott Nord",
+    "code": "mr.14",
+    "country": "mr"
+  },
+  {
+    "name": "Nouakchott Ouest",
+    "code": "mr.13",
+    "country": "mr"
+  },
+  {
+    "name": "Nouakchott Sud",
+    "code": "mr.15",
+    "country": "mr"
+  },
+  {
+    "name": "Tagant",
+    "code": "mr.09",
+    "country": "mr"
+  },
+  {
+    "name": "Tiris Zemmour",
+    "code": "mr.11",
+    "country": "mr"
+  },
+  {
+    "name": "Trarza",
+    "code": "mr.06",
+    "country": "mr"
+  }
+]

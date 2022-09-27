@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Blekinge",
+    "code": "se.k",
+    "country": "se"
+  },
+  {
+    "name": "Dalarna",
+    "code": "se.w",
+    "country": "se"
+  },
+  {
+    "name": "Gävleborg",
+    "code": "se.x",
+    "country": "se"
+  },
+  {
+    "name": "Gotland",
+    "code": "se.i",
+    "country": "se"
+  },
+  {
+    "name": "Halland",
+    "code": "se.n",
+    "country": "se"
+  },
+  {
+    "name": "Jämtland",
+    "code": "se.z",
+    "country": "se"
+  },
+  {
+    "name": "Jönköping",
+    "code": "se.f",
+    "country": "se"
+  },
+  {
+    "name": "Kalmar",
+    "code": "se.h",
+    "country": "se"
+  },
+  {
+    "name": "Kronoberg",
+    "code": "se.g",
+    "country": "se"
+  },
+  {
+    "name": "Norrbotten",
+    "code": "se.bd",
+    "country": "se"
+  },
+  {
+    "name": "Örebro",
+    "code": "se.t",
+    "country": "se"
+  },
+  {
+    "name": "Östergötland",
+    "code": "se.e",
+    "country": "se"
+  },
+  {
+    "name": "Skåne",
+    "code": "se.m",
+    "country": "se"
+  },
+  {
+    "name": "Södermanland",
+    "code": "se.d",
+    "country": "se"
+  },
+  {
+    "name": "Stockholm",
+    "code": "se.ab",
+    "country": "se"
+  },
+  {
+    "name": "Uppsala",
+    "code": "se.c",
+    "country": "se"
+  },
+  {
+    "name": "Värmland",
+    "code": "se.s",
+    "country": "se"
+  },
+  {
+    "name": "Västerbotten",
+    "code": "se.ac",
+    "country": "se"
+  },
+  {
+    "name": "Västernorrland",
+    "code": "se.y",
+    "country": "se"
+  },
+  {
+    "name": "Västmanland",
+    "code": "se.u",
+    "country": "se"
+  },
+  {
+    "name": "Västra Götaland",
+    "code": "se.o",
+    "country": "se"
+  }
+]

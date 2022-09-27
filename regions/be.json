@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Brussels",
+    "code": "be.bru",
+    "country": "be"
+  },
+  {
+    "name": "Flanders",
+    "code": "be.vlg",
+    "country": "be"
+  },
+  {
+    "name": "Wallonia",
+    "code": "be.wal",
+    "country": "be"
+  }
+]

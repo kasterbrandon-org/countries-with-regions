@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Funafuti",
+    "code": "tv.fun",
+    "country": "tv"
+  },
+  {
+    "name": "Nanumanga",
+    "code": "tv.nmg",
+    "country": "tv"
+  },
+  {
+    "name": "Nanumea",
+    "code": "tv.nma",
+    "country": "tv"
+  },
+  {
+    "name": "Niutao",
+    "code": "tv.nit",
+    "country": "tv"
+  },
+  {
+    "name": "Nui",
+    "code": "tv.nui",
+    "country": "tv"
+  },
+  {
+    "name": "Nukufetau",
+    "code": "tv.nkf",
+    "country": "tv"
+  },
+  {
+    "name": "Nukulaelae",
+    "code": "tv.nkl",
+    "country": "tv"
+  },
+  {
+    "name": "Vaitupu",
+    "code": "tv.vau",
+    "country": "tv"
+  }
+]

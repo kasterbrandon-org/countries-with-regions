@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Chang-hua",
+    "code": "tw.cha",
+    "country": "tw"
+  },
+  {
+    "name": "Chia-i",
+    "code": "tw.cyq",
+    "country": "tw"
+  },
+  {
+    "name": "Hsin-chu",
+    "code": "tw.hsq",
+    "country": "tw"
+  },
+  {
+    "name": "Hua-lien",
+    "code": "tw.hua",
+    "country": "tw"
+  },
+  {
+    "name": "Kao-hsiung",
+    "code": "tw.khh",
+    "country": "tw"
+  },
+  {
+    "name": "Keelung",
+    "code": "tw.kee",
+    "country": "tw"
+  },
+  {
+    "name": "Kinmen",
+    "code": "tw.kin",
+    "country": "tw"
+  },
+  {
+    "name": "Lienchiang",
+    "code": "tw.lie",
+    "country": "tw"
+  },
+  {
+    "name": "Miao-li",
+    "code": "tw.mia",
+    "country": "tw"
+  },
+  {
+    "name": "Nan-t'ou",
+    "code": "tw.nan",
+    "country": "tw"
+  },
+  {
+    "name": "P'eng-hu",
+    "code": "tw.pen",
+    "country": "tw"
+  },
+  {
+    "name": "New Taipei",
+    "code": "tw.nwt",
+    "country": "tw"
+  },
+  {
+    "name": "P'ing-tung",
+    "code": "tw.ping",
+    "country": "tw"
+  },
+  {
+    "name": "T'ai-chung",
+    "code": "tw.txg",
+    "country": "tw"
+  },
+  {
+    "name": "T'ai-nan",
+    "code": "tw.tnn",
+    "country": "tw"
+  },
+  {
+    "name": "T'ai-pei",
+    "code": "tw.tpe",
+    "country": "tw"
+  },
+  {
+    "name": "T'ai-tung",
+    "code": "tw.ttt",
+    "country": "tw"
+  },
+  {
+    "name": "T'ao-yuan",
+    "code": "tw.tao",
+    "country": "tw"
+  },
+  {
+    "name": "Yi-lan",
+    "code": "tw.ila",
+    "country": "tw"
+  },
+  {
+    "name": "Yun-lin",
+    "code": "tw.yun",
+    "country": "tw"
+  }
+]

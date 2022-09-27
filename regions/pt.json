@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Açores",
+    "code": "pt.20",
+    "country": "pt"
+  },
+  {
+    "name": "Aveiro",
+    "code": "pt.01",
+    "country": "pt"
+  },
+  {
+    "name": "Beja",
+    "code": "pt.02",
+    "country": "pt"
+  },
+  {
+    "name": "Braga",
+    "code": "pt.03",
+    "country": "pt"
+  },
+  {
+    "name": "Bragança",
+    "code": "pt.04",
+    "country": "pt"
+  },
+  {
+    "name": "Castelo Branco",
+    "code": "pt.05",
+    "country": "pt"
+  },
+  {
+    "name": "Coimbra",
+    "code": "pt.06",
+    "country": "pt"
+  },
+  {
+    "name": "Évora",
+    "code": "pt.07",
+    "country": "pt"
+  },
+  {
+    "name": "Faro",
+    "code": "pt.08",
+    "country": "pt"
+  },
+  {
+    "name": "Guarda",
+    "code": "pt.09",
+    "country": "pt"
+  },
+  {
+    "name": "Leiria",
+    "code": "pt.10",
+    "country": "pt"
+  },
+  {
+    "name": "Lisboa",
+    "code": "pt.11",
+    "country": "pt"
+  },
+  {
+    "name": "Madeira",
+    "code": "pt.30",
+    "country": "pt"
+  },
+  {
+    "name": "Portalegre",
+    "code": "pt.12",
+    "country": "pt"
+  },
+  {
+    "name": "Porto",
+    "code": "pt.13",
+    "country": "pt"
+  },
+  {
+    "name": "Santarém",
+    "code": "pt.14",
+    "country": "pt"
+  },
+  {
+    "name": "Setúbal",
+    "code": "pt.15",
+    "country": "pt"
+  },
+  {
+    "name": "Viana do Castelo",
+    "code": "pt.16",
+    "country": "pt"
+  },
+  {
+    "name": "Vila Real",
+    "code": "pt.17",
+    "country": "pt"
+  },
+  {
+    "name": "Viseu",
+    "code": "pt.18",
+    "country": "pt"
+  }
+]

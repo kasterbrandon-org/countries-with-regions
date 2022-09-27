@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Amazonas",
+    "code": "pe.ama",
+    "country": "pe"
+  },
+  {
+    "name": "Ancash",
+    "code": "pe.anc",
+    "country": "pe"
+  },
+  {
+    "name": "Apurimac",
+    "code": "pe.apu",
+    "country": "pe"
+  },
+  {
+    "name": "Arequipa",
+    "code": "pe.are",
+    "country": "pe"
+  },
+  {
+    "name": "Ayacucho",
+    "code": "pe.aya",
+    "country": "pe"
+  },
+  {
+    "name": "Cajamarca",
+    "code": "pe.caj",
+    "country": "pe"
+  },
+  {
+    "name": "Callao",
+    "code": "pe.cal",
+    "country": "pe"
+  },
+  {
+    "name": "Cusco",
+    "code": "pe.cus",
+    "country": "pe"
+  },
+  {
+    "name": "Huancavelica",
+    "code": "pe.huv",
+    "country": "pe"
+  },
+  {
+    "name": "Huanuco",
+    "code": "pe.huc",
+    "country": "pe"
+  },
+  {
+    "name": "Ica",
+    "code": "pe.ica",
+    "country": "pe"
+  },
+  {
+    "name": "Junin",
+    "code": "pe.jun",
+    "country": "pe"
+  },
+  {
+    "name": "La Libertad",
+    "code": "pe.lal",
+    "country": "pe"
+  },
+  {
+    "name": "Lambayeque",
+    "code": "pe.lam",
+    "country": "pe"
+  },
+  {
+    "name": "Lima",
+    "code": "pe.lim",
+    "country": "pe"
+  },
+  {
+    "name": "Loreto",
+    "code": "pe.lor",
+    "country": "pe"
+  },
+  {
+    "name": "Madre de Dios",
+    "code": "pe.mdd",
+    "country": "pe"
+  },
+  {
+    "name": "Moquegua",
+    "code": "pe.moq",
+    "country": "pe"
+  },
+  {
+    "name": "Municipalidad Metropolitana de Lima",
+    "code": "pe.lma",
+    "country": "pe"
+  },
+  {
+    "name": "Pasco",
+    "code": "pe.pas",
+    "country": "pe"
+  },
+  {
+    "name": "Piura",
+    "code": "pe.piu",
+    "country": "pe"
+  },
+  {
+    "name": "Puno",
+    "code": "pe.pun",
+    "country": "pe"
+  },
+  {
+    "name": "San Martin",
+    "code": "pe.sam",
+    "country": "pe"
+  },
+  {
+    "name": "Tacna",
+    "code": "pe.tac",
+    "country": "pe"
+  },
+  {
+    "name": "Tumbes",
+    "code": "pe.tum",
+    "country": "pe"
+  },
+  {
+    "name": "Ucayali",
+    "code": "pe.uca",
+    "country": "pe"
+  }
+]

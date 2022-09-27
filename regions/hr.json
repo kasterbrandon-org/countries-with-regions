@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Bjelovarsko-bilogorska županija",
+    "code": "hr.07",
+    "country": "hr"
+  },
+  {
+    "name": "Brodsko-posavska županija",
+    "code": "hr.12",
+    "country": "hr"
+  },
+  {
+    "name": "Dubrovačko-neretvanska županija",
+    "code": "hr.19",
+    "country": "hr"
+  },
+  {
+    "name": "Grad Zagreb",
+    "code": "hr.21",
+    "country": "hr"
+  },
+  {
+    "name": "Istarska županija",
+    "code": "hr.18",
+    "country": "hr"
+  },
+  {
+    "name": "Karlovačka županija",
+    "code": "hr.04",
+    "country": "hr"
+  },
+  {
+    "name": "Koprivničko-križevačka županija",
+    "code": "hr.06",
+    "country": "hr"
+  },
+  {
+    "name": "Krapinsko-zagorska županija",
+    "code": "hr.02",
+    "country": "hr"
+  },
+  {
+    "name": "Ličko-senjska županija",
+    "code": "hr.09",
+    "country": "hr"
+  },
+  {
+    "name": "Međimurska županija",
+    "code": "hr.20",
+    "country": "hr"
+  },
+  {
+    "name": "Osječko-baranjska županija",
+    "code": "hr.14",
+    "country": "hr"
+  },
+  {
+    "name": "Požeško-slavonska županija",
+    "code": "hr.11",
+    "country": "hr"
+  },
+  {
+    "name": "Primorsko-goranska županija",
+    "code": "hr.08",
+    "country": "hr"
+  },
+  {
+    "name": "Sisačko-moslavačka županija",
+    "code": "hr.03",
+    "country": "hr"
+  },
+  {
+    "name": "Splitsko-dalmatinska županija",
+    "code": "hr.17",
+    "country": "hr"
+  },
+  {
+    "name": "Šibensko-kninska županija",
+    "code": "hr.15",
+    "country": "hr"
+  },
+  {
+    "name": "Varaždinska županija",
+    "code": "hr.05",
+    "country": "hr"
+  },
+  {
+    "name": "Virovitičko-podravska županija",
+    "code": "hr.10",
+    "country": "hr"
+  },
+  {
+    "name": "Vukovarsko-srijemska županija",
+    "code": "hr.16",
+    "country": "hr"
+  },
+  {
+    "name": "Zadarska županija",
+    "code": "hr.13",
+    "country": "hr"
+  },
+  {
+    "name": "Zagrebačka županija",
+    "code": "hr.01",
+    "country": "hr"
+  }
+]

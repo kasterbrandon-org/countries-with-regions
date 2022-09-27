@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Balzers",
+    "code": "li.01",
+    "country": "li"
+  },
+  {
+    "name": "Eschen",
+    "code": "li.02",
+    "country": "li"
+  },
+  {
+    "name": "Gamprin",
+    "code": "li.03",
+    "country": "li"
+  },
+  {
+    "name": "Mauren",
+    "code": "li.04",
+    "country": "li"
+  },
+  {
+    "name": "Planken",
+    "code": "li.05",
+    "country": "li"
+  },
+  {
+    "name": "Ruggell",
+    "code": "li.06",
+    "country": "li"
+  },
+  {
+    "name": "Schaan",
+    "code": "li.07",
+    "country": "li"
+  },
+  {
+    "name": "Schellenberg",
+    "code": "li.08",
+    "country": "li"
+  },
+  {
+    "name": "Triesen",
+    "code": "li.09",
+    "country": "li"
+  },
+  {
+    "name": "Triesenberg",
+    "code": "li.10",
+    "country": "li"
+  },
+  {
+    "name": "Vaduz",
+    "code": "li.11",
+    "country": "li"
+  }
+]

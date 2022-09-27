@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Ad Dakhiliyah",
+    "code": "om.da",
+    "country": "om"
+  },
+  {
+    "name": "Al Buraymi",
+    "code": "om.bu",
+    "country": "om"
+  },
+  {
+    "name": "Al Wusta",
+    "code": "om.wu",
+    "country": "om"
+  },
+  {
+    "name": "Az Zahirah",
+    "code": "om.za",
+    "country": "om"
+  },
+  {
+    "name": "Janub al Batinah",
+    "code": "om.bs",
+    "country": "om"
+  },
+  {
+    "name": "Janub ash Sharqiyah",
+    "code": "om.ss",
+    "country": "om"
+  },
+  {
+    "name": "Masqat",
+    "code": "om.ma",
+    "country": "om"
+  },
+  {
+    "name": "Musandam",
+    "code": "om.mu",
+    "country": "om"
+  },
+  {
+    "name": "Shamal al Batinah",
+    "code": "om.bj",
+    "country": "om"
+  },
+  {
+    "name": "Shamal ash Sharqiyah",
+    "code": "om.sj",
+    "country": "om"
+  },
+  {
+    "name": "Zufar",
+    "code": "om.zu",
+    "country": "om"
+  }
+]

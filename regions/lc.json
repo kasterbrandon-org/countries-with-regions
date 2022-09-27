@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Anse-la-Raye",
+    "code": "lc.01",
+    "country": "lc"
+  },
+  {
+    "name": "Canaries",
+    "code": "lc.12",
+    "country": "lc"
+  },
+  {
+    "name": "Castries",
+    "code": "lc.02",
+    "country": "lc"
+  },
+  {
+    "name": "Choiseul",
+    "code": "lc.03",
+    "country": "lc"
+  },
+  {
+    "name": "Dennery",
+    "code": "lc.05",
+    "country": "lc"
+  },
+  {
+    "name": "Gros Islet",
+    "code": "lc.06",
+    "country": "lc"
+  },
+  {
+    "name": "Laborie",
+    "code": "lc.07",
+    "country": "lc"
+  },
+  {
+    "name": "Micoud",
+    "code": "lc.08",
+    "country": "lc"
+  },
+  {
+    "name": "Soufriere",
+    "code": "lc.10",
+    "country": "lc"
+  },
+  {
+    "name": "Vieux Fort",
+    "code": "lc.11",
+    "country": "lc"
+  }
+]

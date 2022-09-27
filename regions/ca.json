@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Alberta",
+    "code": "ca.ab",
+    "country": "ca"
+  },
+  {
+    "name": "British Columbia",
+    "code": "ca.bc",
+    "country": "ca"
+  },
+  {
+    "name": "Manitoba",
+    "code": "ca.mb",
+    "country": "ca"
+  },
+  {
+    "name": "New Brunswick",
+    "code": "ca.nb",
+    "country": "ca"
+  },
+  {
+    "name": "Newfoundland and Labrador",
+    "code": "ca.nl",
+    "country": "ca"
+  },
+  {
+    "name": "Northwest Territories",
+    "code": "ca.nt",
+    "country": "ca"
+  },
+  {
+    "name": "Nova Scotia",
+    "code": "ca.ns",
+    "country": "ca"
+  },
+  {
+    "name": "Nunavut",
+    "code": "ca.nu",
+    "country": "ca"
+  },
+  {
+    "name": "Ontario",
+    "code": "ca.on",
+    "country": "ca"
+  },
+  {
+    "name": "Prince Edward Island",
+    "code": "ca.pe",
+    "country": "ca"
+  },
+  {
+    "name": "Quebec",
+    "code": "ca.qc",
+    "country": "ca"
+  },
+  {
+    "name": "Saskatchewan",
+    "code": "ca.sk",
+    "country": "ca"
+  },
+  {
+    "name": "Yukon",
+    "code": "ca.yt",
+    "country": "ca"
+  }
+]

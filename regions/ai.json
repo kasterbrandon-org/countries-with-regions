@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Anguilla",
+    "code": "ai.01",
+    "country": "ai"
+  },
+  {
+    "name": "Anguillita Island",
+    "code": "ai.02",
+    "country": "ai"
+  },
+  {
+    "name": "Blowing Rock",
+    "code": "ai.03",
+    "country": "ai"
+  },
+  {
+    "name": "Cove Cay",
+    "code": "ai.04",
+    "country": "ai"
+  },
+  {
+    "name": "Crocus Cay",
+    "code": "ai.05",
+    "country": "ai"
+  },
+  {
+    "name": "Deadman's Cay",
+    "code": "ai.06",
+    "country": "ai"
+  },
+  {
+    "name": "Dog Island",
+    "code": "ai.07",
+    "country": "ai"
+  },
+  {
+    "name": "East Cay",
+    "code": "ai.08",
+    "country": "ai"
+  },
+  {
+    "name": "Little Island",
+    "code": "ai.09",
+    "country": "ai"
+  },
+  {
+    "name": "Little Scrub Island",
+    "code": "ai.10",
+    "country": "ai"
+  },
+  {
+    "name": "Mid Cay",
+    "code": "ai.11",
+    "country": "ai"
+  },
+  {
+    "name": "North Cay",
+    "code": "ai.12",
+    "country": "ai"
+  },
+  {
+    "name": "Prickly Pear Cays",
+    "code": "ai.13",
+    "country": "ai"
+  },
+  {
+    "name": "Rabbit Island",
+    "code": "ai.14",
+    "country": "ai"
+  },
+  {
+    "name": "Sandy Island/Sand Island",
+    "code": "ai.15",
+    "country": "ai"
+  },
+  {
+    "name": "Scilly Cay",
+    "code": "ai.16",
+    "country": "ai"
+  },
+  {
+    "name": "Scrub Island",
+    "code": "ai.17",
+    "country": "ai"
+  },
+  {
+    "name": "Seal Island",
+    "code": "ai.18",
+    "country": "ai"
+  },
+  {
+    "name": "Sombrero/Hat Island",
+    "code": "ai.19",
+    "country": "ai"
+  },
+  {
+    "name": "South Cay",
+    "code": "ai.20",
+    "country": "ai"
+  },
+  {
+    "name": "South Wager Island",
+    "code": "ai.21",
+    "country": "ai"
+  },
+  {
+    "name": "West Cay",
+    "code": "ai.22",
+    "country": "ai"
+  }
+]

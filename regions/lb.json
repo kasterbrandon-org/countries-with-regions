@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aakkâr",
+    "code": "lb.ak",
+    "country": "lb"
+  },
+  {
+    "name": "Baalbelk-Hermel",
+    "code": "lb.bh",
+    "country": "lb"
+  },
+  {
+    "name": "Béqaa",
+    "code": "lb.bi",
+    "country": "lb"
+  },
+  {
+    "name": "Beyrouth",
+    "code": "lb.ba",
+    "country": "lb"
+  },
+  {
+    "name": "Liban-Nord",
+    "code": "lb.as",
+    "country": "lb"
+  },
+  {
+    "name": "Liban-Sud",
+    "code": "lb.ja",
+    "country": "lb"
+  },
+  {
+    "name": "Mont-Liban",
+    "code": "lb.jl",
+    "country": "lb"
+  },
+  {
+    "name": "Nabatîyé",
+    "code": "lb.na",
+    "country": "lb"
+  }
+]

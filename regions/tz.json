@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Arusha",
+    "code": "tz.01",
+    "country": "tz"
+  },
+  {
+    "name": "Coast",
+    "code": "tz.19",
+    "country": "tz"
+  },
+  {
+    "name": "Dar es Salaam",
+    "code": "tz.02",
+    "country": "tz"
+  },
+  {
+    "name": "Dodoma",
+    "code": "tz.03",
+    "country": "tz"
+  },
+  {
+    "name": "Iringa",
+    "code": "tz.04",
+    "country": "tz"
+  },
+  {
+    "name": "Kagera",
+    "code": "tz.05",
+    "country": "tz"
+  },
+  {
+    "name": "Kigoma",
+    "code": "tz.08",
+    "country": "tz"
+  },
+  {
+    "name": "Kilimanjaro",
+    "code": "tz.09",
+    "country": "tz"
+  },
+  {
+    "name": "Lindi",
+    "code": "tz.12",
+    "country": "tz"
+  },
+  {
+    "name": "Manyara",
+    "code": "tz.26",
+    "country": "tz"
+  },
+  {
+    "name": "Mara",
+    "code": "tz.13",
+    "country": "tz"
+  },
+  {
+    "name": "Mbeya",
+    "code": "tz.14",
+    "country": "tz"
+  },
+  {
+    "name": "Morogoro",
+    "code": "tz.16",
+    "country": "tz"
+  },
+  {
+    "name": "Mtwara",
+    "code": "tz.17",
+    "country": "tz"
+  },
+  {
+    "name": "Mwanza",
+    "code": "tz.18",
+    "country": "tz"
+  },
+  {
+    "name": "Pemba North",
+    "code": "tz.06",
+    "country": "tz"
+  },
+  {
+    "name": "Pemba South",
+    "code": "tz.10",
+    "country": "tz"
+  },
+  {
+    "name": "Rukwa",
+    "code": "tz.20",
+    "country": "tz"
+  },
+  {
+    "name": "Ruvuma",
+    "code": "tz.21",
+    "country": "tz"
+  },
+  {
+    "name": "Shinyanga",
+    "code": "tz.22",
+    "country": "tz"
+  },
+  {
+    "name": "Singida",
+    "code": "tz.23",
+    "country": "tz"
+  },
+  {
+    "name": "Tabora",
+    "code": "tz.24",
+    "country": "tz"
+  },
+  {
+    "name": "Tanga",
+    "code": "tz.25",
+    "country": "tz"
+  },
+  {
+    "name": "Zanzibar North",
+    "code": "tz.07",
+    "country": "tz"
+  },
+  {
+    "name": "Zanzibar Central/South",
+    "code": "tz.11",
+    "country": "tz"
+  },
+  {
+    "name": "Zanzibar Urban/West",
+    "code": "tz.15",
+    "country": "tz"
+  }
+]

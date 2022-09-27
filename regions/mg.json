@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Antananarivo",
+    "code": "mg.t",
+    "country": "mg"
+  },
+  {
+    "name": "Antsiranana",
+    "code": "mg.d",
+    "country": "mg"
+  },
+  {
+    "name": "Fianarantsoa",
+    "code": "mg.f",
+    "country": "mg"
+  },
+  {
+    "name": "Mahajanga",
+    "code": "mg.m",
+    "country": "mg"
+  },
+  {
+    "name": "Toamasina",
+    "code": "mg.a",
+    "country": "mg"
+  },
+  {
+    "name": "Toliara",
+    "code": "mg.u",
+    "country": "mg"
+  }
+]

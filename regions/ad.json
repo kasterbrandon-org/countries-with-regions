@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Andorra la Vella",
+    "code": "ad.07",
+    "country": "ad"
+  },
+  {
+    "name": "Canillo",
+    "code": "ad.02",
+    "country": "ad"
+  },
+  {
+    "name": "Encamp",
+    "code": "ad.03",
+    "country": "ad"
+  },
+  {
+    "name": "Escaldes-Engordany",
+    "code": "ad.08",
+    "country": "ad"
+  },
+  {
+    "name": "La Massana",
+    "code": "ad.04",
+    "country": "ad"
+  },
+  {
+    "name": "Ordino",
+    "code": "ad.05",
+    "country": "ad"
+  },
+  {
+    "name": "Sant Julià de Lòria",
+    "code": "ad.06",
+    "country": "ad"
+  }
+]

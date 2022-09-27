@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Ayeyarwady",
+    "code": "mm.07",
+    "country": "mm"
+  },
+  {
+    "name": "Bago",
+    "code": "mm.02",
+    "country": "mm"
+  },
+  {
+    "name": "Chin",
+    "code": "mm.14",
+    "country": "mm"
+  },
+  {
+    "name": "Kachin",
+    "code": "mm.11",
+    "country": "mm"
+  },
+  {
+    "name": "Kayah",
+    "code": "mm.12",
+    "country": "mm"
+  },
+  {
+    "name": "Kayin",
+    "code": "mm.13",
+    "country": "mm"
+  },
+  {
+    "name": "Magway",
+    "code": "mm.03",
+    "country": "mm"
+  },
+  {
+    "name": "Mandalay",
+    "code": "mm.04",
+    "country": "mm"
+  },
+  {
+    "name": "Mon",
+    "code": "mm.15",
+    "country": "mm"
+  },
+  {
+    "name": "Nay Pyi Taw",
+    "code": "mm.18",
+    "country": "mm"
+  },
+  {
+    "name": "Rakhine",
+    "code": "mm.16",
+    "country": "mm"
+  },
+  {
+    "name": "Sagaing",
+    "code": "mm.01",
+    "country": "mm"
+  },
+  {
+    "name": "Shan",
+    "code": "mm.17",
+    "country": "mm"
+  },
+  {
+    "name": "Tanintharyi",
+    "code": "mm.05",
+    "country": "mm"
+  },
+  {
+    "name": "Yangon",
+    "code": "mm.06",
+    "country": "mm"
+  }
+]

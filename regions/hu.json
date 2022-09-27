@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Bács-Kiskun",
+    "code": "hu.bk",
+    "country": "hu"
+  },
+  {
+    "name": "Baranya",
+    "code": "hu.ba",
+    "country": "hu"
+  },
+  {
+    "name": "Békés",
+    "code": "hu.be",
+    "country": "hu"
+  },
+  {
+    "name": "Békéscsaba",
+    "code": "hu.bc",
+    "country": "hu"
+  },
+  {
+    "name": "Borsod-Abauj-Zemplen",
+    "code": "hu.bz",
+    "country": "hu"
+  },
+  {
+    "name": "Budapest",
+    "code": "hu.bu",
+    "country": "hu"
+  },
+  {
+    "name": "Csongrád",
+    "code": "hu.cs",
+    "country": "hu"
+  },
+  {
+    "name": "Debrecen",
+    "code": "hu.de",
+    "country": "hu"
+  },
+  {
+    "name": "Dunaújváros",
+    "code": "hu.du",
+    "country": "hu"
+  },
+  {
+    "name": "Eger",
+    "code": "hu.eg",
+    "country": "hu"
+  },
+  {
+    "name": "Érd",
+    "code": "hu.er",
+    "country": "hu"
+  },
+  {
+    "name": "Fejér",
+    "code": "hu.fe",
+    "country": "hu"
+  },
+  {
+    "name": "Győr",
+    "code": "hu.gy",
+    "country": "hu"
+  },
+  {
+    "name": "Győr-Moson-Sopron",
+    "code": "hu.gs",
+    "country": "hu"
+  },
+  {
+    "name": "Hajdú-Bihar",
+    "code": "hu.hb",
+    "country": "hu"
+  },
+  {
+    "name": "Heves",
+    "code": "hu.he",
+    "country": "hu"
+  },
+  {
+    "name": "Hódmezővásárhely",
+    "code": "hu.hv",
+    "country": "hu"
+  },
+  {
+    "name": "Jász-Nagykun-Szolnok",
+    "code": "hu.n",
+    "country": "hu"
+  },
+  {
+    "name": "Kaposvár",
+    "code": "hu.kv",
+    "country": "hu"
+  },
+  {
+    "name": "Kecskemét",
+    "code": "hu.km",
+    "country": "hu"
+  },
+  {
+    "name": "Komárom-Esztergom",
+    "code": "hu.ke",
+    "country": "hu"
+  },
+  {
+    "name": "Miskolc",
+    "code": "hu.mi",
+    "country": "hu"
+  },
+  {
+    "name": "Nagykanizsa",
+    "code": "hu.nk",
+    "country": "hu"
+  },
+  {
+    "name": "Nógrád",
+    "code": "hu.no",
+    "country": "hu"
+  },
+  {
+    "name": "Nyíregyháza",
+    "code": "hu.ny",
+    "country": "hu"
+  },
+  {
+    "name": "Pécs",
+    "code": "hu.ps",
+    "country": "hu"
+  },
+  {
+    "name": "Pest",
+    "code": "hu.pe",
+    "country": "hu"
+  },
+  {
+    "name": "Salgótarján",
+    "code": "hu.st",
+    "country": "hu"
+  },
+  {
+    "name": "Somogy",
+    "code": "hu.so",
+    "country": "hu"
+  },
+  {
+    "name": "Sopron",
+    "code": "hu.sn",
+    "country": "hu"
+  },
+  {
+    "name": "Szabolcs-á-Bereg",
+    "code": "hu.sz",
+    "country": "hu"
+  },
+  {
+    "name": "Szeged",
+    "code": "hu.sd",
+    "country": "hu"
+  },
+  {
+    "name": "Székesfehérvár",
+    "code": "hu.sf",
+    "country": "hu"
+  },
+  {
+    "name": "Szekszárd",
+    "code": "hu.ss",
+    "country": "hu"
+  },
+  {
+    "name": "Szolnok",
+    "code": "hu.sk",
+    "country": "hu"
+  },
+  {
+    "name": "Szombathely",
+    "code": "hu.sh",
+    "country": "hu"
+  },
+  {
+    "name": "Tatabánya",
+    "code": "hu.tb",
+    "country": "hu"
+  },
+  {
+    "name": "Tolna",
+    "code": "hu.to",
+    "country": "hu"
+  },
+  {
+    "name": "Vas",
+    "code": "hu.va",
+    "country": "hu"
+  },
+  {
+    "name": "Veszprém",
+    "code": "hu.ve",
+    "country": "hu"
+  },
+  {
+    "name": "Veszprém (City)",
+    "code": "hu.vm",
+    "country": "hu"
+  },
+  {
+    "name": "Zala",
+    "code": "hu.za",
+    "country": "hu"
+  },
+  {
+    "name": "Zalaegerszeg",
+    "code": "hu.ze",
+    "country": "hu"
+  }
+]

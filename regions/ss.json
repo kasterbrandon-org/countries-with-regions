@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Central Equatoria",
+    "code": "ss.ce",
+    "country": "ss"
+  },
+  {
+    "name": "Eastern Equatoria",
+    "code": "ss.ee",
+    "country": "ss"
+  },
+  {
+    "name": "Jonglei",
+    "code": "ss.jg",
+    "country": "ss"
+  },
+  {
+    "name": "Lakes",
+    "code": "ss.lk",
+    "country": "ss"
+  },
+  {
+    "name": "Northern Bahr el Ghazal",
+    "code": "ss.bn",
+    "country": "ss"
+  },
+  {
+    "name": "Unity",
+    "code": "ss.uy",
+    "country": "ss"
+  },
+  {
+    "name": "Upper Nile",
+    "code": "ss.nu",
+    "country": "ss"
+  },
+  {
+    "name": "Warrap",
+    "code": "ss.wr",
+    "country": "ss"
+  },
+  {
+    "name": "Western Bahr el Ghazal",
+    "code": "ss.bw",
+    "country": "ss"
+  },
+  {
+    "name": "Western Equatoria",
+    "code": "ss.ew",
+    "country": "ss"
+  }
+]

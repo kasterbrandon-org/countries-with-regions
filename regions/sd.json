@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Al Bahr al Ahmar",
+    "code": "sd.rs",
+    "country": "sd"
+  },
+  {
+    "name": "Al Jazirah",
+    "code": "sd.gz",
+    "country": "sd"
+  },
+  {
+    "name": "Al Khartum",
+    "code": "sd.kh",
+    "country": "sd"
+  },
+  {
+    "name": "Al Qadarif",
+    "code": "sd.gd",
+    "country": "sd"
+  },
+  {
+    "name": "An Nil al Abyad",
+    "code": "sd.nw",
+    "country": "sd"
+  },
+  {
+    "name": "An Nil al Azraq",
+    "code": "sd.nb",
+    "country": "sd"
+  },
+  {
+    "name": "Ash Shamaliyah",
+    "code": "sd.no",
+    "country": "sd"
+  },
+  {
+    "name": "Gharb Darfur",
+    "code": "sd.dw",
+    "country": "sd"
+  },
+  {
+    "name": "Gharb Kurdufan",
+    "code": "sd.gk",
+    "country": "sd"
+  },
+  {
+    "name": "Janub Darfur",
+    "code": "sd.ds",
+    "country": "sd"
+  },
+  {
+    "name": "Janub Kurdufan",
+    "code": "sd.ks",
+    "country": "sd"
+  },
+  {
+    "name": "Kassala",
+    "code": "sd.ka",
+    "country": "sd"
+  },
+  {
+    "name": "Nahr an Nil",
+    "code": "sd.nr",
+    "country": "sd"
+  },
+  {
+    "name": "Shamal Darfur",
+    "code": "sd.dn",
+    "country": "sd"
+  },
+  {
+    "name": "Sharq Darfur",
+    "code": "sd.de",
+    "country": "sd"
+  },
+  {
+    "name": "Shiamal Kurdufan",
+    "code": "sd.kn",
+    "country": "sd"
+  },
+  {
+    "name": "Sinnar",
+    "code": "sd.si",
+    "country": "sd"
+  },
+  {
+    "name": "Wasat Darfur Zalinjay",
+    "code": "sd.dc",
+    "country": "sd"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ammochostos",
+    "code": "cy.04",
+    "country": "cy"
+  },
+  {
+    "name": "Keryneia",
+    "code": "cy.06",
+    "country": "cy"
+  },
+  {
+    "name": "Larnaka",
+    "code": "cy.03",
+    "country": "cy"
+  },
+  {
+    "name": "Lefkosia",
+    "code": "cy.01",
+    "country": "cy"
+  },
+  {
+    "name": "Lemesos",
+    "code": "cy.02",
+    "country": "cy"
+  },
+  {
+    "name": "Pafos",
+    "code": "cy.05",
+    "country": "cy"
+  }
+]

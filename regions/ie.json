@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Carlow",
+    "code": "ie.cw",
+    "country": "ie"
+  },
+  {
+    "name": "Cavan",
+    "code": "ie.cn",
+    "country": "ie"
+  },
+  {
+    "name": "Clare",
+    "code": "ie.ce",
+    "country": "ie"
+  },
+  {
+    "name": "Cork",
+    "code": "ie.co",
+    "country": "ie"
+  },
+  {
+    "name": "Donegal",
+    "code": "ie.dl",
+    "country": "ie"
+  },
+  {
+    "name": "Dublin",
+    "code": "ie.d",
+    "country": "ie"
+  },
+  {
+    "name": "Galway",
+    "code": "ie.g",
+    "country": "ie"
+  },
+  {
+    "name": "Kerry",
+    "code": "ie.ky",
+    "country": "ie"
+  },
+  {
+    "name": "Kildare",
+    "code": "ie.ke",
+    "country": "ie"
+  },
+  {
+    "name": "Kilkenny",
+    "code": "ie.kk",
+    "country": "ie"
+  },
+  {
+    "name": "Laois",
+    "code": "ie.ls",
+    "country": "ie"
+  },
+  {
+    "name": "Leitrim",
+    "code": "ie.lm",
+    "country": "ie"
+  },
+  {
+    "name": "Limerick",
+    "code": "ie.lk",
+    "country": "ie"
+  },
+  {
+    "name": "Longford",
+    "code": "ie.ld",
+    "country": "ie"
+  },
+  {
+    "name": "Louth",
+    "code": "ie.lh",
+    "country": "ie"
+  },
+  {
+    "name": "Mayo",
+    "code": "ie.mo",
+    "country": "ie"
+  },
+  {
+    "name": "Meath",
+    "code": "ie.mh",
+    "country": "ie"
+  },
+  {
+    "name": "Monaghan",
+    "code": "ie.mn",
+    "country": "ie"
+  },
+  {
+    "name": "Offaly",
+    "code": "ie.oy",
+    "country": "ie"
+  },
+  {
+    "name": "Roscommon",
+    "code": "ie.rn",
+    "country": "ie"
+  },
+  {
+    "name": "Sligo",
+    "code": "ie.so",
+    "country": "ie"
+  },
+  {
+    "name": "Tipperary",
+    "code": "ie.ta",
+    "country": "ie"
+  },
+  {
+    "name": "Waterford",
+    "code": "ie.wd",
+    "country": "ie"
+  },
+  {
+    "name": "Westmeath",
+    "code": "ie.wh",
+    "country": "ie"
+  },
+  {
+    "name": "Wexford",
+    "code": "ie.wx",
+    "country": "ie"
+  },
+  {
+    "name": "Wicklow",
+    "code": "ie.ww",
+    "country": "ie"
+  }
+]

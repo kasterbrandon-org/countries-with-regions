@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Alexandria",
+    "code": "eg.alx",
+    "country": "eg"
+  },
+  {
+    "name": "Aswan",
+    "code": "eg.asn",
+    "country": "eg"
+  },
+  {
+    "name": "Asyout",
+    "code": "eg.ast",
+    "country": "eg"
+  },
+  {
+    "name": "Bani Sueif",
+    "code": "eg.bns",
+    "country": "eg"
+  },
+  {
+    "name": "Beheira",
+    "code": "eg.bh",
+    "country": "eg"
+  },
+  {
+    "name": "Cairo",
+    "code": "eg.c",
+    "country": "eg"
+  },
+  {
+    "name": "Daqahlia",
+    "code": "eg.dk",
+    "country": "eg"
+  },
+  {
+    "name": "Dumiat",
+    "code": "eg.dt",
+    "country": "eg"
+  },
+  {
+    "name": "El Bahr El Ahmar",
+    "code": "eg.ba",
+    "country": "eg"
+  },
+  {
+    "name": "El Ismailia",
+    "code": "eg.is",
+    "country": "eg"
+  },
+  {
+    "name": "El Suez",
+    "code": "eg.suz",
+    "country": "eg"
+  },
+  {
+    "name": "El Wadi El Gedeed",
+    "code": "eg.wad",
+    "country": "eg"
+  },
+  {
+    "name": "Fayoum",
+    "code": "eg.fym",
+    "country": "eg"
+  },
+  {
+    "name": "Gharbia",
+    "code": "eg.gh",
+    "country": "eg"
+  },
+  {
+    "name": "Giza",
+    "code": "eg.gz",
+    "country": "eg"
+  },
+  {
+    "name": "Helwan",
+    "code": "eg.hu",
+    "country": "eg"
+  },
+  {
+    "name": "Kafr El Sheikh",
+    "code": "eg.kfs",
+    "country": "eg"
+  },
+  {
+    "name": "Luxor",
+    "code": "eg.lx",
+    "country": "eg"
+  },
+  {
+    "name": "Matrouh",
+    "code": "eg.mt",
+    "country": "eg"
+  },
+  {
+    "name": "Menia",
+    "code": "eg.mn",
+    "country": "eg"
+  },
+  {
+    "name": "Menofia",
+    "code": "eg.mnf",
+    "country": "eg"
+  },
+  {
+    "name": "North Sinai",
+    "code": "eg.sin",
+    "country": "eg"
+  },
+  {
+    "name": "Port Said",
+    "code": "eg.pts",
+    "country": "eg"
+  },
+  {
+    "name": "Qalubia",
+    "code": "eg.kb",
+    "country": "eg"
+  },
+  {
+    "name": "Qena",
+    "code": "eg.kn",
+    "country": "eg"
+  },
+  {
+    "name": "Sharqia",
+    "code": "eg.shr",
+    "country": "eg"
+  },
+  {
+    "name": "Sixth of October",
+    "code": "eg.su",
+    "country": "eg"
+  },
+  {
+    "name": "Sohag",
+    "code": "eg.shg",
+    "country": "eg"
+  },
+  {
+    "name": "South Sinai",
+    "code": "eg.js",
+    "country": "eg"
+  }
+]

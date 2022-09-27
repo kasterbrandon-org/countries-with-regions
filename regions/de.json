@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Baden-Württemberg",
+    "code": "de.bw",
+    "country": "de"
+  },
+  {
+    "name": "Bayern",
+    "code": "de.by",
+    "country": "de"
+  },
+  {
+    "name": "Berlin",
+    "code": "de.be",
+    "country": "de"
+  },
+  {
+    "name": "Brandenburg",
+    "code": "de.bb",
+    "country": "de"
+  },
+  {
+    "name": "Bremen",
+    "code": "de.hb",
+    "country": "de"
+  },
+  {
+    "name": "Hamburg",
+    "code": "de.hh",
+    "country": "de"
+  },
+  {
+    "name": "Hessen",
+    "code": "de.he",
+    "country": "de"
+  },
+  {
+    "name": "Mecklenburg-Vorpommern",
+    "code": "de.mv",
+    "country": "de"
+  },
+  {
+    "name": "Niedersachsen",
+    "code": "de.ni",
+    "country": "de"
+  },
+  {
+    "name": "Nordrhein-Westfalen",
+    "code": "de.nw",
+    "country": "de"
+  },
+  {
+    "name": "Rheinland-Pfalz",
+    "code": "de.rp",
+    "country": "de"
+  },
+  {
+    "name": "Saarland",
+    "code": "de.sl",
+    "country": "de"
+  },
+  {
+    "name": "Sachsen",
+    "code": "de.sn",
+    "country": "de"
+  },
+  {
+    "name": "Sachsen-Anhalt",
+    "code": "de.st",
+    "country": "de"
+  },
+  {
+    "name": "Schleswig-Holstein",
+    "code": "de.sh",
+    "country": "de"
+  },
+  {
+    "name": "Thüringen",
+    "code": "de.th",
+    "country": "de"
+  }
+]

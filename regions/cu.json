@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Artemisa",
+    "code": "cu.15",
+    "country": "cu"
+  },
+  {
+    "name": "Camagüey",
+    "code": "cu.09",
+    "country": "cu"
+  },
+  {
+    "name": "Ciego de Ávila",
+    "code": "cu.08",
+    "country": "cu"
+  },
+  {
+    "name": "Cienfuegos",
+    "code": "cu.06",
+    "country": "cu"
+  },
+  {
+    "name": "Granma",
+    "code": "cu.12",
+    "country": "cu"
+  },
+  {
+    "name": "Guantánamo",
+    "code": "cu.14",
+    "country": "cu"
+  },
+  {
+    "name": "Holguín",
+    "code": "cu.11",
+    "country": "cu"
+  },
+  {
+    "name": "Isla de la Juventud",
+    "code": "cu.99",
+    "country": "cu"
+  },
+  {
+    "name": "La Habana",
+    "code": "cu.03",
+    "country": "cu"
+  },
+  {
+    "name": "Las Tunas",
+    "code": "cu.10",
+    "country": "cu"
+  },
+  {
+    "name": "Matanzas",
+    "code": "cu.04",
+    "country": "cu"
+  },
+  {
+    "name": "Mayabeque",
+    "code": "cu.16",
+    "country": "cu"
+  },
+  {
+    "name": "Pinar del Río",
+    "code": "cu.01",
+    "country": "cu"
+  },
+  {
+    "name": "Sancti Spíritus",
+    "code": "cu.07",
+    "country": "cu"
+  },
+  {
+    "name": "Santiago de Cuba",
+    "code": "cu.13",
+    "country": "cu"
+  },
+  {
+    "name": "Villa Clara",
+    "code": "cu.05",
+    "country": "cu"
+  }
+]

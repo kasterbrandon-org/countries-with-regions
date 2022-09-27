@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Central",
+    "code": "sb.ce",
+    "country": "sb"
+  },
+  {
+    "name": "Choiseul",
+    "code": "sb.ch",
+    "country": "sb"
+  },
+  {
+    "name": "Guadalcanal",
+    "code": "sb.gu",
+    "country": "sb"
+  },
+  {
+    "name": "Honiara",
+    "code": "sb.ct",
+    "country": "sb"
+  },
+  {
+    "name": "Isabel",
+    "code": "sb.is",
+    "country": "sb"
+  },
+  {
+    "name": "Makira-Ulawa",
+    "code": "sb.mk",
+    "country": "sb"
+  },
+  {
+    "name": "Malaita",
+    "code": "sb.ml",
+    "country": "sb"
+  },
+  {
+    "name": "Rennell and Bellona",
+    "code": "sb.rb",
+    "country": "sb"
+  },
+  {
+    "name": "Temotu",
+    "code": "sb.te",
+    "country": "sb"
+  },
+  {
+    "name": "Western",
+    "code": "sb.we",
+    "country": "sb"
+  }
+]

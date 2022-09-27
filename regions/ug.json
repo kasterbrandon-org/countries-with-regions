@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Abim",
+    "code": "ug.317",
+    "country": "ug"
+  },
+  {
+    "name": "Adjumani",
+    "code": "ug.301",
+    "country": "ug"
+  },
+  {
+    "name": "Amolatar",
+    "code": "ug.314",
+    "country": "ug"
+  },
+  {
+    "name": "Amuria",
+    "code": "ug.216",
+    "country": "ug"
+  },
+  {
+    "name": "Amuru",
+    "code": "ug.319",
+    "country": "ug"
+  },
+  {
+    "name": "Apac",
+    "code": "ug.302",
+    "country": "ug"
+  },
+  {
+    "name": "Arua",
+    "code": "ug.303",
+    "country": "ug"
+  },
+  {
+    "name": "Budaka",
+    "code": "ug.217",
+    "country": "ug"
+  },
+  {
+    "name": "Bududa",
+    "code": "ug.223",
+    "country": "ug"
+  },
+  {
+    "name": "Bugiri",
+    "code": "ug.201",
+    "country": "ug"
+  },
+  {
+    "name": "Bukedea",
+    "code": "ug.224",
+    "country": "ug"
+  },
+  {
+    "name": "Bukwa",
+    "code": "ug.218",
+    "country": "ug"
+  },
+  {
+    "name": "Buliisa",
+    "code": "ug.419",
+    "country": "ug"
+  },
+  {
+    "name": "Bundibugyo",
+    "code": "ug.401",
+    "country": "ug"
+  },
+  {
+    "name": "Bushenyi",
+    "code": "ug.402",
+    "country": "ug"
+  },
+  {
+    "name": "Busia",
+    "code": "ug.202",
+    "country": "ug"
+  },
+  {
+    "name": "Butaleja",
+    "code": "ug.219",
+    "country": "ug"
+  },
+  {
+    "name": "Dokolo",
+    "code": "ug.318",
+    "country": "ug"
+  },
+  {
+    "name": "Gulu",
+    "code": "ug.304",
+    "country": "ug"
+  },
+  {
+    "name": "Hoima",
+    "code": "ug.403",
+    "country": "ug"
+  },
+  {
+    "name": "Ibanda",
+    "code": "ug.416",
+    "country": "ug"
+  },
+  {
+    "name": "Iganga",
+    "code": "ug.203",
+    "country": "ug"
+  },
+  {
+    "name": "Isingiro",
+    "code": "ug.417",
+    "country": "ug"
+  },
+  {
+    "name": "Jinja",
+    "code": "ug.204",
+    "country": "ug"
+  },
+  {
+    "name": "Kaabong",
+    "code": "ug.315",
+    "country": "ug"
+  },
+  {
+    "name": "Kabale",
+    "code": "ug.404",
+    "country": "ug"
+  },
+  {
+    "name": "Kabarole",
+    "code": "ug.405",
+    "country": "ug"
+  },
+  {
+    "name": "Kaberamaido",
+    "code": "ug.213",
+    "country": "ug"
+  },
+  {
+    "name": "Kalangala",
+    "code": "ug.101",
+    "country": "ug"
+  },
+  {
+    "name": "Kaliro",
+    "code": "ug.220",
+    "country": "ug"
+  },
+  {
+    "name": "Kampala",
+    "code": "ug.102",
+    "country": "ug"
+  },
+  {
+    "name": "Kamuli",
+    "code": "ug.205",
+    "country": "ug"
+  },
+  {
+    "name": "Kamwenge",
+    "code": "ug.413",
+    "country": "ug"
+  },
+  {
+    "name": "Kanungu",
+    "code": "ug.414",
+    "country": "ug"
+  },
+  {
+    "name": "Kapchorwa",
+    "code": "ug.206",
+    "country": "ug"
+  },
+  {
+    "name": "Kasese",
+    "code": "ug.406",
+    "country": "ug"
+  },
+  {
+    "name": "Katakwi",
+    "code": "ug.207",
+    "country": "ug"
+  },
+  {
+    "name": "Kayunga",
+    "code": "ug.112",
+    "country": "ug"
+  },
+  {
+    "name": "Kibaale",
+    "code": "ug.407",
+    "country": "ug"
+  },
+  {
+    "name": "Kiboga",
+    "code": "ug.103",
+    "country": "ug"
+  },
+  {
+    "name": "Kiruhura",
+    "code": "ug.418",
+    "country": "ug"
+  },
+  {
+    "name": "Kisoro",
+    "code": "ug.408",
+    "country": "ug"
+  },
+  {
+    "name": "Kitgum",
+    "code": "ug.305",
+    "country": "ug"
+  },
+  {
+    "name": "Koboko",
+    "code": "ug.316",
+    "country": "ug"
+  },
+  {
+    "name": "Kotido",
+    "code": "ug.306",
+    "country": "ug"
+  },
+  {
+    "name": "Kumi",
+    "code": "ug.208",
+    "country": "ug"
+  },
+  {
+    "name": "Kyenjojo",
+    "code": "ug.415",
+    "country": "ug"
+  },
+  {
+    "name": "Lira",
+    "code": "ug.307",
+    "country": "ug"
+  },
+  {
+    "name": "Luwero",
+    "code": "ug.104",
+    "country": "ug"
+  },
+  {
+    "name": "Lyantonde",
+    "code": "ug.116",
+    "country": "ug"
+  },
+  {
+    "name": "Manafwa",
+    "code": "ug.221",
+    "country": "ug"
+  },
+  {
+    "name": "Maracha",
+    "code": "ug.320",
+    "country": "ug"
+  },
+  {
+    "name": "Masaka",
+    "code": "ug.105",
+    "country": "ug"
+  },
+  {
+    "name": "Masindi",
+    "code": "ug.409",
+    "country": "ug"
+  },
+  {
+    "name": "Mayuge",
+    "code": "ug.214",
+    "country": "ug"
+  },
+  {
+    "name": "Mbale",
+    "code": "ug.209",
+    "country": "ug"
+  },
+  {
+    "name": "Mbarara",
+    "code": "ug.410",
+    "country": "ug"
+  },
+  {
+    "name": "Mityana",
+    "code": "ug.114",
+    "country": "ug"
+  },
+  {
+    "name": "Moroto",
+    "code": "ug.308",
+    "country": "ug"
+  },
+  {
+    "name": "Moyo",
+    "code": "ug.309",
+    "country": "ug"
+  },
+  {
+    "name": "Mpigi",
+    "code": "ug.106",
+    "country": "ug"
+  },
+  {
+    "name": "Mubende",
+    "code": "ug.107",
+    "country": "ug"
+  },
+  {
+    "name": "Mukono",
+    "code": "ug.108",
+    "country": "ug"
+  },
+  {
+    "name": "Nakapiripirit",
+    "code": "ug.311",
+    "country": "ug"
+  },
+  {
+    "name": "Nakaseke",
+    "code": "ug.115",
+    "country": "ug"
+  },
+  {
+    "name": "Nakasongola",
+    "code": "ug.109",
+    "country": "ug"
+  },
+  {
+    "name": "Namutumba",
+    "code": "ug.222",
+    "country": "ug"
+  },
+  {
+    "name": "Nebbi",
+    "code": "ug.310",
+    "country": "ug"
+  },
+  {
+    "name": "Ntungamo",
+    "code": "ug.411",
+    "country": "ug"
+  },
+  {
+    "name": "Oyam",
+    "code": "ug.321",
+    "country": "ug"
+  },
+  {
+    "name": "Pader",
+    "code": "ug.312",
+    "country": "ug"
+  },
+  {
+    "name": "Pallisa",
+    "code": "ug.210",
+    "country": "ug"
+  },
+  {
+    "name": "Rakai",
+    "code": "ug.110",
+    "country": "ug"
+  },
+  {
+    "name": "Rukungiri",
+    "code": "ug.412",
+    "country": "ug"
+  },
+  {
+    "name": "Sembabule",
+    "code": "ug.111",
+    "country": "ug"
+  },
+  {
+    "name": "Sironko",
+    "code": "ug.215",
+    "country": "ug"
+  },
+  {
+    "name": "Soroti",
+    "code": "ug.211",
+    "country": "ug"
+  },
+  {
+    "name": "Tororo",
+    "code": "ug.212",
+    "country": "ug"
+  },
+  {
+    "name": "Wakiso",
+    "code": "ug.113",
+    "country": "ug"
+  },
+  {
+    "name": "Yumbe",
+    "code": "ug.313",
+    "country": "ug"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Alto Paraguay",
+    "code": "py.16",
+    "country": "py"
+  },
+  {
+    "name": "Alto Parana",
+    "code": "py.10",
+    "country": "py"
+  },
+  {
+    "name": "Amambay",
+    "code": "py.13",
+    "country": "py"
+  },
+  {
+    "name": "Asuncion",
+    "code": "py.asu",
+    "country": "py"
+  },
+  {
+    "name": "Caaguazu",
+    "code": "py.5",
+    "country": "py"
+  },
+  {
+    "name": "Caazapa",
+    "code": "py.6",
+    "country": "py"
+  },
+  {
+    "name": "Canindeyu",
+    "code": "py.14",
+    "country": "py"
+  },
+  {
+    "name": "Central",
+    "code": "py.11",
+    "country": "py"
+  },
+  {
+    "name": "Concepcion",
+    "code": "py.1",
+    "country": "py"
+  },
+  {
+    "name": "Cordillera",
+    "code": "py.3",
+    "country": "py"
+  },
+  {
+    "name": "Boqueron",
+    "code": "py.17",
+    "country": "py"
+  },
+  {
+    "name": "Guaira",
+    "code": "py.4",
+    "country": "py"
+  },
+  {
+    "name": "Itapua",
+    "code": "py.7",
+    "country": "py"
+  },
+  {
+    "name": "Misiones",
+    "code": "py.8",
+    "country": "py"
+  },
+  {
+    "name": "Neembucu",
+    "code": "py.12",
+    "country": "py"
+  },
+  {
+    "name": "Paraguari",
+    "code": "py.9",
+    "country": "py"
+  },
+  {
+    "name": "Presidente Hayes",
+    "code": "py.15",
+    "country": "py"
+  },
+  {
+    "name": "San Pedro",
+    "code": "py.2",
+    "country": "py"
+  }
+]

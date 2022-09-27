@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Basnahira",
+    "code": "lk.1",
+    "country": "lk"
+  },
+  {
+    "name": "Dakunu",
+    "code": "lk.3",
+    "country": "lk"
+  },
+  {
+    "name": "Madhyama",
+    "code": "lk.2",
+    "country": "lk"
+  },
+  {
+    "name": "Naegenahira",
+    "code": "lk.5",
+    "country": "lk"
+  },
+  {
+    "name": "Sabaragamuwa",
+    "code": "lk.9",
+    "country": "lk"
+  },
+  {
+    "name": "Uturu",
+    "code": "lk.4",
+    "country": "lk"
+  },
+  {
+    "name": "Uturumaeda",
+    "code": "lk.7",
+    "country": "lk"
+  },
+  {
+    "name": "Vayamba",
+    "code": "lk.6",
+    "country": "lk"
+  },
+  {
+    "name": "Uva",
+    "code": "lk.8",
+    "country": "lk"
+  }
+]

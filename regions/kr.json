@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Ch'ungch'ongbuk-do",
+    "code": "kr.43",
+    "country": "kr"
+  },
+  {
+    "name": "Ch'ungch'ongnam-do",
+    "code": "kr.44",
+    "country": "kr"
+  },
+  {
+    "name": "Cheju-do",
+    "code": "kr.49",
+    "country": "kr"
+  },
+  {
+    "name": "Chollabuk-do",
+    "code": "kr.45",
+    "country": "kr"
+  },
+  {
+    "name": "Chollanam-do",
+    "code": "kr.46",
+    "country": "kr"
+  },
+  {
+    "name": "Inch'on-Kwangyokhi",
+    "code": "kr.28",
+    "country": "kr"
+  },
+  {
+    "name": "Kang-won-do",
+    "code": "kr.42",
+    "country": "kr"
+  },
+  {
+    "name": "Kwangju-Kwangyokshi",
+    "code": "kr.29",
+    "country": "kr"
+  },
+  {
+    "name": "Kyonggi-do",
+    "code": "kr.41",
+    "country": "kr"
+  },
+  {
+    "name": "Kyongsangbuk-do",
+    "code": "kr.47",
+    "country": "kr"
+  },
+  {
+    "name": "Kyongsangnam-do",
+    "code": "kr.48",
+    "country": "kr"
+  },
+  {
+    "name": "Pusan-Kwangyokshi",
+    "code": "kr.26",
+    "country": "kr"
+  },
+  {
+    "name": "Seoul-T'ukpyolshi",
+    "code": "kr.11",
+    "country": "kr"
+  },
+  {
+    "name": "Sejong",
+    "code": "kr.50",
+    "country": "kr"
+  },
+  {
+    "name": "Taegu-Kwangyokshi",
+    "code": "kr.27",
+    "country": "kr"
+  },
+  {
+    "name": "Taejon-Kwangyokshi",
+    "code": "kr.30",
+    "country": "kr"
+  },
+  {
+    "name": "Ulsan-Kwangyokshi",
+    "code": "kr.31",
+    "country": "kr"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Bamako",
+    "code": "ml.bko",
+    "country": "ml"
+  },
+  {
+    "name": "Gao",
+    "code": "ml.7",
+    "country": "ml"
+  },
+  {
+    "name": "Kayes",
+    "code": "ml.1",
+    "country": "ml"
+  },
+  {
+    "name": "Kidal",
+    "code": "ml.8",
+    "country": "ml"
+  },
+  {
+    "name": "Koulikoro",
+    "code": "ml.2",
+    "country": "ml"
+  },
+  {
+    "name": "Mopti",
+    "code": "ml.5",
+    "country": "ml"
+  },
+  {
+    "name": "Segou",
+    "code": "ml.4",
+    "country": "ml"
+  },
+  {
+    "name": "Sikasso",
+    "code": "ml.3",
+    "country": "ml"
+  },
+  {
+    "name": "Tombouctou",
+    "code": "ml.6",
+    "country": "ml"
+  },
+  {
+    "name": "Taoudénit",
+    "code": "ml.9",
+    "country": "ml"
+  },
+  {
+    "name": "Ménaka",
+    "code": "ml.10",
+    "country": "ml"
+  }
+]

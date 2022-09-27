@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Abruzzo",
+    "code": "it.65",
+    "country": "it"
+  },
+  {
+    "name": "Basilicata",
+    "code": "it.77",
+    "country": "it"
+  },
+  {
+    "name": "Calabria",
+    "code": "it.78",
+    "country": "it"
+  },
+  {
+    "name": "Campania",
+    "code": "it.72",
+    "country": "it"
+  },
+  {
+    "name": "Emilia-Romagna",
+    "code": "it.45",
+    "country": "it"
+  },
+  {
+    "name": "Friuli-Venezia Giulia",
+    "code": "it.36",
+    "country": "it"
+  },
+  {
+    "name": "Lazio",
+    "code": "it.62",
+    "country": "it"
+  },
+  {
+    "name": "Liguria",
+    "code": "it.42",
+    "country": "it"
+  },
+  {
+    "name": "Lombardia",
+    "code": "it.25",
+    "country": "it"
+  },
+  {
+    "name": "Marche",
+    "code": "it.57",
+    "country": "it"
+  },
+  {
+    "name": "Molise",
+    "code": "it.67",
+    "country": "it"
+  },
+  {
+    "name": "Piemonte",
+    "code": "it.21",
+    "country": "it"
+  },
+  {
+    "name": "Puglia",
+    "code": "it.75",
+    "country": "it"
+  },
+  {
+    "name": "Sardegna",
+    "code": "it.88",
+    "country": "it"
+  },
+  {
+    "name": "Sicilia",
+    "code": "it.82",
+    "country": "it"
+  },
+  {
+    "name": "Toscana",
+    "code": "it.52",
+    "country": "it"
+  },
+  {
+    "name": "Trentino-Alto Adige",
+    "code": "it.32",
+    "country": "it"
+  },
+  {
+    "name": "Umbria",
+    "code": "it.55",
+    "country": "it"
+  },
+  {
+    "name": "Valle d'Aosta",
+    "code": "it.23",
+    "country": "it"
+  },
+  {
+    "name": "Veneto",
+    "code": "it.34",
+    "country": "it"
+  }
+]
